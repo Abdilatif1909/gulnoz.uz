@@ -1,0 +1,110 @@
+{% extends 'base.html' %}
+
+{% block title %}{{ company.name }} | Hududiy kooperatsiya{% endblock %}
+
+{% block content %}
+<section class="container">
+    <div class="d-flex flex-column flex-md-row justify-content-between align-items-md-center gap-3 mb-4">
+        <div>
+            <a href="{% url 'companies:list' %}" class="text-decoration-none small">&larr; Korxonalarga qaytish</a>
+            <h1 class="h2 fw-semibold mt-2 mb-1">{{ company.name }}</h1>
+            <div class="d-flex flex-wrap gap-2">
+                <span class="badge text-bg-primary">{{ company.region }}</span>
+                <span class="badge text-bg-light border">{{ company.industry }}</span>
+            </div>
+        </div>
+        {% if is_admin_role or company.owner_id == user.id %}
+            <div class="d-flex gap-2">
+                <a href="{% url 'companies:update' company.pk %}" class="btn btn-outline-primary">Tahrirlash</a>
+                <a href="{% url 'companies:delete' company.pk %}" class="btn btn-outline-danger">O'chirish</a>
+            </div>
+        {% endif %}
+    </div>
+
+    <div class="row g-4">
+        <div class="col-lg-4">
+            <div class="card border-0 shadow-sm">
+                <div class="card-body text-center">
+                    {% if company.logo %}
+                        <img src="{{ company.logo.url }}" alt="{{ company.name }} logo" class="img-fluid rounded border mb-3" style="max-height: 220px;">
+                    {% else %}
+                        <div class="rounded border bg-light d-flex align-items-center justify-content-center display-5 fw-semibold text-primary mx-auto mb-3" style="width: 160px; height: 160px;">
+                            {{ company.name|first }}
+                        </div>
+                    {% endif %}
+                    <h2 class="h5 mb-1">{{ company.name }}</h2>
+                    <p class="text-muted mb-0">{{ company.industry }}</p>
+                </div>
+            </div>
+        </div>
+        <div class="col-lg-8">
+            <div class="card border-0 shadow-sm mb-4">
+                <div class="card-header bg-white">
+                    <h2 class="h5 mb-0">Korxona ma'lumotlari</h2>
+                </div>
+                <div class="card-body">
+                    <div class="table-responsive">
+                        <table class="table align-middle mb-0">
+                            <tbody>
+                                <tr>
+                                    <th scope="row" class="text-muted fw-normal" style="width: 180px;">Hudud</th>
+                                    <td>{{ company.region }}</td>
+                                </tr>
+                                <tr>
+                                    <th scope="row" class="text-muted fw-normal">Sanoat sohasi</th>
+                                    <td>{{ company.industry }}</td>
+                                </tr>
+                                <tr>
+                                    <th scope="row" class="text-muted fw-normal">Direktor</th>
+                                    <td>{{ company.director }}</td>
+                                </tr>
+                                <tr>
+                                    <th scope="row" class="text-muted fw-normal">Yaratilgan</th>
+                                    <td>{{ company.created_at|date:"F j, Y" }}</td>
+                                </tr>
+                            </tbody>
+                        </table>
+                    </div>
+                </div>
+            </div>
+
+            <div class="card border-0 shadow-sm mb-4">
+                <div class="card-header bg-white">
+                    <h2 class="h5 mb-0">Aloqa ma'lumotlari</h2>
+                </div>
+                <div class="card-body">
+                    <div class="table-responsive">
+                        <table class="table align-middle mb-0">
+                            <tbody>
+                                <tr>
+                                    <th scope="row" class="text-muted fw-normal" style="width: 180px;">Telefon</th>
+                                    <td>{{ company.phone }}</td>
+                                </tr>
+                                <tr>
+                                    <th scope="row" class="text-muted fw-normal">Elektron pochta</th>
+                                    <td><a href="mailto:{{ company.email }}">{{ company.email }}</a></td>
+                                </tr>
+                                {% if company.website %}
+                                    <tr>
+                                        <th scope="row" class="text-muted fw-normal">Veb-sayt</th>
+                                        <td><a href="{{ company.website }}" target="_blank" rel="noopener">{{ company.website }}</a></td>
+                                    </tr>
+                                {% endif %}
+                            </tbody>
+                        </table>
+                    </div>
+                </div>
+            </div>
+
+            <div class="card border-0 shadow-sm">
+                <div class="card-header bg-white">
+                    <h2 class="h5 mb-0">Tavsif</h2>
+                </div>
+                <div class="card-body">
+                    <p class="mb-0">{{ company.description|linebreaksbr }}</p>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+{% endblock %}

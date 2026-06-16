@@ -1,0 +1,23 @@
+{% extends 'base.html' %}
+
+{% block title %}O'chirish {{ object.name }} | Hududiy kooperatsiya{% endblock %}
+
+{% block content %}
+<section class="container">
+    <div class="row justify-content-center">
+        <div class="col-lg-6">
+            <div class="card border-0 shadow-sm">
+                <div class="card-body">
+                    <h1 class="h3 fw-semibold mb-3">Korxonani o'chirish</h1>
+                    <p class="text-muted">Haqiqatan ham o'chirmoqchimisiz <strong>{{ object.name }}</strong>?</p>
+                    <form method="post" class="d-flex justify-content-end gap-2">
+                        {% csrf_token %}
+                        <a href="{% url 'companies:detail' object.pk %}" class="btn btn-outline-secondary">Bekor qilish</a>
+                        <button type="submit" class="btn btn-danger">O'chirish</button>
+                    </form>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+{% endblock %}

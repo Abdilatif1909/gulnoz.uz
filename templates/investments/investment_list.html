@@ -1,0 +1,143 @@
+{% extends 'base.html' %}
+
+{% block title %}Investitsiyalar | Hududiy kooperatsiya{% endblock %}
+{% block meta_description %}Find investment opportunities across manufacturing, agriculture, energy, IT, transport, and construction sectors.{% endblock %}
+{% block og_title %}Investitsiya imkoniyatlari | Hududiy sanoat kooperatsiyasi platformasi{% endblock %}
+{% block og_description %}Explore regional investment opportunities with ROI, talab qilinadi amount, period, and sector data.{% endblock %}
+
+{% block content %}
+<section class="container">
+    <div class="d-flex flex-column flex-md-row justify-content-between align-items-md-center gap-3 mb-4">
+        <div>
+            <h1 class="h2 fw-semibold mb-1">Investitsiyalar</h1>
+            <p class="text-muted mb-0">Hududiy korxonalar tomonidan e'lon qilingan investitsiya imkoniyatlari.</p>
+        </div>
+        <div class="d-flex flex-wrap gap-2">
+            <a href="{% url 'investments:export_csv' %}" class="btn btn-outline-success">CSV eksport</a>
+            {% if is_admin_role or is_company_role %}
+                <a href="{% url 'investments:create' %}" class="btn btn-primary">Investitsiya qo'shish</a>
+            {% endif %}
+        </div>
+    </div>
+
+    <form method="get" class="bg-white border rounded-3 p-3 mb-4">
+        <div class="row g-3 align-items-end">
+            <div class="col-lg-3">
+                <label for="search" class="form-label">Qidirish</label>
+                <input type="search" name="search" id="search" class="form-control" value="{{ search_query }}" placeholder="Nomi yoki korxona">
+            </div>
+            <div class="col-md-4 col-lg-3">
+                <label for="sector" class="form-label">Sektor</label>
+                <select name="sector" id="sector" class="form-select">
+                    <option value="">Barcha sektorlar</option>
+                    {% for sector in sectors %}
+                        <option value="{{ sector }}" {% if selected_sector == sector %}selected{% endif %}>{{ sector }}</option>
+                    {% endfor %}
+                </select>
+            </div>
+            <div class="col-md-4 col-lg-2">
+                <label for="region" class="form-label">Hudud</label>
+                <select name="region" id="region" class="form-select">
+                    <option value="">Barcha hududlar</option>
+                    {% for region in regions %}
+                        <option value="{{ region }}" {% if selected_region == region %}selected{% endif %}>{{ region }}</option>
+                    {% endfor %}
+                </select>
+            </div>
+            <div class="col-md-4 col-lg-2">
+                <label for="status" class="form-label">Holat</label>
+                <select name="status" id="status" class="form-select">
+                    <option value="">Barcha holatlar</option>
+                    {% for value, label in statuses %}
+                        <option value="{{ value }}" {% if selected_status == value %}selected{% endif %}>{{ label }}</option>
+                    {% endfor %}
+                </select>
+            </div>
+            <div class="col-lg-2 d-grid">
+                <button type="submit" class="btn btn-outline-primary">Filtrlash</button>
+            </div>
+        </div>
+    </form>
+
+    <div class="row g-4">
+        {% for investment in investments %}
+            <div class="col-md-6 col-xl-4">
+                <div class="card h-100 border-0 shadow-sm">
+                    <div class="card-body">
+                        <div class="d-flex justify-content-between align-items-start gap-3 mb-3">
+                            <span class="badge text-bg-light border">{{ investment.sector }}</span>
+                            {% if investment.status == 'open' %}
+                                <span class="badge text-bg-success">{{ investment.get_status_display }}</span>
+                            {% elif investment.status == 'funded' %}
+                                <span class="badge text-bg-primary">{{ investment.get_status_display }}</span>
+                            {% else %}
+                                <span class="badge text-bg-secondary">{{ investment.get_status_display }}</span>
+                            {% endif %}
+                        </div>
+                        <h2 class="h5 mb-2">
+                            <a href="{% url 'investments:detail' investment.pk %}" class="text-decoration-none">{{ investment.title }}</a>
+                        </h2>
+                        <p class="text-muted small mb-3">{{ investment.description|truncatewords:24 }}</p>
+                        <div class="d-flex flex-wrap gap-2 mb-3">
+                            <span class="badge text-bg-warning">{{ investment.expected_roi|floatformat:2 }}% ROI</span>
+                            <span class="badge text-bg-primary">${{ investment.required_amount|floatformat:2 }}</span>
+                        </div>
+                        <div class="table-responsive">
+                            <table class="table table-sm mb-0">
+                                <tbody>
+                                    <tr>
+                                        <th scope="row" class="text-muted fw-normal">Korxona</th>
+                                        <td>{{ investment.company.name }}</td>
+                                    </tr>
+                                    <tr>
+                                        <th scope="row" class="text-muted fw-normal">Hudud</th>
+                                        <td>{{ investment.region }}</td>
+                                    </tr>
+                                    <tr>
+                                        <th scope="row" class="text-muted fw-normal">Muddat</th>
+                                        <td>{{ investment.investment_period_oy }} oy</td>
+                                    </tr>
+                                </tbody>
+                            </table>
+                        </div>
+                    </div>
+                    <div class="card-footer bg-white border-0 pt-0">
+                        <a href="{% url 'investments:detail' investment.pk %}" class="btn btn-sm btn-outline-primary">Batafsil</a>
+                        {% if is_admin_role or investment.company.owner_id == user.id %}
+                            <a href="{% url 'investments:update' investment.pk %}" class="btn btn-sm btn-outline-secondary">Tahrirlash</a>
+                        {% endif %}
+                    </div>
+                </div>
+            </div>
+        {% empty %}
+            <div class="col-12">
+                <div class="bg-white border rounded-3 p-4 text-center text-muted">
+                    Investitsiya imkoniyatlari topilmadi.
+                </div>
+            </div>
+        {% endfor %}
+    </div>
+
+    {% if is_paginated %}
+        <nav class="mt-4" aria-label="Investitsiyalar sahifalanishi">
+            <ul class="pagination justify-content-center">
+                {% if page_obj.has_previous %}
+                    <li class="page-item">
+                        <a class="page-link" href="?{% if query_string %}{{ query_string }}&{% endif %}page={{ page_obj.previous_page_number }}">Oldingi</a>
+                    </li>
+                {% endif %}
+                {% for page_number in paginator.page_range %}
+                    <li class="page-item {% if page_obj.number == page_number %}active{% endif %}">
+                        <a class="page-link" href="?{% if query_string %}{{ query_string }}&{% endif %}page={{ page_number }}">{{ page_number }}</a>
+                    </li>
+                {% endfor %}
+                {% if page_obj.has_next %}
+                    <li class="page-item">
+                        <a class="page-link" href="?{% if query_string %}{{ query_string }}&{% endif %}page={{ page_obj.next_page_number }}">Keyingi</a>
+                    </li>
+                {% endif %}
+            </ul>
+        </nav>
+    {% endif %}
+</section>
+{% endblock %}

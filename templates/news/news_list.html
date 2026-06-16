@@ -1,0 +1,71 @@
+{% extends 'base.html' %}
+
+{% block title %}Yangiliklar | Hududiy kooperatsiya{% endblock %}
+{% block meta_description %}Read news about regional digitalization, industry, economy, investments, smart manufacturing, and AI.{% endblock %}
+{% block og_title %}Sanoat sohasi Yangiliklar | Hududiy sanoat kooperatsiyasi platformasi{% endblock %}
+{% block og_description %}Sanoat kooperatsiyasi, investitsiya, raqamlashtirish va hududiy rivojlanish bo'yicha so'nggi yangiliklar.{% endblock %}
+
+{% block content %}
+<section class="container">
+    <div class="d-flex flex-column flex-md-row justify-content-between align-items-md-center gap-3 mb-4">
+        <div>
+            <h1 class="h2 fw-semibold mb-1">Yangiliklar</h1>
+            <p class="text-muted mb-0">Raqamlashtirish, sanoat, investitsiyalar va hududiy iqtisodiyot bo'yicha yangiliklar.</p>
+        </div>
+        {% if user.is_authenticated %}
+            <a href="{% url 'news:create' %}" class="btn btn-primary">Yangilik qo'shish</a>
+        {% endif %}
+    </div>
+
+    <div class="row g-4">
+        {% for article in articles %}
+            <div class="col-md-6 col-xl-4">
+                <article class="card h-100 border-0 shadow-sm">
+                    {% if article.image %}
+                        <img src="{{ article.image.url }}" class="card-img-top object-fit-cover" alt="{{ article.title }}" style="height: 220px;">
+                    {% else %}
+                        <div class="card-img-top bg-primary-subtle d-flex align-items-center justify-content-center text-primary fw-semibold" style="height: 220px;">
+                            Hududiy kooperatsiya
+                        </div>
+                    {% endif %}
+                    <div class="card-body">
+                        <div class="small text-muted mb-2">{{ article.created_at|date:"F j, Y" }} muallif: {{ article.author }}</div>
+                        <h2 class="h5 mb-2">
+                            <a href="{% url 'news:detail' article.slug %}" class="text-decoration-none">{{ article.title }}</a>
+                        </h2>
+                        <p class="text-muted mb-0">{{ article.short_description|truncatewords:24 }}</p>
+                    </div>
+                    <div class="card-footer bg-white border-0 pt-0 d-flex justify-content-between align-items-center">
+                        <a href="{% url 'news:detail' article.slug %}" class="btn btn-sm btn-outline-primary">Batafsil</a>
+                        {% if user.is_authenticated and not article.is_published %}
+                            <span class="badge text-bg-secondary">Qoralama</span>
+                        {% endif %}
+                    </div>
+                </article>
+            </div>
+        {% empty %}
+            <div class="col-12">
+                <div class="bg-white border rounded-3 p-4 text-center text-muted">Yangiliklar topilmadi.</div>
+            </div>
+        {% endfor %}
+    </div>
+
+    {% if is_paginated %}
+        <nav class="mt-4" aria-label="Yangiliklar sahifalanishi">
+            <ul class="pagination justify-content-center">
+                {% if page_obj.has_previous %}
+                    <li class="page-item"><a class="page-link" href="?page={{ page_obj.previous_page_number }}">Oldingi</a></li>
+                {% endif %}
+                {% for page_number in paginator.page_range %}
+                    <li class="page-item {% if page_obj.number == page_number %}active{% endif %}">
+                        <a class="page-link" href="?page={{ page_number }}">{{ page_number }}</a>
+                    </li>
+                {% endfor %}
+                {% if page_obj.has_next %}
+                    <li class="page-item"><a class="page-link" href="?page={{ page_obj.next_page_number }}">Keyingi</a></li>
+                {% endif %}
+            </ul>
+        </nav>
+    {% endif %}
+</section>
+{% endblock %}

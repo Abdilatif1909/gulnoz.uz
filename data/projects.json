@@ -1,0 +1,3002 @@
+[
+  {
+    "title": "Andijan Agriculture Cooperation Project 001",
+    "category": "Agriculture",
+    "budget": "2145000.00",
+    "duration_months": 18,
+    "region": "Andijan",
+    "description": "Andijan Agriculture Cooperation Project 001 is designed to strengthen regional industrial cooperation, improve productivity, and connect enterprises with reliable partners.",
+    "requirements": "Participants should provide experience in agriculture, operational capacity, transparent documentation, and readiness for joint implementation.",
+    "status": "in_progress"
+  },
+  {
+    "title": "Namangan Logistics Expansion Project 002",
+    "category": "Logistics",
+    "budget": "455000.00",
+    "duration_months": 18,
+    "region": "Namangan",
+    "description": "Namangan Logistics Expansion Project 002 is designed to strengthen regional industrial cooperation, improve productivity, and connect enterprises with reliable partners.",
+    "requirements": "Participants should provide experience in logistics, operational capacity, transparent documentation, and readiness for joint implementation.",
+    "status": "completed"
+  },
+  {
+    "title": "Fergana IT Digitalization Project 003",
+    "category": "IT",
+    "budget": "425000.00",
+    "duration_months": 43,
+    "region": "Fergana",
+    "description": "Fergana IT Digitalization Project 003 is designed to strengthen regional industrial cooperation, improve productivity, and connect enterprises with reliable partners.",
+    "requirements": "Participants should provide experience in it, operational capacity, transparent documentation, and readiness for joint implementation.",
+    "status": "open"
+  },
+  {
+    "title": "Navoi Energy Supply Chain Project 004",
+    "category": "Energy",
+    "budget": "930000.00",
+    "duration_months": 45,
+    "region": "Navoi",
+    "description": "Navoi Energy Supply Chain Project 004 is designed to strengthen regional industrial cooperation, improve productivity, and connect enterprises with reliable partners.",
+    "requirements": "Participants should provide experience in energy, operational capacity, transparent documentation, and readiness for joint implementation.",
+    "status": "in_progress"
+  },
+  {
+    "title": "Khorezm Manufacturing Automation Project 005",
+    "category": "Manufacturing",
+    "budget": "870000.00",
+    "duration_months": 47,
+    "region": "Khorezm",
+    "description": "Khorezm Manufacturing Automation Project 005 is designed to strengthen regional industrial cooperation, improve productivity, and connect enterprises with reliable partners.",
+    "requirements": "Participants should provide experience in manufacturing, operational capacity, transparent documentation, and readiness for joint implementation.",
+    "status": "completed"
+  },
+  {
+    "title": "Kashkadarya Agriculture Export Development Project 006",
+    "category": "Agriculture",
+    "budget": "2380000.00",
+    "duration_months": 8,
+    "region": "Kashkadarya",
+    "description": "Kashkadarya Agriculture Export Development Project 006 is designed to strengthen regional industrial cooperation, improve productivity, and connect enterprises with reliable partners.",
+    "requirements": "Participants should provide experience in agriculture, operational capacity, transparent documentation, and readiness for joint implementation.",
+    "status": "open"
+  },
+  {
+    "title": "Surkhandarya Logistics Modernization Project 007",
+    "category": "Logistics",
+    "budget": "2385000.00",
+    "duration_months": 39,
+    "region": "Surkhandarya",
+    "description": "Surkhandarya Logistics Modernization Project 007 is designed to strengthen regional industrial cooperation, improve productivity, and connect enterprises with reliable partners.",
+    "requirements": "Participants should provide experience in logistics, operational capacity, transparent documentation, and readiness for joint implementation.",
+    "status": "in_progress"
+  },
+  {
+    "title": "Jizzakh IT Cooperation Project 008",
+    "category": "IT",
+    "budget": "265000.00",
+    "duration_months": 21,
+    "region": "Jizzakh",
+    "description": "Jizzakh IT Cooperation Project 008 is designed to strengthen regional industrial cooperation, improve productivity, and connect enterprises with reliable partners.",
+    "requirements": "Participants should provide experience in it, operational capacity, transparent documentation, and readiness for joint implementation.",
+    "status": "completed"
+  },
+  {
+    "title": "Syrdarya Energy Expansion Project 009",
+    "category": "Energy",
+    "budget": "860000.00",
+    "duration_months": 35,
+    "region": "Syrdarya",
+    "description": "Syrdarya Energy Expansion Project 009 is designed to strengthen regional industrial cooperation, improve productivity, and connect enterprises with reliable partners.",
+    "requirements": "Participants should provide experience in energy, operational capacity, transparent documentation, and readiness for joint implementation.",
+    "status": "open"
+  },
+  {
+    "title": "Karakalpakstan Manufacturing Digitalization Project 010",
+    "category": "Manufacturing",
+    "budget": "1780000.00",
+    "duration_months": 48,
+    "region": "Karakalpakstan",
+    "description": "Karakalpakstan Manufacturing Digitalization Project 010 is designed to strengthen regional industrial cooperation, improve productivity, and connect enterprises with reliable partners.",
+    "requirements": "Participants should provide experience in manufacturing, operational capacity, transparent documentation, and readiness for joint implementation.",
+    "status": "in_progress"
+  },
+  {
+    "title": "Tashkent Agriculture Supply Chain Project 011",
+    "category": "Agriculture",
+    "budget": "375000.00",
+    "duration_months": 44,
+    "region": "Tashkent",
+    "description": "Tashkent Agriculture Supply Chain Project 011 is designed to strengthen regional industrial cooperation, improve productivity, and connect enterprises with reliable partners.",
+    "requirements": "Participants should provide experience in agriculture, operational capacity, transparent documentation, and readiness for joint implementation.",
+    "status": "completed"
+  },
+  {
+    "title": "Samarkand Logistics Automation Project 012",
+    "category": "Logistics",
+    "budget": "950000.00",
+    "duration_months": 10,
+    "region": "Samarkand",
+    "description": "Samarkand Logistics Automation Project 012 is designed to strengthen regional industrial cooperation, improve productivity, and connect enterprises with reliable partners.",
+    "requirements": "Participants should provide experience in logistics, operational capacity, transparent documentation, and readiness for joint implementation.",
+    "status": "open"
+  },
+  {
+    "title": "Bukhara IT Export Development Project 013",
+    "category": "IT",
+    "budget": "2265000.00",
+    "duration_months": 43,
+    "region": "Bukhara",
+    "description": "Bukhara IT Export Development Project 013 is designed to strengthen regional industrial cooperation, improve productivity, and connect enterprises with reliable partners.",
+    "requirements": "Participants should provide experience in it, operational capacity, transparent documentation, and readiness for joint implementation.",
+    "status": "in_progress"
+  },
+  {
+    "title": "Andijan Energy Modernization Project 014",
+    "category": "Energy",
+    "budget": "2365000.00",
+    "duration_months": 25,
+    "region": "Andijan",
+    "description": "Andijan Energy Modernization Project 014 is designed to strengthen regional industrial cooperation, improve productivity, and connect enterprises with reliable partners.",
+    "requirements": "Participants should provide experience in energy, operational capacity, transparent documentation, and readiness for joint implementation.",
+    "status": "completed"
+  },
+  {
+    "title": "Namangan Manufacturing Cooperation Project 015",
+    "category": "Manufacturing",
+    "budget": "300000.00",
+    "duration_months": 19,
+    "region": "Namangan",
+    "description": "Namangan Manufacturing Cooperation Project 015 is designed to strengthen regional industrial cooperation, improve productivity, and connect enterprises with reliable partners.",
+    "requirements": "Participants should provide experience in manufacturing, operational capacity, transparent documentation, and readiness for joint implementation.",
+    "status": "open"
+  },
+  {
+    "title": "Fergana Agriculture Expansion Project 016",
+    "category": "Agriculture",
+    "budget": "820000.00",
+    "duration_months": 42,
+    "region": "Fergana",
+    "description": "Fergana Agriculture Expansion Project 016 is designed to strengthen regional industrial cooperation, improve productivity, and connect enterprises with reliable partners.",
+    "requirements": "Participants should provide experience in agriculture, operational capacity, transparent documentation, and readiness for joint implementation.",
+    "status": "in_progress"
+  },
+  {
+    "title": "Navoi Logistics Digitalization Project 017",
+    "category": "Logistics",
+    "budget": "290000.00",
+    "duration_months": 42,
+    "region": "Navoi",
+    "description": "Navoi Logistics Digitalization Project 017 is designed to strengthen regional industrial cooperation, improve productivity, and connect enterprises with reliable partners.",
+    "requirements": "Participants should provide experience in logistics, operational capacity, transparent documentation, and readiness for joint implementation.",
+    "status": "completed"
+  },
+  {
+    "title": "Khorezm IT Supply Chain Project 018",
+    "category": "IT",
+    "budget": "660000.00",
+    "duration_months": 46,
+    "region": "Khorezm",
+    "description": "Khorezm IT Supply Chain Project 018 is designed to strengthen regional industrial cooperation, improve productivity, and connect enterprises with reliable partners.",
+    "requirements": "Participants should provide experience in it, operational capacity, transparent documentation, and readiness for joint implementation.",
+    "status": "open"
+  },
+  {
+    "title": "Kashkadarya Energy Automation Project 019",
+    "category": "Energy",
+    "budget": "1730000.00",
+    "duration_months": 17,
+    "region": "Kashkadarya",
+    "description": "Kashkadarya Energy Automation Project 019 is designed to strengthen regional industrial cooperation, improve productivity, and connect enterprises with reliable partners.",
+    "requirements": "Participants should provide experience in energy, operational capacity, transparent documentation, and readiness for joint implementation.",
+    "status": "in_progress"
+  },
+  {
+    "title": "Surkhandarya Manufacturing Export Development Project 020",
+    "category": "Manufacturing",
+    "budget": "395000.00",
+    "duration_months": 34,
+    "region": "Surkhandarya",
+    "description": "Surkhandarya Manufacturing Export Development Project 020 is designed to strengthen regional industrial cooperation, improve productivity, and connect enterprises with reliable partners.",
+    "requirements": "Participants should provide experience in manufacturing, operational capacity, transparent documentation, and readiness for joint implementation.",
+    "status": "completed"
+  },
+  {
+    "title": "Jizzakh Agriculture Modernization Project 021",
+    "category": "Agriculture",
+    "budget": "1455000.00",
+    "duration_months": 10,
+    "region": "Jizzakh",
+    "description": "Jizzakh Agriculture Modernization Project 021 is designed to strengthen regional industrial cooperation, improve productivity, and connect enterprises with reliable partners.",
+    "requirements": "Participants should provide experience in agriculture, operational capacity, transparent documentation, and readiness for joint implementation.",
+    "status": "open"
+  },
+  {
+    "title": "Syrdarya Logistics Cooperation Project 022",
+    "category": "Logistics",
+    "budget": "2015000.00",
+    "duration_months": 33,
+    "region": "Syrdarya",
+    "description": "Syrdarya Logistics Cooperation Project 022 is designed to strengthen regional industrial cooperation, improve productivity, and connect enterprises with reliable partners.",
+    "requirements": "Participants should provide experience in logistics, operational capacity, transparent documentation, and readiness for joint implementation.",
+    "status": "in_progress"
+  },
+  {
+    "title": "Karakalpakstan IT Expansion Project 023",
+    "category": "IT",
+    "budget": "1395000.00",
+    "duration_months": 20,
+    "region": "Karakalpakstan",
+    "description": "Karakalpakstan IT Expansion Project 023 is designed to strengthen regional industrial cooperation, improve productivity, and connect enterprises with reliable partners.",
+    "requirements": "Participants should provide experience in it, operational capacity, transparent documentation, and readiness for joint implementation.",
+    "status": "completed"
+  },
+  {
+    "title": "Tashkent Energy Digitalization Project 024",
+    "category": "Energy",
+    "budget": "2455000.00",
+    "duration_months": 14,
+    "region": "Tashkent",
+    "description": "Tashkent Energy Digitalization Project 024 is designed to strengthen regional industrial cooperation, improve productivity, and connect enterprises with reliable partners.",
+    "requirements": "Participants should provide experience in energy, operational capacity, transparent documentation, and readiness for joint implementation.",
+    "status": "open"
+  },
+  {
+    "title": "Samarkand Manufacturing Supply Chain Project 025",
+    "category": "Manufacturing",
+    "budget": "1275000.00",
+    "duration_months": 32,
+    "region": "Samarkand",
+    "description": "Samarkand Manufacturing Supply Chain Project 025 is designed to strengthen regional industrial cooperation, improve productivity, and connect enterprises with reliable partners.",
+    "requirements": "Participants should provide experience in manufacturing, operational capacity, transparent documentation, and readiness for joint implementation.",
+    "status": "in_progress"
+  },
+  {
+    "title": "Bukhara Agriculture Automation Project 026",
+    "category": "Agriculture",
+    "budget": "1755000.00",
+    "duration_months": 15,
+    "region": "Bukhara",
+    "description": "Bukhara Agriculture Automation Project 026 is designed to strengthen regional industrial cooperation, improve productivity, and connect enterprises with reliable partners.",
+    "requirements": "Participants should provide experience in agriculture, operational capacity, transparent documentation, and readiness for joint implementation.",
+    "status": "completed"
+  },
+  {
+    "title": "Andijan Logistics Export Development Project 027",
+    "category": "Logistics",
+    "budget": "420000.00",
+    "duration_months": 36,
+    "region": "Andijan",
+    "description": "Andijan Logistics Export Development Project 027 is designed to strengthen regional industrial cooperation, improve productivity, and connect enterprises with reliable partners.",
+    "requirements": "Participants should provide experience in logistics, operational capacity, transparent documentation, and readiness for joint implementation.",
+    "status": "open"
+  },
+  {
+    "title": "Namangan IT Modernization Project 028",
+    "category": "IT",
+    "budget": "1450000.00",
+    "duration_months": 36,
+    "region": "Namangan",
+    "description": "Namangan IT Modernization Project 028 is designed to strengthen regional industrial cooperation, improve productivity, and connect enterprises with reliable partners.",
+    "requirements": "Participants should provide experience in it, operational capacity, transparent documentation, and readiness for joint implementation.",
+    "status": "in_progress"
+  },
+  {
+    "title": "Fergana Energy Cooperation Project 029",
+    "category": "Energy",
+    "budget": "2270000.00",
+    "duration_months": 17,
+    "region": "Fergana",
+    "description": "Fergana Energy Cooperation Project 029 is designed to strengthen regional industrial cooperation, improve productivity, and connect enterprises with reliable partners.",
+    "requirements": "Participants should provide experience in energy, operational capacity, transparent documentation, and readiness for joint implementation.",
+    "status": "completed"
+  },
+  {
+    "title": "Navoi Manufacturing Expansion Project 030",
+    "category": "Manufacturing",
+    "budget": "435000.00",
+    "duration_months": 42,
+    "region": "Navoi",
+    "description": "Navoi Manufacturing Expansion Project 030 is designed to strengthen regional industrial cooperation, improve productivity, and connect enterprises with reliable partners.",
+    "requirements": "Participants should provide experience in manufacturing, operational capacity, transparent documentation, and readiness for joint implementation.",
+    "status": "open"
+  },
+  {
+    "title": "Khorezm Agriculture Digitalization Project 031",
+    "category": "Agriculture",
+    "budget": "1550000.00",
+    "duration_months": 36,
+    "region": "Khorezm",
+    "description": "Khorezm Agriculture Digitalization Project 031 is designed to strengthen regional industrial cooperation, improve productivity, and connect enterprises with reliable partners.",
+    "requirements": "Participants should provide experience in agriculture, operational capacity, transparent documentation, and readiness for joint implementation.",
+    "status": "in_progress"
+  },
+  {
+    "title": "Kashkadarya Logistics Supply Chain Project 032",
+    "category": "Logistics",
+    "budget": "1250000.00",
+    "duration_months": 19,
+    "region": "Kashkadarya",
+    "description": "Kashkadarya Logistics Supply Chain Project 032 is designed to strengthen regional industrial cooperation, improve productivity, and connect enterprises with reliable partners.",
+    "requirements": "Participants should provide experience in logistics, operational capacity, transparent documentation, and readiness for joint implementation.",
+    "status": "completed"
+  },
+  {
+    "title": "Surkhandarya IT Automation Project 033",
+    "category": "IT",
+    "budget": "1410000.00",
+    "duration_months": 10,
+    "region": "Surkhandarya",
+    "description": "Surkhandarya IT Automation Project 033 is designed to strengthen regional industrial cooperation, improve productivity, and connect enterprises with reliable partners.",
+    "requirements": "Participants should provide experience in it, operational capacity, transparent documentation, and readiness for joint implementation.",
+    "status": "open"
+  },
+  {
+    "title": "Jizzakh Energy Export Development Project 034",
+    "category": "Energy",
+    "budget": "1100000.00",
+    "duration_months": 7,
+    "region": "Jizzakh",
+    "description": "Jizzakh Energy Export Development Project 034 is designed to strengthen regional industrial cooperation, improve productivity, and connect enterprises with reliable partners.",
+    "requirements": "Participants should provide experience in energy, operational capacity, transparent documentation, and readiness for joint implementation.",
+    "status": "in_progress"
+  },
+  {
+    "title": "Syrdarya Manufacturing Modernization Project 035",
+    "category": "Manufacturing",
+    "budget": "1060000.00",
+    "duration_months": 12,
+    "region": "Syrdarya",
+    "description": "Syrdarya Manufacturing Modernization Project 035 is designed to strengthen regional industrial cooperation, improve productivity, and connect enterprises with reliable partners.",
+    "requirements": "Participants should provide experience in manufacturing, operational capacity, transparent documentation, and readiness for joint implementation.",
+    "status": "completed"
+  },
+  {
+    "title": "Karakalpakstan Agriculture Cooperation Project 036",
+    "category": "Agriculture",
+    "budget": "2215000.00",
+    "duration_months": 24,
+    "region": "Karakalpakstan",
+    "description": "Karakalpakstan Agriculture Cooperation Project 036 is designed to strengthen regional industrial cooperation, improve productivity, and connect enterprises with reliable partners.",
+    "requirements": "Participants should provide experience in agriculture, operational capacity, transparent documentation, and readiness for joint implementation.",
+    "status": "open"
+  },
+  {
+    "title": "Tashkent Logistics Expansion Project 037",
+    "category": "Logistics",
+    "budget": "1915000.00",
+    "duration_months": 29,
+    "region": "Tashkent",
+    "description": "Tashkent Logistics Expansion Project 037 is designed to strengthen regional industrial cooperation, improve productivity, and connect enterprises with reliable partners.",
+    "requirements": "Participants should provide experience in logistics, operational capacity, transparent documentation, and readiness for joint implementation.",
+    "status": "in_progress"
+  },
+  {
+    "title": "Samarkand IT Digitalization Project 038",
+    "category": "IT",
+    "budget": "2180000.00",
+    "duration_months": 42,
+    "region": "Samarkand",
+    "description": "Samarkand IT Digitalization Project 038 is designed to strengthen regional industrial cooperation, improve productivity, and connect enterprises with reliable partners.",
+    "requirements": "Participants should provide experience in it, operational capacity, transparent documentation, and readiness for joint implementation.",
+    "status": "completed"
+  },
+  {
+    "title": "Bukhara Energy Supply Chain Project 039",
+    "category": "Energy",
+    "budget": "2400000.00",
+    "duration_months": 31,
+    "region": "Bukhara",
+    "description": "Bukhara Energy Supply Chain Project 039 is designed to strengthen regional industrial cooperation, improve productivity, and connect enterprises with reliable partners.",
+    "requirements": "Participants should provide experience in energy, operational capacity, transparent documentation, and readiness for joint implementation.",
+    "status": "open"
+  },
+  {
+    "title": "Andijan Manufacturing Automation Project 040",
+    "category": "Manufacturing",
+    "budget": "1875000.00",
+    "duration_months": 25,
+    "region": "Andijan",
+    "description": "Andijan Manufacturing Automation Project 040 is designed to strengthen regional industrial cooperation, improve productivity, and connect enterprises with reliable partners.",
+    "requirements": "Participants should provide experience in manufacturing, operational capacity, transparent documentation, and readiness for joint implementation.",
+    "status": "in_progress"
+  },
+  {
+    "title": "Namangan Agriculture Export Development Project 041",
+    "category": "Agriculture",
+    "budget": "370000.00",
+    "duration_months": 15,
+    "region": "Namangan",
+    "description": "Namangan Agriculture Export Development Project 041 is designed to strengthen regional industrial cooperation, improve productivity, and connect enterprises with reliable partners.",
+    "requirements": "Participants should provide experience in agriculture, operational capacity, transparent documentation, and readiness for joint implementation.",
+    "status": "completed"
+  },
+  {
+    "title": "Fergana Logistics Modernization Project 042",
+    "category": "Logistics",
+    "budget": "130000.00",
+    "duration_months": 25,
+    "region": "Fergana",
+    "description": "Fergana Logistics Modernization Project 042 is designed to strengthen regional industrial cooperation, improve productivity, and connect enterprises with reliable partners.",
+    "requirements": "Participants should provide experience in logistics, operational capacity, transparent documentation, and readiness for joint implementation.",
+    "status": "open"
+  },
+  {
+    "title": "Navoi IT Cooperation Project 043",
+    "category": "IT",
+    "budget": "1070000.00",
+    "duration_months": 23,
+    "region": "Navoi",
+    "description": "Navoi IT Cooperation Project 043 is designed to strengthen regional industrial cooperation, improve productivity, and connect enterprises with reliable partners.",
+    "requirements": "Participants should provide experience in it, operational capacity, transparent documentation, and readiness for joint implementation.",
+    "status": "in_progress"
+  },
+  {
+    "title": "Khorezm Energy Expansion Project 044",
+    "category": "Energy",
+    "budget": "1910000.00",
+    "duration_months": 18,
+    "region": "Khorezm",
+    "description": "Khorezm Energy Expansion Project 044 is designed to strengthen regional industrial cooperation, improve productivity, and connect enterprises with reliable partners.",
+    "requirements": "Participants should provide experience in energy, operational capacity, transparent documentation, and readiness for joint implementation.",
+    "status": "completed"
+  },
+  {
+    "title": "Kashkadarya Manufacturing Digitalization Project 045",
+    "category": "Manufacturing",
+    "budget": "1990000.00",
+    "duration_months": 47,
+    "region": "Kashkadarya",
+    "description": "Kashkadarya Manufacturing Digitalization Project 045 is designed to strengthen regional industrial cooperation, improve productivity, and connect enterprises with reliable partners.",
+    "requirements": "Participants should provide experience in manufacturing, operational capacity, transparent documentation, and readiness for joint implementation.",
+    "status": "open"
+  },
+  {
+    "title": "Surkhandarya Agriculture Supply Chain Project 046",
+    "category": "Agriculture",
+    "budget": "1000000.00",
+    "duration_months": 32,
+    "region": "Surkhandarya",
+    "description": "Surkhandarya Agriculture Supply Chain Project 046 is designed to strengthen regional industrial cooperation, improve productivity, and connect enterprises with reliable partners.",
+    "requirements": "Participants should provide experience in agriculture, operational capacity, transparent documentation, and readiness for joint implementation.",
+    "status": "in_progress"
+  },
+  {
+    "title": "Jizzakh Logistics Automation Project 047",
+    "category": "Logistics",
+    "budget": "2480000.00",
+    "duration_months": 30,
+    "region": "Jizzakh",
+    "description": "Jizzakh Logistics Automation Project 047 is designed to strengthen regional industrial cooperation, improve productivity, and connect enterprises with reliable partners.",
+    "requirements": "Participants should provide experience in logistics, operational capacity, transparent documentation, and readiness for joint implementation.",
+    "status": "completed"
+  },
+  {
+    "title": "Syrdarya IT Export Development Project 048",
+    "category": "IT",
+    "budget": "1355000.00",
+    "duration_months": 17,
+    "region": "Syrdarya",
+    "description": "Syrdarya IT Export Development Project 048 is designed to strengthen regional industrial cooperation, improve productivity, and connect enterprises with reliable partners.",
+    "requirements": "Participants should provide experience in it, operational capacity, transparent documentation, and readiness for joint implementation.",
+    "status": "open"
+  },
+  {
+    "title": "Karakalpakstan Energy Modernization Project 049",
+    "category": "Energy",
+    "budget": "610000.00",
+    "duration_months": 11,
+    "region": "Karakalpakstan",
+    "description": "Karakalpakstan Energy Modernization Project 049 is designed to strengthen regional industrial cooperation, improve productivity, and connect enterprises with reliable partners.",
+    "requirements": "Participants should provide experience in energy, operational capacity, transparent documentation, and readiness for joint implementation.",
+    "status": "in_progress"
+  },
+  {
+    "title": "Tashkent Manufacturing Cooperation Project 050",
+    "category": "Manufacturing",
+    "budget": "2145000.00",
+    "duration_months": 14,
+    "region": "Tashkent",
+    "description": "Tashkent Manufacturing Cooperation Project 050 is designed to strengthen regional industrial cooperation, improve productivity, and connect enterprises with reliable partners.",
+    "requirements": "Participants should provide experience in manufacturing, operational capacity, transparent documentation, and readiness for joint implementation.",
+    "status": "completed"
+  },
+  {
+    "title": "Samarkand Agriculture Expansion Project 051",
+    "category": "Agriculture",
+    "budget": "785000.00",
+    "duration_months": 30,
+    "region": "Samarkand",
+    "description": "Samarkand Agriculture Expansion Project 051 is designed to strengthen regional industrial cooperation, improve productivity, and connect enterprises with reliable partners.",
+    "requirements": "Participants should provide experience in agriculture, operational capacity, transparent documentation, and readiness for joint implementation.",
+    "status": "open"
+  },
+  {
+    "title": "Bukhara Logistics Digitalization Project 052",
+    "category": "Logistics",
+    "budget": "1100000.00",
+    "duration_months": 44,
+    "region": "Bukhara",
+    "description": "Bukhara Logistics Digitalization Project 052 is designed to strengthen regional industrial cooperation, improve productivity, and connect enterprises with reliable partners.",
+    "requirements": "Participants should provide experience in logistics, operational capacity, transparent documentation, and readiness for joint implementation.",
+    "status": "in_progress"
+  },
+  {
+    "title": "Andijan IT Supply Chain Project 053",
+    "category": "IT",
+    "budget": "180000.00",
+    "duration_months": 44,
+    "region": "Andijan",
+    "description": "Andijan IT Supply Chain Project 053 is designed to strengthen regional industrial cooperation, improve productivity, and connect enterprises with reliable partners.",
+    "requirements": "Participants should provide experience in it, operational capacity, transparent documentation, and readiness for joint implementation.",
+    "status": "completed"
+  },
+  {
+    "title": "Namangan Energy Automation Project 054",
+    "category": "Energy",
+    "budget": "1525000.00",
+    "duration_months": 18,
+    "region": "Namangan",
+    "description": "Namangan Energy Automation Project 054 is designed to strengthen regional industrial cooperation, improve productivity, and connect enterprises with reliable partners.",
+    "requirements": "Participants should provide experience in energy, operational capacity, transparent documentation, and readiness for joint implementation.",
+    "status": "open"
+  },
+  {
+    "title": "Fergana Manufacturing Export Development Project 055",
+    "category": "Manufacturing",
+    "budget": "2145000.00",
+    "duration_months": 43,
+    "region": "Fergana",
+    "description": "Fergana Manufacturing Export Development Project 055 is designed to strengthen regional industrial cooperation, improve productivity, and connect enterprises with reliable partners.",
+    "requirements": "Participants should provide experience in manufacturing, operational capacity, transparent documentation, and readiness for joint implementation.",
+    "status": "in_progress"
+  },
+  {
+    "title": "Navoi Agriculture Modernization Project 056",
+    "category": "Agriculture",
+    "budget": "660000.00",
+    "duration_months": 30,
+    "region": "Navoi",
+    "description": "Navoi Agriculture Modernization Project 056 is designed to strengthen regional industrial cooperation, improve productivity, and connect enterprises with reliable partners.",
+    "requirements": "Participants should provide experience in agriculture, operational capacity, transparent documentation, and readiness for joint implementation.",
+    "status": "completed"
+  },
+  {
+    "title": "Khorezm Logistics Cooperation Project 057",
+    "category": "Logistics",
+    "budget": "1150000.00",
+    "duration_months": 11,
+    "region": "Khorezm",
+    "description": "Khorezm Logistics Cooperation Project 057 is designed to strengthen regional industrial cooperation, improve productivity, and connect enterprises with reliable partners.",
+    "requirements": "Participants should provide experience in logistics, operational capacity, transparent documentation, and readiness for joint implementation.",
+    "status": "open"
+  },
+  {
+    "title": "Kashkadarya IT Expansion Project 058",
+    "category": "IT",
+    "budget": "575000.00",
+    "duration_months": 43,
+    "region": "Kashkadarya",
+    "description": "Kashkadarya IT Expansion Project 058 is designed to strengthen regional industrial cooperation, improve productivity, and connect enterprises with reliable partners.",
+    "requirements": "Participants should provide experience in it, operational capacity, transparent documentation, and readiness for joint implementation.",
+    "status": "in_progress"
+  },
+  {
+    "title": "Surkhandarya Energy Digitalization Project 059",
+    "category": "Energy",
+    "budget": "970000.00",
+    "duration_months": 44,
+    "region": "Surkhandarya",
+    "description": "Surkhandarya Energy Digitalization Project 059 is designed to strengthen regional industrial cooperation, improve productivity, and connect enterprises with reliable partners.",
+    "requirements": "Participants should provide experience in energy, operational capacity, transparent documentation, and readiness for joint implementation.",
+    "status": "completed"
+  },
+  {
+    "title": "Jizzakh Manufacturing Supply Chain Project 060",
+    "category": "Manufacturing",
+    "budget": "2470000.00",
+    "duration_months": 6,
+    "region": "Jizzakh",
+    "description": "Jizzakh Manufacturing Supply Chain Project 060 is designed to strengthen regional industrial cooperation, improve productivity, and connect enterprises with reliable partners.",
+    "requirements": "Participants should provide experience in manufacturing, operational capacity, transparent documentation, and readiness for joint implementation.",
+    "status": "open"
+  },
+  {
+    "title": "Syrdarya Agriculture Automation Project 061",
+    "category": "Agriculture",
+    "budget": "135000.00",
+    "duration_months": 13,
+    "region": "Syrdarya",
+    "description": "Syrdarya Agriculture Automation Project 061 is designed to strengthen regional industrial cooperation, improve productivity, and connect enterprises with reliable partners.",
+    "requirements": "Participants should provide experience in agriculture, operational capacity, transparent documentation, and readiness for joint implementation.",
+    "status": "in_progress"
+  },
+  {
+    "title": "Karakalpakstan Logistics Export Development Project 062",
+    "category": "Logistics",
+    "budget": "325000.00",
+    "duration_months": 12,
+    "region": "Karakalpakstan",
+    "description": "Karakalpakstan Logistics Export Development Project 062 is designed to strengthen regional industrial cooperation, improve productivity, and connect enterprises with reliable partners.",
+    "requirements": "Participants should provide experience in logistics, operational capacity, transparent documentation, and readiness for joint implementation.",
+    "status": "completed"
+  },
+  {
+    "title": "Tashkent IT Modernization Project 063",
+    "category": "IT",
+    "budget": "1225000.00",
+    "duration_months": 35,
+    "region": "Tashkent",
+    "description": "Tashkent IT Modernization Project 063 is designed to strengthen regional industrial cooperation, improve productivity, and connect enterprises with reliable partners.",
+    "requirements": "Participants should provide experience in it, operational capacity, transparent documentation, and readiness for joint implementation.",
+    "status": "open"
+  },
+  {
+    "title": "Samarkand Energy Cooperation Project 064",
+    "category": "Energy",
+    "budget": "1345000.00",
+    "duration_months": 24,
+    "region": "Samarkand",
+    "description": "Samarkand Energy Cooperation Project 064 is designed to strengthen regional industrial cooperation, improve productivity, and connect enterprises with reliable partners.",
+    "requirements": "Participants should provide experience in energy, operational capacity, transparent documentation, and readiness for joint implementation.",
+    "status": "in_progress"
+  },
+  {
+    "title": "Bukhara Manufacturing Expansion Project 065",
+    "category": "Manufacturing",
+    "budget": "1045000.00",
+    "duration_months": 18,
+    "region": "Bukhara",
+    "description": "Bukhara Manufacturing Expansion Project 065 is designed to strengthen regional industrial cooperation, improve productivity, and connect enterprises with reliable partners.",
+    "requirements": "Participants should provide experience in manufacturing, operational capacity, transparent documentation, and readiness for joint implementation.",
+    "status": "completed"
+  },
+  {
+    "title": "Andijan Agriculture Digitalization Project 066",
+    "category": "Agriculture",
+    "budget": "1200000.00",
+    "duration_months": 22,
+    "region": "Andijan",
+    "description": "Andijan Agriculture Digitalization Project 066 is designed to strengthen regional industrial cooperation, improve productivity, and connect enterprises with reliable partners.",
+    "requirements": "Participants should provide experience in agriculture, operational capacity, transparent documentation, and readiness for joint implementation.",
+    "status": "open"
+  },
+  {
+    "title": "Namangan Logistics Supply Chain Project 067",
+    "category": "Logistics",
+    "budget": "1400000.00",
+    "duration_months": 25,
+    "region": "Namangan",
+    "description": "Namangan Logistics Supply Chain Project 067 is designed to strengthen regional industrial cooperation, improve productivity, and connect enterprises with reliable partners.",
+    "requirements": "Participants should provide experience in logistics, operational capacity, transparent documentation, and readiness for joint implementation.",
+    "status": "in_progress"
+  },
+  {
+    "title": "Fergana IT Automation Project 068",
+    "category": "IT",
+    "budget": "2160000.00",
+    "duration_months": 7,
+    "region": "Fergana",
+    "description": "Fergana IT Automation Project 068 is designed to strengthen regional industrial cooperation, improve productivity, and connect enterprises with reliable partners.",
+    "requirements": "Participants should provide experience in it, operational capacity, transparent documentation, and readiness for joint implementation.",
+    "status": "completed"
+  },
+  {
+    "title": "Navoi Energy Export Development Project 069",
+    "category": "Energy",
+    "budget": "1380000.00",
+    "duration_months": 39,
+    "region": "Navoi",
+    "description": "Navoi Energy Export Development Project 069 is designed to strengthen regional industrial cooperation, improve productivity, and connect enterprises with reliable partners.",
+    "requirements": "Participants should provide experience in energy, operational capacity, transparent documentation, and readiness for joint implementation.",
+    "status": "open"
+  },
+  {
+    "title": "Khorezm Manufacturing Modernization Project 070",
+    "category": "Manufacturing",
+    "budget": "215000.00",
+    "duration_months": 8,
+    "region": "Khorezm",
+    "description": "Khorezm Manufacturing Modernization Project 070 is designed to strengthen regional industrial cooperation, improve productivity, and connect enterprises with reliable partners.",
+    "requirements": "Participants should provide experience in manufacturing, operational capacity, transparent documentation, and readiness for joint implementation.",
+    "status": "in_progress"
+  },
+  {
+    "title": "Kashkadarya Agriculture Cooperation Project 071",
+    "category": "Agriculture",
+    "budget": "2030000.00",
+    "duration_months": 34,
+    "region": "Kashkadarya",
+    "description": "Kashkadarya Agriculture Cooperation Project 071 is designed to strengthen regional industrial cooperation, improve productivity, and connect enterprises with reliable partners.",
+    "requirements": "Participants should provide experience in agriculture, operational capacity, transparent documentation, and readiness for joint implementation.",
+    "status": "completed"
+  },
+  {
+    "title": "Surkhandarya Logistics Expansion Project 072",
+    "category": "Logistics",
+    "budget": "1120000.00",
+    "duration_months": 42,
+    "region": "Surkhandarya",
+    "description": "Surkhandarya Logistics Expansion Project 072 is designed to strengthen regional industrial cooperation, improve productivity, and connect enterprises with reliable partners.",
+    "requirements": "Participants should provide experience in logistics, operational capacity, transparent documentation, and readiness for joint implementation.",
+    "status": "open"
+  },
+  {
+    "title": "Jizzakh IT Digitalization Project 073",
+    "category": "IT",
+    "budget": "360000.00",
+    "duration_months": 37,
+    "region": "Jizzakh",
+    "description": "Jizzakh IT Digitalization Project 073 is designed to strengthen regional industrial cooperation, improve productivity, and connect enterprises with reliable partners.",
+    "requirements": "Participants should provide experience in it, operational capacity, transparent documentation, and readiness for joint implementation.",
+    "status": "in_progress"
+  },
+  {
+    "title": "Syrdarya Energy Supply Chain Project 074",
+    "category": "Energy",
+    "budget": "1000000.00",
+    "duration_months": 33,
+    "region": "Syrdarya",
+    "description": "Syrdarya Energy Supply Chain Project 074 is designed to strengthen regional industrial cooperation, improve productivity, and connect enterprises with reliable partners.",
+    "requirements": "Participants should provide experience in energy, operational capacity, transparent documentation, and readiness for joint implementation.",
+    "status": "completed"
+  },
+  {
+    "title": "Karakalpakstan Manufacturing Automation Project 075",
+    "category": "Manufacturing",
+    "budget": "1205000.00",
+    "duration_months": 10,
+    "region": "Karakalpakstan",
+    "description": "Karakalpakstan Manufacturing Automation Project 075 is designed to strengthen regional industrial cooperation, improve productivity, and connect enterprises with reliable partners.",
+    "requirements": "Participants should provide experience in manufacturing, operational capacity, transparent documentation, and readiness for joint implementation.",
+    "status": "open"
+  },
+  {
+    "title": "Tashkent Agriculture Export Development Project 076",
+    "category": "Agriculture",
+    "budget": "1925000.00",
+    "duration_months": 25,
+    "region": "Tashkent",
+    "description": "Tashkent Agriculture Export Development Project 076 is designed to strengthen regional industrial cooperation, improve productivity, and connect enterprises with reliable partners.",
+    "requirements": "Participants should provide experience in agriculture, operational capacity, transparent documentation, and readiness for joint implementation.",
+    "status": "in_progress"
+  },
+  {
+    "title": "Samarkand Logistics Modernization Project 077",
+    "category": "Logistics",
+    "budget": "1205000.00",
+    "duration_months": 26,
+    "region": "Samarkand",
+    "description": "Samarkand Logistics Modernization Project 077 is designed to strengthen regional industrial cooperation, improve productivity, and connect enterprises with reliable partners.",
+    "requirements": "Participants should provide experience in logistics, operational capacity, transparent documentation, and readiness for joint implementation.",
+    "status": "completed"
+  },
+  {
+    "title": "Bukhara IT Cooperation Project 078",
+    "category": "IT",
+    "budget": "2380000.00",
+    "duration_months": 24,
+    "region": "Bukhara",
+    "description": "Bukhara IT Cooperation Project 078 is designed to strengthen regional industrial cooperation, improve productivity, and connect enterprises with reliable partners.",
+    "requirements": "Participants should provide experience in it, operational capacity, transparent documentation, and readiness for joint implementation.",
+    "status": "open"
+  },
+  {
+    "title": "Andijan Energy Expansion Project 079",
+    "category": "Energy",
+    "budget": "1820000.00",
+    "duration_months": 31,
+    "region": "Andijan",
+    "description": "Andijan Energy Expansion Project 079 is designed to strengthen regional industrial cooperation, improve productivity, and connect enterprises with reliable partners.",
+    "requirements": "Participants should provide experience in energy, operational capacity, transparent documentation, and readiness for joint implementation.",
+    "status": "in_progress"
+  },
+  {
+    "title": "Namangan Manufacturing Digitalization Project 080",
+    "category": "Manufacturing",
+    "budget": "590000.00",
+    "duration_months": 41,
+    "region": "Namangan",
+    "description": "Namangan Manufacturing Digitalization Project 080 is designed to strengthen regional industrial cooperation, improve productivity, and connect enterprises with reliable partners.",
+    "requirements": "Participants should provide experience in manufacturing, operational capacity, transparent documentation, and readiness for joint implementation.",
+    "status": "completed"
+  },
+  {
+    "title": "Fergana Agriculture Supply Chain Project 081",
+    "category": "Agriculture",
+    "budget": "1735000.00",
+    "duration_months": 15,
+    "region": "Fergana",
+    "description": "Fergana Agriculture Supply Chain Project 081 is designed to strengthen regional industrial cooperation, improve productivity, and connect enterprises with reliable partners.",
+    "requirements": "Participants should provide experience in agriculture, operational capacity, transparent documentation, and readiness for joint implementation.",
+    "status": "open"
+  },
+  {
+    "title": "Navoi Logistics Automation Project 082",
+    "category": "Logistics",
+    "budget": "2145000.00",
+    "duration_months": 12,
+    "region": "Navoi",
+    "description": "Navoi Logistics Automation Project 082 is designed to strengthen regional industrial cooperation, improve productivity, and connect enterprises with reliable partners.",
+    "requirements": "Participants should provide experience in logistics, operational capacity, transparent documentation, and readiness for joint implementation.",
+    "status": "in_progress"
+  },
+  {
+    "title": "Khorezm IT Export Development Project 083",
+    "category": "IT",
+    "budget": "1140000.00",
+    "duration_months": 24,
+    "region": "Khorezm",
+    "description": "Khorezm IT Export Development Project 083 is designed to strengthen regional industrial cooperation, improve productivity, and connect enterprises with reliable partners.",
+    "requirements": "Participants should provide experience in it, operational capacity, transparent documentation, and readiness for joint implementation.",
+    "status": "completed"
+  },
+  {
+    "title": "Kashkadarya Energy Modernization Project 084",
+    "category": "Energy",
+    "budget": "900000.00",
+    "duration_months": 40,
+    "region": "Kashkadarya",
+    "description": "Kashkadarya Energy Modernization Project 084 is designed to strengthen regional industrial cooperation, improve productivity, and connect enterprises with reliable partners.",
+    "requirements": "Participants should provide experience in energy, operational capacity, transparent documentation, and readiness for joint implementation.",
+    "status": "open"
+  },
+  {
+    "title": "Surkhandarya Manufacturing Cooperation Project 085",
+    "category": "Manufacturing",
+    "budget": "965000.00",
+    "duration_months": 40,
+    "region": "Surkhandarya",
+    "description": "Surkhandarya Manufacturing Cooperation Project 085 is designed to strengthen regional industrial cooperation, improve productivity, and connect enterprises with reliable partners.",
+    "requirements": "Participants should provide experience in manufacturing, operational capacity, transparent documentation, and readiness for joint implementation.",
+    "status": "in_progress"
+  },
+  {
+    "title": "Jizzakh Agriculture Expansion Project 086",
+    "category": "Agriculture",
+    "budget": "350000.00",
+    "duration_months": 27,
+    "region": "Jizzakh",
+    "description": "Jizzakh Agriculture Expansion Project 086 is designed to strengthen regional industrial cooperation, improve productivity, and connect enterprises with reliable partners.",
+    "requirements": "Participants should provide experience in agriculture, operational capacity, transparent documentation, and readiness for joint implementation.",
+    "status": "completed"
+  },
+  {
+    "title": "Syrdarya Logistics Digitalization Project 087",
+    "category": "Logistics",
+    "budget": "295000.00",
+    "duration_months": 43,
+    "region": "Syrdarya",
+    "description": "Syrdarya Logistics Digitalization Project 087 is designed to strengthen regional industrial cooperation, improve productivity, and connect enterprises with reliable partners.",
+    "requirements": "Participants should provide experience in logistics, operational capacity, transparent documentation, and readiness for joint implementation.",
+    "status": "open"
+  },
+  {
+    "title": "Karakalpakstan IT Supply Chain Project 088",
+    "category": "IT",
+    "budget": "990000.00",
+    "duration_months": 8,
+    "region": "Karakalpakstan",
+    "description": "Karakalpakstan IT Supply Chain Project 088 is designed to strengthen regional industrial cooperation, improve productivity, and connect enterprises with reliable partners.",
+    "requirements": "Participants should provide experience in it, operational capacity, transparent documentation, and readiness for joint implementation.",
+    "status": "in_progress"
+  },
+  {
+    "title": "Tashkent Energy Automation Project 089",
+    "category": "Energy",
+    "budget": "2270000.00",
+    "duration_months": 35,
+    "region": "Tashkent",
+    "description": "Tashkent Energy Automation Project 089 is designed to strengthen regional industrial cooperation, improve productivity, and connect enterprises with reliable partners.",
+    "requirements": "Participants should provide experience in energy, operational capacity, transparent documentation, and readiness for joint implementation.",
+    "status": "completed"
+  },
+  {
+    "title": "Samarkand Manufacturing Export Development Project 090",
+    "category": "Manufacturing",
+    "budget": "2020000.00",
+    "duration_months": 23,
+    "region": "Samarkand",
+    "description": "Samarkand Manufacturing Export Development Project 090 is designed to strengthen regional industrial cooperation, improve productivity, and connect enterprises with reliable partners.",
+    "requirements": "Participants should provide experience in manufacturing, operational capacity, transparent documentation, and readiness for joint implementation.",
+    "status": "open"
+  },
+  {
+    "title": "Bukhara Agriculture Modernization Project 091",
+    "category": "Agriculture",
+    "budget": "2050000.00",
+    "duration_months": 44,
+    "region": "Bukhara",
+    "description": "Bukhara Agriculture Modernization Project 091 is designed to strengthen regional industrial cooperation, improve productivity, and connect enterprises with reliable partners.",
+    "requirements": "Participants should provide experience in agriculture, operational capacity, transparent documentation, and readiness for joint implementation.",
+    "status": "in_progress"
+  },
+  {
+    "title": "Andijan Logistics Cooperation Project 092",
+    "category": "Logistics",
+    "budget": "2085000.00",
+    "duration_months": 17,
+    "region": "Andijan",
+    "description": "Andijan Logistics Cooperation Project 092 is designed to strengthen regional industrial cooperation, improve productivity, and connect enterprises with reliable partners.",
+    "requirements": "Participants should provide experience in logistics, operational capacity, transparent documentation, and readiness for joint implementation.",
+    "status": "completed"
+  },
+  {
+    "title": "Namangan IT Expansion Project 093",
+    "category": "IT",
+    "budget": "245000.00",
+    "duration_months": 29,
+    "region": "Namangan",
+    "description": "Namangan IT Expansion Project 093 is designed to strengthen regional industrial cooperation, improve productivity, and connect enterprises with reliable partners.",
+    "requirements": "Participants should provide experience in it, operational capacity, transparent documentation, and readiness for joint implementation.",
+    "status": "open"
+  },
+  {
+    "title": "Fergana Energy Digitalization Project 094",
+    "category": "Energy",
+    "budget": "2395000.00",
+    "duration_months": 9,
+    "region": "Fergana",
+    "description": "Fergana Energy Digitalization Project 094 is designed to strengthen regional industrial cooperation, improve productivity, and connect enterprises with reliable partners.",
+    "requirements": "Participants should provide experience in energy, operational capacity, transparent documentation, and readiness for joint implementation.",
+    "status": "in_progress"
+  },
+  {
+    "title": "Navoi Manufacturing Supply Chain Project 095",
+    "category": "Manufacturing",
+    "budget": "925000.00",
+    "duration_months": 32,
+    "region": "Navoi",
+    "description": "Navoi Manufacturing Supply Chain Project 095 is designed to strengthen regional industrial cooperation, improve productivity, and connect enterprises with reliable partners.",
+    "requirements": "Participants should provide experience in manufacturing, operational capacity, transparent documentation, and readiness for joint implementation.",
+    "status": "completed"
+  },
+  {
+    "title": "Khorezm Agriculture Automation Project 096",
+    "category": "Agriculture",
+    "budget": "2410000.00",
+    "duration_months": 20,
+    "region": "Khorezm",
+    "description": "Khorezm Agriculture Automation Project 096 is designed to strengthen regional industrial cooperation, improve productivity, and connect enterprises with reliable partners.",
+    "requirements": "Participants should provide experience in agriculture, operational capacity, transparent documentation, and readiness for joint implementation.",
+    "status": "open"
+  },
+  {
+    "title": "Kashkadarya Logistics Export Development Project 097",
+    "category": "Logistics",
+    "budget": "465000.00",
+    "duration_months": 45,
+    "region": "Kashkadarya",
+    "description": "Kashkadarya Logistics Export Development Project 097 is designed to strengthen regional industrial cooperation, improve productivity, and connect enterprises with reliable partners.",
+    "requirements": "Participants should provide experience in logistics, operational capacity, transparent documentation, and readiness for joint implementation.",
+    "status": "in_progress"
+  },
+  {
+    "title": "Surkhandarya IT Modernization Project 098",
+    "category": "IT",
+    "budget": "2000000.00",
+    "duration_months": 25,
+    "region": "Surkhandarya",
+    "description": "Surkhandarya IT Modernization Project 098 is designed to strengthen regional industrial cooperation, improve productivity, and connect enterprises with reliable partners.",
+    "requirements": "Participants should provide experience in it, operational capacity, transparent documentation, and readiness for joint implementation.",
+    "status": "completed"
+  },
+  {
+    "title": "Jizzakh Energy Cooperation Project 099",
+    "category": "Energy",
+    "budget": "915000.00",
+    "duration_months": 9,
+    "region": "Jizzakh",
+    "description": "Jizzakh Energy Cooperation Project 099 is designed to strengthen regional industrial cooperation, improve productivity, and connect enterprises with reliable partners.",
+    "requirements": "Participants should provide experience in energy, operational capacity, transparent documentation, and readiness for joint implementation.",
+    "status": "open"
+  },
+  {
+    "title": "Syrdarya Manufacturing Expansion Project 100",
+    "category": "Manufacturing",
+    "budget": "1665000.00",
+    "duration_months": 16,
+    "region": "Syrdarya",
+    "description": "Syrdarya Manufacturing Expansion Project 100 is designed to strengthen regional industrial cooperation, improve productivity, and connect enterprises with reliable partners.",
+    "requirements": "Participants should provide experience in manufacturing, operational capacity, transparent documentation, and readiness for joint implementation.",
+    "status": "in_progress"
+  },
+  {
+    "title": "Karakalpakstan Agriculture Digitalization Project 101",
+    "category": "Agriculture",
+    "budget": "1720000.00",
+    "duration_months": 19,
+    "region": "Karakalpakstan",
+    "description": "Karakalpakstan Agriculture Digitalization Project 101 is designed to strengthen regional industrial cooperation, improve productivity, and connect enterprises with reliable partners.",
+    "requirements": "Participants should provide experience in agriculture, operational capacity, transparent documentation, and readiness for joint implementation.",
+    "status": "completed"
+  },
+  {
+    "title": "Tashkent Logistics Supply Chain Project 102",
+    "category": "Logistics",
+    "budget": "1315000.00",
+    "duration_months": 19,
+    "region": "Tashkent",
+    "description": "Tashkent Logistics Supply Chain Project 102 is designed to strengthen regional industrial cooperation, improve productivity, and connect enterprises with reliable partners.",
+    "requirements": "Participants should provide experience in logistics, operational capacity, transparent documentation, and readiness for joint implementation.",
+    "status": "open"
+  },
+  {
+    "title": "Samarkand IT Automation Project 103",
+    "category": "IT",
+    "budget": "1035000.00",
+    "duration_months": 37,
+    "region": "Samarkand",
+    "description": "Samarkand IT Automation Project 103 is designed to strengthen regional industrial cooperation, improve productivity, and connect enterprises with reliable partners.",
+    "requirements": "Participants should provide experience in it, operational capacity, transparent documentation, and readiness for joint implementation.",
+    "status": "in_progress"
+  },
+  {
+    "title": "Bukhara Energy Export Development Project 104",
+    "category": "Energy",
+    "budget": "200000.00",
+    "duration_months": 41,
+    "region": "Bukhara",
+    "description": "Bukhara Energy Export Development Project 104 is designed to strengthen regional industrial cooperation, improve productivity, and connect enterprises with reliable partners.",
+    "requirements": "Participants should provide experience in energy, operational capacity, transparent documentation, and readiness for joint implementation.",
+    "status": "completed"
+  },
+  {
+    "title": "Andijan Manufacturing Modernization Project 105",
+    "category": "Manufacturing",
+    "budget": "2065000.00",
+    "duration_months": 33,
+    "region": "Andijan",
+    "description": "Andijan Manufacturing Modernization Project 105 is designed to strengthen regional industrial cooperation, improve productivity, and connect enterprises with reliable partners.",
+    "requirements": "Participants should provide experience in manufacturing, operational capacity, transparent documentation, and readiness for joint implementation.",
+    "status": "open"
+  },
+  {
+    "title": "Namangan Agriculture Cooperation Project 106",
+    "category": "Agriculture",
+    "budget": "1795000.00",
+    "duration_months": 19,
+    "region": "Namangan",
+    "description": "Namangan Agriculture Cooperation Project 106 is designed to strengthen regional industrial cooperation, improve productivity, and connect enterprises with reliable partners.",
+    "requirements": "Participants should provide experience in agriculture, operational capacity, transparent documentation, and readiness for joint implementation.",
+    "status": "in_progress"
+  },
+  {
+    "title": "Fergana Logistics Expansion Project 107",
+    "category": "Logistics",
+    "budget": "540000.00",
+    "duration_months": 35,
+    "region": "Fergana",
+    "description": "Fergana Logistics Expansion Project 107 is designed to strengthen regional industrial cooperation, improve productivity, and connect enterprises with reliable partners.",
+    "requirements": "Participants should provide experience in logistics, operational capacity, transparent documentation, and readiness for joint implementation.",
+    "status": "completed"
+  },
+  {
+    "title": "Navoi IT Digitalization Project 108",
+    "category": "IT",
+    "budget": "2290000.00",
+    "duration_months": 11,
+    "region": "Navoi",
+    "description": "Navoi IT Digitalization Project 108 is designed to strengthen regional industrial cooperation, improve productivity, and connect enterprises with reliable partners.",
+    "requirements": "Participants should provide experience in it, operational capacity, transparent documentation, and readiness for joint implementation.",
+    "status": "open"
+  },
+  {
+    "title": "Khorezm Energy Supply Chain Project 109",
+    "category": "Energy",
+    "budget": "655000.00",
+    "duration_months": 20,
+    "region": "Khorezm",
+    "description": "Khorezm Energy Supply Chain Project 109 is designed to strengthen regional industrial cooperation, improve productivity, and connect enterprises with reliable partners.",
+    "requirements": "Participants should provide experience in energy, operational capacity, transparent documentation, and readiness for joint implementation.",
+    "status": "in_progress"
+  },
+  {
+    "title": "Kashkadarya Manufacturing Automation Project 110",
+    "category": "Manufacturing",
+    "budget": "935000.00",
+    "duration_months": 40,
+    "region": "Kashkadarya",
+    "description": "Kashkadarya Manufacturing Automation Project 110 is designed to strengthen regional industrial cooperation, improve productivity, and connect enterprises with reliable partners.",
+    "requirements": "Participants should provide experience in manufacturing, operational capacity, transparent documentation, and readiness for joint implementation.",
+    "status": "completed"
+  },
+  {
+    "title": "Surkhandarya Agriculture Export Development Project 111",
+    "category": "Agriculture",
+    "budget": "1290000.00",
+    "duration_months": 17,
+    "region": "Surkhandarya",
+    "description": "Surkhandarya Agriculture Export Development Project 111 is designed to strengthen regional industrial cooperation, improve productivity, and connect enterprises with reliable partners.",
+    "requirements": "Participants should provide experience in agriculture, operational capacity, transparent documentation, and readiness for joint implementation.",
+    "status": "open"
+  },
+  {
+    "title": "Jizzakh Logistics Modernization Project 112",
+    "category": "Logistics",
+    "budget": "2305000.00",
+    "duration_months": 43,
+    "region": "Jizzakh",
+    "description": "Jizzakh Logistics Modernization Project 112 is designed to strengthen regional industrial cooperation, improve productivity, and connect enterprises with reliable partners.",
+    "requirements": "Participants should provide experience in logistics, operational capacity, transparent documentation, and readiness for joint implementation.",
+    "status": "in_progress"
+  },
+  {
+    "title": "Syrdarya IT Cooperation Project 113",
+    "category": "IT",
+    "budget": "1640000.00",
+    "duration_months": 45,
+    "region": "Syrdarya",
+    "description": "Syrdarya IT Cooperation Project 113 is designed to strengthen regional industrial cooperation, improve productivity, and connect enterprises with reliable partners.",
+    "requirements": "Participants should provide experience in it, operational capacity, transparent documentation, and readiness for joint implementation.",
+    "status": "completed"
+  },
+  {
+    "title": "Karakalpakstan Energy Expansion Project 114",
+    "category": "Energy",
+    "budget": "2400000.00",
+    "duration_months": 26,
+    "region": "Karakalpakstan",
+    "description": "Karakalpakstan Energy Expansion Project 114 is designed to strengthen regional industrial cooperation, improve productivity, and connect enterprises with reliable partners.",
+    "requirements": "Participants should provide experience in energy, operational capacity, transparent documentation, and readiness for joint implementation.",
+    "status": "open"
+  },
+  {
+    "title": "Tashkent Manufacturing Digitalization Project 115",
+    "category": "Manufacturing",
+    "budget": "135000.00",
+    "duration_months": 37,
+    "region": "Tashkent",
+    "description": "Tashkent Manufacturing Digitalization Project 115 is designed to strengthen regional industrial cooperation, improve productivity, and connect enterprises with reliable partners.",
+    "requirements": "Participants should provide experience in manufacturing, operational capacity, transparent documentation, and readiness for joint implementation.",
+    "status": "in_progress"
+  },
+  {
+    "title": "Samarkand Agriculture Supply Chain Project 116",
+    "category": "Agriculture",
+    "budget": "505000.00",
+    "duration_months": 43,
+    "region": "Samarkand",
+    "description": "Samarkand Agriculture Supply Chain Project 116 is designed to strengthen regional industrial cooperation, improve productivity, and connect enterprises with reliable partners.",
+    "requirements": "Participants should provide experience in agriculture, operational capacity, transparent documentation, and readiness for joint implementation.",
+    "status": "completed"
+  },
+  {
+    "title": "Bukhara Logistics Automation Project 117",
+    "category": "Logistics",
+    "budget": "965000.00",
+    "duration_months": 43,
+    "region": "Bukhara",
+    "description": "Bukhara Logistics Automation Project 117 is designed to strengthen regional industrial cooperation, improve productivity, and connect enterprises with reliable partners.",
+    "requirements": "Participants should provide experience in logistics, operational capacity, transparent documentation, and readiness for joint implementation.",
+    "status": "open"
+  },
+  {
+    "title": "Andijan IT Export Development Project 118",
+    "category": "IT",
+    "budget": "1175000.00",
+    "duration_months": 33,
+    "region": "Andijan",
+    "description": "Andijan IT Export Development Project 118 is designed to strengthen regional industrial cooperation, improve productivity, and connect enterprises with reliable partners.",
+    "requirements": "Participants should provide experience in it, operational capacity, transparent documentation, and readiness for joint implementation.",
+    "status": "in_progress"
+  },
+  {
+    "title": "Namangan Energy Modernization Project 119",
+    "category": "Energy",
+    "budget": "345000.00",
+    "duration_months": 41,
+    "region": "Namangan",
+    "description": "Namangan Energy Modernization Project 119 is designed to strengthen regional industrial cooperation, improve productivity, and connect enterprises with reliable partners.",
+    "requirements": "Participants should provide experience in energy, operational capacity, transparent documentation, and readiness for joint implementation.",
+    "status": "completed"
+  },
+  {
+    "title": "Fergana Manufacturing Cooperation Project 120",
+    "category": "Manufacturing",
+    "budget": "800000.00",
+    "duration_months": 40,
+    "region": "Fergana",
+    "description": "Fergana Manufacturing Cooperation Project 120 is designed to strengthen regional industrial cooperation, improve productivity, and connect enterprises with reliable partners.",
+    "requirements": "Participants should provide experience in manufacturing, operational capacity, transparent documentation, and readiness for joint implementation.",
+    "status": "open"
+  },
+  {
+    "title": "Navoi Agriculture Expansion Project 121",
+    "category": "Agriculture",
+    "budget": "305000.00",
+    "duration_months": 10,
+    "region": "Navoi",
+    "description": "Navoi Agriculture Expansion Project 121 is designed to strengthen regional industrial cooperation, improve productivity, and connect enterprises with reliable partners.",
+    "requirements": "Participants should provide experience in agriculture, operational capacity, transparent documentation, and readiness for joint implementation.",
+    "status": "in_progress"
+  },
+  {
+    "title": "Khorezm Logistics Digitalization Project 122",
+    "category": "Logistics",
+    "budget": "1725000.00",
+    "duration_months": 15,
+    "region": "Khorezm",
+    "description": "Khorezm Logistics Digitalization Project 122 is designed to strengthen regional industrial cooperation, improve productivity, and connect enterprises with reliable partners.",
+    "requirements": "Participants should provide experience in logistics, operational capacity, transparent documentation, and readiness for joint implementation.",
+    "status": "completed"
+  },
+  {
+    "title": "Kashkadarya IT Supply Chain Project 123",
+    "category": "IT",
+    "budget": "2470000.00",
+    "duration_months": 38,
+    "region": "Kashkadarya",
+    "description": "Kashkadarya IT Supply Chain Project 123 is designed to strengthen regional industrial cooperation, improve productivity, and connect enterprises with reliable partners.",
+    "requirements": "Participants should provide experience in it, operational capacity, transparent documentation, and readiness for joint implementation.",
+    "status": "open"
+  },
+  {
+    "title": "Surkhandarya Energy Automation Project 124",
+    "category": "Energy",
+    "budget": "835000.00",
+    "duration_months": 28,
+    "region": "Surkhandarya",
+    "description": "Surkhandarya Energy Automation Project 124 is designed to strengthen regional industrial cooperation, improve productivity, and connect enterprises with reliable partners.",
+    "requirements": "Participants should provide experience in energy, operational capacity, transparent documentation, and readiness for joint implementation.",
+    "status": "in_progress"
+  },
+  {
+    "title": "Jizzakh Manufacturing Export Development Project 125",
+    "category": "Manufacturing",
+    "budget": "1780000.00",
+    "duration_months": 45,
+    "region": "Jizzakh",
+    "description": "Jizzakh Manufacturing Export Development Project 125 is designed to strengthen regional industrial cooperation, improve productivity, and connect enterprises with reliable partners.",
+    "requirements": "Participants should provide experience in manufacturing, operational capacity, transparent documentation, and readiness for joint implementation.",
+    "status": "completed"
+  },
+  {
+    "title": "Syrdarya Agriculture Modernization Project 126",
+    "category": "Agriculture",
+    "budget": "865000.00",
+    "duration_months": 19,
+    "region": "Syrdarya",
+    "description": "Syrdarya Agriculture Modernization Project 126 is designed to strengthen regional industrial cooperation, improve productivity, and connect enterprises with reliable partners.",
+    "requirements": "Participants should provide experience in agriculture, operational capacity, transparent documentation, and readiness for joint implementation.",
+    "status": "open"
+  },
+  {
+    "title": "Karakalpakstan Logistics Cooperation Project 127",
+    "category": "Logistics",
+    "budget": "590000.00",
+    "duration_months": 42,
+    "region": "Karakalpakstan",
+    "description": "Karakalpakstan Logistics Cooperation Project 127 is designed to strengthen regional industrial cooperation, improve productivity, and connect enterprises with reliable partners.",
+    "requirements": "Participants should provide experience in logistics, operational capacity, transparent documentation, and readiness for joint implementation.",
+    "status": "in_progress"
+  },
+  {
+    "title": "Tashkent IT Expansion Project 128",
+    "category": "IT",
+    "budget": "670000.00",
+    "duration_months": 35,
+    "region": "Tashkent",
+    "description": "Tashkent IT Expansion Project 128 is designed to strengthen regional industrial cooperation, improve productivity, and connect enterprises with reliable partners.",
+    "requirements": "Participants should provide experience in it, operational capacity, transparent documentation, and readiness for joint implementation.",
+    "status": "completed"
+  },
+  {
+    "title": "Samarkand Energy Digitalization Project 129",
+    "category": "Energy",
+    "budget": "1425000.00",
+    "duration_months": 18,
+    "region": "Samarkand",
+    "description": "Samarkand Energy Digitalization Project 129 is designed to strengthen regional industrial cooperation, improve productivity, and connect enterprises with reliable partners.",
+    "requirements": "Participants should provide experience in energy, operational capacity, transparent documentation, and readiness for joint implementation.",
+    "status": "open"
+  },
+  {
+    "title": "Bukhara Manufacturing Supply Chain Project 130",
+    "category": "Manufacturing",
+    "budget": "130000.00",
+    "duration_months": 29,
+    "region": "Bukhara",
+    "description": "Bukhara Manufacturing Supply Chain Project 130 is designed to strengthen regional industrial cooperation, improve productivity, and connect enterprises with reliable partners.",
+    "requirements": "Participants should provide experience in manufacturing, operational capacity, transparent documentation, and readiness for joint implementation.",
+    "status": "in_progress"
+  },
+  {
+    "title": "Andijan Agriculture Automation Project 131",
+    "category": "Agriculture",
+    "budget": "2315000.00",
+    "duration_months": 44,
+    "region": "Andijan",
+    "description": "Andijan Agriculture Automation Project 131 is designed to strengthen regional industrial cooperation, improve productivity, and connect enterprises with reliable partners.",
+    "requirements": "Participants should provide experience in agriculture, operational capacity, transparent documentation, and readiness for joint implementation.",
+    "status": "completed"
+  },
+  {
+    "title": "Namangan Logistics Export Development Project 132",
+    "category": "Logistics",
+    "budget": "590000.00",
+    "duration_months": 31,
+    "region": "Namangan",
+    "description": "Namangan Logistics Export Development Project 132 is designed to strengthen regional industrial cooperation, improve productivity, and connect enterprises with reliable partners.",
+    "requirements": "Participants should provide experience in logistics, operational capacity, transparent documentation, and readiness for joint implementation.",
+    "status": "open"
+  },
+  {
+    "title": "Fergana IT Modernization Project 133",
+    "category": "IT",
+    "budget": "2035000.00",
+    "duration_months": 35,
+    "region": "Fergana",
+    "description": "Fergana IT Modernization Project 133 is designed to strengthen regional industrial cooperation, improve productivity, and connect enterprises with reliable partners.",
+    "requirements": "Participants should provide experience in it, operational capacity, transparent documentation, and readiness for joint implementation.",
+    "status": "in_progress"
+  },
+  {
+    "title": "Navoi Energy Cooperation Project 134",
+    "category": "Energy",
+    "budget": "1935000.00",
+    "duration_months": 15,
+    "region": "Navoi",
+    "description": "Navoi Energy Cooperation Project 134 is designed to strengthen regional industrial cooperation, improve productivity, and connect enterprises with reliable partners.",
+    "requirements": "Participants should provide experience in energy, operational capacity, transparent documentation, and readiness for joint implementation.",
+    "status": "completed"
+  },
+  {
+    "title": "Khorezm Manufacturing Expansion Project 135",
+    "category": "Manufacturing",
+    "budget": "860000.00",
+    "duration_months": 39,
+    "region": "Khorezm",
+    "description": "Khorezm Manufacturing Expansion Project 135 is designed to strengthen regional industrial cooperation, improve productivity, and connect enterprises with reliable partners.",
+    "requirements": "Participants should provide experience in manufacturing, operational capacity, transparent documentation, and readiness for joint implementation.",
+    "status": "open"
+  },
+  {
+    "title": "Kashkadarya Agriculture Digitalization Project 136",
+    "category": "Agriculture",
+    "budget": "175000.00",
+    "duration_months": 20,
+    "region": "Kashkadarya",
+    "description": "Kashkadarya Agriculture Digitalization Project 136 is designed to strengthen regional industrial cooperation, improve productivity, and connect enterprises with reliable partners.",
+    "requirements": "Participants should provide experience in agriculture, operational capacity, transparent documentation, and readiness for joint implementation.",
+    "status": "in_progress"
+  },
+  {
+    "title": "Surkhandarya Logistics Supply Chain Project 137",
+    "category": "Logistics",
+    "budget": "290000.00",
+    "duration_months": 20,
+    "region": "Surkhandarya",
+    "description": "Surkhandarya Logistics Supply Chain Project 137 is designed to strengthen regional industrial cooperation, improve productivity, and connect enterprises with reliable partners.",
+    "requirements": "Participants should provide experience in logistics, operational capacity, transparent documentation, and readiness for joint implementation.",
+    "status": "completed"
+  },
+  {
+    "title": "Jizzakh IT Automation Project 138",
+    "category": "IT",
+    "budget": "555000.00",
+    "duration_months": 10,
+    "region": "Jizzakh",
+    "description": "Jizzakh IT Automation Project 138 is designed to strengthen regional industrial cooperation, improve productivity, and connect enterprises with reliable partners.",
+    "requirements": "Participants should provide experience in it, operational capacity, transparent documentation, and readiness for joint implementation.",
+    "status": "open"
+  },
+  {
+    "title": "Syrdarya Energy Export Development Project 139",
+    "category": "Energy",
+    "budget": "225000.00",
+    "duration_months": 39,
+    "region": "Syrdarya",
+    "description": "Syrdarya Energy Export Development Project 139 is designed to strengthen regional industrial cooperation, improve productivity, and connect enterprises with reliable partners.",
+    "requirements": "Participants should provide experience in energy, operational capacity, transparent documentation, and readiness for joint implementation.",
+    "status": "in_progress"
+  },
+  {
+    "title": "Karakalpakstan Manufacturing Modernization Project 140",
+    "category": "Manufacturing",
+    "budget": "1530000.00",
+    "duration_months": 20,
+    "region": "Karakalpakstan",
+    "description": "Karakalpakstan Manufacturing Modernization Project 140 is designed to strengthen regional industrial cooperation, improve productivity, and connect enterprises with reliable partners.",
+    "requirements": "Participants should provide experience in manufacturing, operational capacity, transparent documentation, and readiness for joint implementation.",
+    "status": "completed"
+  },
+  {
+    "title": "Tashkent Agriculture Cooperation Project 141",
+    "category": "Agriculture",
+    "budget": "125000.00",
+    "duration_months": 45,
+    "region": "Tashkent",
+    "description": "Tashkent Agriculture Cooperation Project 141 is designed to strengthen regional industrial cooperation, improve productivity, and connect enterprises with reliable partners.",
+    "requirements": "Participants should provide experience in agriculture, operational capacity, transparent documentation, and readiness for joint implementation.",
+    "status": "open"
+  },
+  {
+    "title": "Samarkand Logistics Expansion Project 142",
+    "category": "Logistics",
+    "budget": "1530000.00",
+    "duration_months": 12,
+    "region": "Samarkand",
+    "description": "Samarkand Logistics Expansion Project 142 is designed to strengthen regional industrial cooperation, improve productivity, and connect enterprises with reliable partners.",
+    "requirements": "Participants should provide experience in logistics, operational capacity, transparent documentation, and readiness for joint implementation.",
+    "status": "in_progress"
+  },
+  {
+    "title": "Bukhara IT Digitalization Project 143",
+    "category": "IT",
+    "budget": "2305000.00",
+    "duration_months": 8,
+    "region": "Bukhara",
+    "description": "Bukhara IT Digitalization Project 143 is designed to strengthen regional industrial cooperation, improve productivity, and connect enterprises with reliable partners.",
+    "requirements": "Participants should provide experience in it, operational capacity, transparent documentation, and readiness for joint implementation.",
+    "status": "completed"
+  },
+  {
+    "title": "Andijan Energy Supply Chain Project 144",
+    "category": "Energy",
+    "budget": "2165000.00",
+    "duration_months": 37,
+    "region": "Andijan",
+    "description": "Andijan Energy Supply Chain Project 144 is designed to strengthen regional industrial cooperation, improve productivity, and connect enterprises with reliable partners.",
+    "requirements": "Participants should provide experience in energy, operational capacity, transparent documentation, and readiness for joint implementation.",
+    "status": "open"
+  },
+  {
+    "title": "Namangan Manufacturing Automation Project 145",
+    "category": "Manufacturing",
+    "budget": "2435000.00",
+    "duration_months": 31,
+    "region": "Namangan",
+    "description": "Namangan Manufacturing Automation Project 145 is designed to strengthen regional industrial cooperation, improve productivity, and connect enterprises with reliable partners.",
+    "requirements": "Participants should provide experience in manufacturing, operational capacity, transparent documentation, and readiness for joint implementation.",
+    "status": "in_progress"
+  },
+  {
+    "title": "Fergana Agriculture Export Development Project 146",
+    "category": "Agriculture",
+    "budget": "1755000.00",
+    "duration_months": 19,
+    "region": "Fergana",
+    "description": "Fergana Agriculture Export Development Project 146 is designed to strengthen regional industrial cooperation, improve productivity, and connect enterprises with reliable partners.",
+    "requirements": "Participants should provide experience in agriculture, operational capacity, transparent documentation, and readiness for joint implementation.",
+    "status": "completed"
+  },
+  {
+    "title": "Navoi Logistics Modernization Project 147",
+    "category": "Logistics",
+    "budget": "340000.00",
+    "duration_months": 39,
+    "region": "Navoi",
+    "description": "Navoi Logistics Modernization Project 147 is designed to strengthen regional industrial cooperation, improve productivity, and connect enterprises with reliable partners.",
+    "requirements": "Participants should provide experience in logistics, operational capacity, transparent documentation, and readiness for joint implementation.",
+    "status": "open"
+  },
+  {
+    "title": "Khorezm IT Cooperation Project 148",
+    "category": "IT",
+    "budget": "990000.00",
+    "duration_months": 32,
+    "region": "Khorezm",
+    "description": "Khorezm IT Cooperation Project 148 is designed to strengthen regional industrial cooperation, improve productivity, and connect enterprises with reliable partners.",
+    "requirements": "Participants should provide experience in it, operational capacity, transparent documentation, and readiness for joint implementation.",
+    "status": "in_progress"
+  },
+  {
+    "title": "Kashkadarya Energy Expansion Project 149",
+    "category": "Energy",
+    "budget": "795000.00",
+    "duration_months": 30,
+    "region": "Kashkadarya",
+    "description": "Kashkadarya Energy Expansion Project 149 is designed to strengthen regional industrial cooperation, improve productivity, and connect enterprises with reliable partners.",
+    "requirements": "Participants should provide experience in energy, operational capacity, transparent documentation, and readiness for joint implementation.",
+    "status": "completed"
+  },
+  {
+    "title": "Surkhandarya Manufacturing Digitalization Project 150",
+    "category": "Manufacturing",
+    "budget": "2400000.00",
+    "duration_months": 11,
+    "region": "Surkhandarya",
+    "description": "Surkhandarya Manufacturing Digitalization Project 150 is designed to strengthen regional industrial cooperation, improve productivity, and connect enterprises with reliable partners.",
+    "requirements": "Participants should provide experience in manufacturing, operational capacity, transparent documentation, and readiness for joint implementation.",
+    "status": "open"
+  },
+  {
+    "title": "Jizzakh Agriculture Supply Chain Project 151",
+    "category": "Agriculture",
+    "budget": "1655000.00",
+    "duration_months": 44,
+    "region": "Jizzakh",
+    "description": "Jizzakh Agriculture Supply Chain Project 151 is designed to strengthen regional industrial cooperation, improve productivity, and connect enterprises with reliable partners.",
+    "requirements": "Participants should provide experience in agriculture, operational capacity, transparent documentation, and readiness for joint implementation.",
+    "status": "in_progress"
+  },
+  {
+    "title": "Syrdarya Logistics Automation Project 152",
+    "category": "Logistics",
+    "budget": "2365000.00",
+    "duration_months": 41,
+    "region": "Syrdarya",
+    "description": "Syrdarya Logistics Automation Project 152 is designed to strengthen regional industrial cooperation, improve productivity, and connect enterprises with reliable partners.",
+    "requirements": "Participants should provide experience in logistics, operational capacity, transparent documentation, and readiness for joint implementation.",
+    "status": "completed"
+  },
+  {
+    "title": "Karakalpakstan IT Export Development Project 153",
+    "category": "IT",
+    "budget": "890000.00",
+    "duration_months": 20,
+    "region": "Karakalpakstan",
+    "description": "Karakalpakstan IT Export Development Project 153 is designed to strengthen regional industrial cooperation, improve productivity, and connect enterprises with reliable partners.",
+    "requirements": "Participants should provide experience in it, operational capacity, transparent documentation, and readiness for joint implementation.",
+    "status": "open"
+  },
+  {
+    "title": "Tashkent Energy Modernization Project 154",
+    "category": "Energy",
+    "budget": "150000.00",
+    "duration_months": 34,
+    "region": "Tashkent",
+    "description": "Tashkent Energy Modernization Project 154 is designed to strengthen regional industrial cooperation, improve productivity, and connect enterprises with reliable partners.",
+    "requirements": "Participants should provide experience in energy, operational capacity, transparent documentation, and readiness for joint implementation.",
+    "status": "in_progress"
+  },
+  {
+    "title": "Samarkand Manufacturing Cooperation Project 155",
+    "category": "Manufacturing",
+    "budget": "450000.00",
+    "duration_months": 34,
+    "region": "Samarkand",
+    "description": "Samarkand Manufacturing Cooperation Project 155 is designed to strengthen regional industrial cooperation, improve productivity, and connect enterprises with reliable partners.",
+    "requirements": "Participants should provide experience in manufacturing, operational capacity, transparent documentation, and readiness for joint implementation.",
+    "status": "completed"
+  },
+  {
+    "title": "Bukhara Agriculture Expansion Project 156",
+    "category": "Agriculture",
+    "budget": "935000.00",
+    "duration_months": 37,
+    "region": "Bukhara",
+    "description": "Bukhara Agriculture Expansion Project 156 is designed to strengthen regional industrial cooperation, improve productivity, and connect enterprises with reliable partners.",
+    "requirements": "Participants should provide experience in agriculture, operational capacity, transparent documentation, and readiness for joint implementation.",
+    "status": "open"
+  },
+  {
+    "title": "Andijan Logistics Digitalization Project 157",
+    "category": "Logistics",
+    "budget": "1535000.00",
+    "duration_months": 26,
+    "region": "Andijan",
+    "description": "Andijan Logistics Digitalization Project 157 is designed to strengthen regional industrial cooperation, improve productivity, and connect enterprises with reliable partners.",
+    "requirements": "Participants should provide experience in logistics, operational capacity, transparent documentation, and readiness for joint implementation.",
+    "status": "in_progress"
+  },
+  {
+    "title": "Namangan IT Supply Chain Project 158",
+    "category": "IT",
+    "budget": "895000.00",
+    "duration_months": 10,
+    "region": "Namangan",
+    "description": "Namangan IT Supply Chain Project 158 is designed to strengthen regional industrial cooperation, improve productivity, and connect enterprises with reliable partners.",
+    "requirements": "Participants should provide experience in it, operational capacity, transparent documentation, and readiness for joint implementation.",
+    "status": "completed"
+  },
+  {
+    "title": "Fergana Energy Automation Project 159",
+    "category": "Energy",
+    "budget": "825000.00",
+    "duration_months": 30,
+    "region": "Fergana",
+    "description": "Fergana Energy Automation Project 159 is designed to strengthen regional industrial cooperation, improve productivity, and connect enterprises with reliable partners.",
+    "requirements": "Participants should provide experience in energy, operational capacity, transparent documentation, and readiness for joint implementation.",
+    "status": "open"
+  },
+  {
+    "title": "Navoi Manufacturing Export Development Project 160",
+    "category": "Manufacturing",
+    "budget": "455000.00",
+    "duration_months": 29,
+    "region": "Navoi",
+    "description": "Navoi Manufacturing Export Development Project 160 is designed to strengthen regional industrial cooperation, improve productivity, and connect enterprises with reliable partners.",
+    "requirements": "Participants should provide experience in manufacturing, operational capacity, transparent documentation, and readiness for joint implementation.",
+    "status": "in_progress"
+  },
+  {
+    "title": "Khorezm Agriculture Modernization Project 161",
+    "category": "Agriculture",
+    "budget": "560000.00",
+    "duration_months": 18,
+    "region": "Khorezm",
+    "description": "Khorezm Agriculture Modernization Project 161 is designed to strengthen regional industrial cooperation, improve productivity, and connect enterprises with reliable partners.",
+    "requirements": "Participants should provide experience in agriculture, operational capacity, transparent documentation, and readiness for joint implementation.",
+    "status": "completed"
+  },
+  {
+    "title": "Kashkadarya Logistics Cooperation Project 162",
+    "category": "Logistics",
+    "budget": "1940000.00",
+    "duration_months": 18,
+    "region": "Kashkadarya",
+    "description": "Kashkadarya Logistics Cooperation Project 162 is designed to strengthen regional industrial cooperation, improve productivity, and connect enterprises with reliable partners.",
+    "requirements": "Participants should provide experience in logistics, operational capacity, transparent documentation, and readiness for joint implementation.",
+    "status": "open"
+  },
+  {
+    "title": "Surkhandarya IT Expansion Project 163",
+    "category": "IT",
+    "budget": "2370000.00",
+    "duration_months": 12,
+    "region": "Surkhandarya",
+    "description": "Surkhandarya IT Expansion Project 163 is designed to strengthen regional industrial cooperation, improve productivity, and connect enterprises with reliable partners.",
+    "requirements": "Participants should provide experience in it, operational capacity, transparent documentation, and readiness for joint implementation.",
+    "status": "in_progress"
+  },
+  {
+    "title": "Jizzakh Energy Digitalization Project 164",
+    "category": "Energy",
+    "budget": "1840000.00",
+    "duration_months": 45,
+    "region": "Jizzakh",
+    "description": "Jizzakh Energy Digitalization Project 164 is designed to strengthen regional industrial cooperation, improve productivity, and connect enterprises with reliable partners.",
+    "requirements": "Participants should provide experience in energy, operational capacity, transparent documentation, and readiness for joint implementation.",
+    "status": "completed"
+  },
+  {
+    "title": "Syrdarya Manufacturing Supply Chain Project 165",
+    "category": "Manufacturing",
+    "budget": "2425000.00",
+    "duration_months": 36,
+    "region": "Syrdarya",
+    "description": "Syrdarya Manufacturing Supply Chain Project 165 is designed to strengthen regional industrial cooperation, improve productivity, and connect enterprises with reliable partners.",
+    "requirements": "Participants should provide experience in manufacturing, operational capacity, transparent documentation, and readiness for joint implementation.",
+    "status": "open"
+  },
+  {
+    "title": "Karakalpakstan Agriculture Automation Project 166",
+    "category": "Agriculture",
+    "budget": "1295000.00",
+    "duration_months": 38,
+    "region": "Karakalpakstan",
+    "description": "Karakalpakstan Agriculture Automation Project 166 is designed to strengthen regional industrial cooperation, improve productivity, and connect enterprises with reliable partners.",
+    "requirements": "Participants should provide experience in agriculture, operational capacity, transparent documentation, and readiness for joint implementation.",
+    "status": "in_progress"
+  },
+  {
+    "title": "Tashkent Logistics Export Development Project 167",
+    "category": "Logistics",
+    "budget": "1000000.00",
+    "duration_months": 18,
+    "region": "Tashkent",
+    "description": "Tashkent Logistics Export Development Project 167 is designed to strengthen regional industrial cooperation, improve productivity, and connect enterprises with reliable partners.",
+    "requirements": "Participants should provide experience in logistics, operational capacity, transparent documentation, and readiness for joint implementation.",
+    "status": "completed"
+  },
+  {
+    "title": "Samarkand IT Modernization Project 168",
+    "category": "IT",
+    "budget": "460000.00",
+    "duration_months": 32,
+    "region": "Samarkand",
+    "description": "Samarkand IT Modernization Project 168 is designed to strengthen regional industrial cooperation, improve productivity, and connect enterprises with reliable partners.",
+    "requirements": "Participants should provide experience in it, operational capacity, transparent documentation, and readiness for joint implementation.",
+    "status": "open"
+  },
+  {
+    "title": "Bukhara Energy Cooperation Project 169",
+    "category": "Energy",
+    "budget": "1055000.00",
+    "duration_months": 10,
+    "region": "Bukhara",
+    "description": "Bukhara Energy Cooperation Project 169 is designed to strengthen regional industrial cooperation, improve productivity, and connect enterprises with reliable partners.",
+    "requirements": "Participants should provide experience in energy, operational capacity, transparent documentation, and readiness for joint implementation.",
+    "status": "in_progress"
+  },
+  {
+    "title": "Andijan Manufacturing Expansion Project 170",
+    "category": "Manufacturing",
+    "budget": "620000.00",
+    "duration_months": 44,
+    "region": "Andijan",
+    "description": "Andijan Manufacturing Expansion Project 170 is designed to strengthen regional industrial cooperation, improve productivity, and connect enterprises with reliable partners.",
+    "requirements": "Participants should provide experience in manufacturing, operational capacity, transparent documentation, and readiness for joint implementation.",
+    "status": "completed"
+  },
+  {
+    "title": "Namangan Agriculture Digitalization Project 171",
+    "category": "Agriculture",
+    "budget": "1040000.00",
+    "duration_months": 7,
+    "region": "Namangan",
+    "description": "Namangan Agriculture Digitalization Project 171 is designed to strengthen regional industrial cooperation, improve productivity, and connect enterprises with reliable partners.",
+    "requirements": "Participants should provide experience in agriculture, operational capacity, transparent documentation, and readiness for joint implementation.",
+    "status": "open"
+  },
+  {
+    "title": "Fergana Logistics Supply Chain Project 172",
+    "category": "Logistics",
+    "budget": "1395000.00",
+    "duration_months": 8,
+    "region": "Fergana",
+    "description": "Fergana Logistics Supply Chain Project 172 is designed to strengthen regional industrial cooperation, improve productivity, and connect enterprises with reliable partners.",
+    "requirements": "Participants should provide experience in logistics, operational capacity, transparent documentation, and readiness for joint implementation.",
+    "status": "in_progress"
+  },
+  {
+    "title": "Navoi IT Automation Project 173",
+    "category": "IT",
+    "budget": "1505000.00",
+    "duration_months": 27,
+    "region": "Navoi",
+    "description": "Navoi IT Automation Project 173 is designed to strengthen regional industrial cooperation, improve productivity, and connect enterprises with reliable partners.",
+    "requirements": "Participants should provide experience in it, operational capacity, transparent documentation, and readiness for joint implementation.",
+    "status": "completed"
+  },
+  {
+    "title": "Khorezm Energy Export Development Project 174",
+    "category": "Energy",
+    "budget": "1675000.00",
+    "duration_months": 15,
+    "region": "Khorezm",
+    "description": "Khorezm Energy Export Development Project 174 is designed to strengthen regional industrial cooperation, improve productivity, and connect enterprises with reliable partners.",
+    "requirements": "Participants should provide experience in energy, operational capacity, transparent documentation, and readiness for joint implementation.",
+    "status": "open"
+  },
+  {
+    "title": "Kashkadarya Manufacturing Modernization Project 175",
+    "category": "Manufacturing",
+    "budget": "1115000.00",
+    "duration_months": 48,
+    "region": "Kashkadarya",
+    "description": "Kashkadarya Manufacturing Modernization Project 175 is designed to strengthen regional industrial cooperation, improve productivity, and connect enterprises with reliable partners.",
+    "requirements": "Participants should provide experience in manufacturing, operational capacity, transparent documentation, and readiness for joint implementation.",
+    "status": "in_progress"
+  },
+  {
+    "title": "Surkhandarya Agriculture Cooperation Project 176",
+    "category": "Agriculture",
+    "budget": "1690000.00",
+    "duration_months": 26,
+    "region": "Surkhandarya",
+    "description": "Surkhandarya Agriculture Cooperation Project 176 is designed to strengthen regional industrial cooperation, improve productivity, and connect enterprises with reliable partners.",
+    "requirements": "Participants should provide experience in agriculture, operational capacity, transparent documentation, and readiness for joint implementation.",
+    "status": "completed"
+  },
+  {
+    "title": "Jizzakh Logistics Expansion Project 177",
+    "category": "Logistics",
+    "budget": "435000.00",
+    "duration_months": 38,
+    "region": "Jizzakh",
+    "description": "Jizzakh Logistics Expansion Project 177 is designed to strengthen regional industrial cooperation, improve productivity, and connect enterprises with reliable partners.",
+    "requirements": "Participants should provide experience in logistics, operational capacity, transparent documentation, and readiness for joint implementation.",
+    "status": "open"
+  },
+  {
+    "title": "Syrdarya IT Digitalization Project 178",
+    "category": "IT",
+    "budget": "1765000.00",
+    "duration_months": 14,
+    "region": "Syrdarya",
+    "description": "Syrdarya IT Digitalization Project 178 is designed to strengthen regional industrial cooperation, improve productivity, and connect enterprises with reliable partners.",
+    "requirements": "Participants should provide experience in it, operational capacity, transparent documentation, and readiness for joint implementation.",
+    "status": "in_progress"
+  },
+  {
+    "title": "Karakalpakstan Energy Supply Chain Project 179",
+    "category": "Energy",
+    "budget": "2415000.00",
+    "duration_months": 48,
+    "region": "Karakalpakstan",
+    "description": "Karakalpakstan Energy Supply Chain Project 179 is designed to strengthen regional industrial cooperation, improve productivity, and connect enterprises with reliable partners.",
+    "requirements": "Participants should provide experience in energy, operational capacity, transparent documentation, and readiness for joint implementation.",
+    "status": "completed"
+  },
+  {
+    "title": "Tashkent Manufacturing Automation Project 180",
+    "category": "Manufacturing",
+    "budget": "1690000.00",
+    "duration_months": 41,
+    "region": "Tashkent",
+    "description": "Tashkent Manufacturing Automation Project 180 is designed to strengthen regional industrial cooperation, improve productivity, and connect enterprises with reliable partners.",
+    "requirements": "Participants should provide experience in manufacturing, operational capacity, transparent documentation, and readiness for joint implementation.",
+    "status": "open"
+  },
+  {
+    "title": "Samarkand Agriculture Export Development Project 181",
+    "category": "Agriculture",
+    "budget": "200000.00",
+    "duration_months": 42,
+    "region": "Samarkand",
+    "description": "Samarkand Agriculture Export Development Project 181 is designed to strengthen regional industrial cooperation, improve productivity, and connect enterprises with reliable partners.",
+    "requirements": "Participants should provide experience in agriculture, operational capacity, transparent documentation, and readiness for joint implementation.",
+    "status": "in_progress"
+  },
+  {
+    "title": "Bukhara Logistics Modernization Project 182",
+    "category": "Logistics",
+    "budget": "1930000.00",
+    "duration_months": 29,
+    "region": "Bukhara",
+    "description": "Bukhara Logistics Modernization Project 182 is designed to strengthen regional industrial cooperation, improve productivity, and connect enterprises with reliable partners.",
+    "requirements": "Participants should provide experience in logistics, operational capacity, transparent documentation, and readiness for joint implementation.",
+    "status": "completed"
+  },
+  {
+    "title": "Andijan IT Cooperation Project 183",
+    "category": "IT",
+    "budget": "1800000.00",
+    "duration_months": 36,
+    "region": "Andijan",
+    "description": "Andijan IT Cooperation Project 183 is designed to strengthen regional industrial cooperation, improve productivity, and connect enterprises with reliable partners.",
+    "requirements": "Participants should provide experience in it, operational capacity, transparent documentation, and readiness for joint implementation.",
+    "status": "open"
+  },
+  {
+    "title": "Namangan Energy Expansion Project 184",
+    "category": "Energy",
+    "budget": "985000.00",
+    "duration_months": 48,
+    "region": "Namangan",
+    "description": "Namangan Energy Expansion Project 184 is designed to strengthen regional industrial cooperation, improve productivity, and connect enterprises with reliable partners.",
+    "requirements": "Participants should provide experience in energy, operational capacity, transparent documentation, and readiness for joint implementation.",
+    "status": "in_progress"
+  },
+  {
+    "title": "Fergana Manufacturing Digitalization Project 185",
+    "category": "Manufacturing",
+    "budget": "1320000.00",
+    "duration_months": 25,
+    "region": "Fergana",
+    "description": "Fergana Manufacturing Digitalization Project 185 is designed to strengthen regional industrial cooperation, improve productivity, and connect enterprises with reliable partners.",
+    "requirements": "Participants should provide experience in manufacturing, operational capacity, transparent documentation, and readiness for joint implementation.",
+    "status": "completed"
+  },
+  {
+    "title": "Navoi Agriculture Supply Chain Project 186",
+    "category": "Agriculture",
+    "budget": "2165000.00",
+    "duration_months": 43,
+    "region": "Navoi",
+    "description": "Navoi Agriculture Supply Chain Project 186 is designed to strengthen regional industrial cooperation, improve productivity, and connect enterprises with reliable partners.",
+    "requirements": "Participants should provide experience in agriculture, operational capacity, transparent documentation, and readiness for joint implementation.",
+    "status": "open"
+  },
+  {
+    "title": "Khorezm Logistics Automation Project 187",
+    "category": "Logistics",
+    "budget": "1055000.00",
+    "duration_months": 33,
+    "region": "Khorezm",
+    "description": "Khorezm Logistics Automation Project 187 is designed to strengthen regional industrial cooperation, improve productivity, and connect enterprises with reliable partners.",
+    "requirements": "Participants should provide experience in logistics, operational capacity, transparent documentation, and readiness for joint implementation.",
+    "status": "in_progress"
+  },
+  {
+    "title": "Kashkadarya IT Export Development Project 188",
+    "category": "IT",
+    "budget": "2340000.00",
+    "duration_months": 9,
+    "region": "Kashkadarya",
+    "description": "Kashkadarya IT Export Development Project 188 is designed to strengthen regional industrial cooperation, improve productivity, and connect enterprises with reliable partners.",
+    "requirements": "Participants should provide experience in it, operational capacity, transparent documentation, and readiness for joint implementation.",
+    "status": "completed"
+  },
+  {
+    "title": "Surkhandarya Energy Modernization Project 189",
+    "category": "Energy",
+    "budget": "2450000.00",
+    "duration_months": 14,
+    "region": "Surkhandarya",
+    "description": "Surkhandarya Energy Modernization Project 189 is designed to strengthen regional industrial cooperation, improve productivity, and connect enterprises with reliable partners.",
+    "requirements": "Participants should provide experience in energy, operational capacity, transparent documentation, and readiness for joint implementation.",
+    "status": "open"
+  },
+  {
+    "title": "Jizzakh Manufacturing Cooperation Project 190",
+    "category": "Manufacturing",
+    "budget": "2175000.00",
+    "duration_months": 27,
+    "region": "Jizzakh",
+    "description": "Jizzakh Manufacturing Cooperation Project 190 is designed to strengthen regional industrial cooperation, improve productivity, and connect enterprises with reliable partners.",
+    "requirements": "Participants should provide experience in manufacturing, operational capacity, transparent documentation, and readiness for joint implementation.",
+    "status": "in_progress"
+  },
+  {
+    "title": "Syrdarya Agriculture Expansion Project 191",
+    "category": "Agriculture",
+    "budget": "1405000.00",
+    "duration_months": 17,
+    "region": "Syrdarya",
+    "description": "Syrdarya Agriculture Expansion Project 191 is designed to strengthen regional industrial cooperation, improve productivity, and connect enterprises with reliable partners.",
+    "requirements": "Participants should provide experience in agriculture, operational capacity, transparent documentation, and readiness for joint implementation.",
+    "status": "completed"
+  },
+  {
+    "title": "Karakalpakstan Logistics Digitalization Project 192",
+    "category": "Logistics",
+    "budget": "2155000.00",
+    "duration_months": 14,
+    "region": "Karakalpakstan",
+    "description": "Karakalpakstan Logistics Digitalization Project 192 is designed to strengthen regional industrial cooperation, improve productivity, and connect enterprises with reliable partners.",
+    "requirements": "Participants should provide experience in logistics, operational capacity, transparent documentation, and readiness for joint implementation.",
+    "status": "open"
+  },
+  {
+    "title": "Tashkent IT Supply Chain Project 193",
+    "category": "IT",
+    "budget": "1225000.00",
+    "duration_months": 6,
+    "region": "Tashkent",
+    "description": "Tashkent IT Supply Chain Project 193 is designed to strengthen regional industrial cooperation, improve productivity, and connect enterprises with reliable partners.",
+    "requirements": "Participants should provide experience in it, operational capacity, transparent documentation, and readiness for joint implementation.",
+    "status": "in_progress"
+  },
+  {
+    "title": "Samarkand Energy Automation Project 194",
+    "category": "Energy",
+    "budget": "640000.00",
+    "duration_months": 48,
+    "region": "Samarkand",
+    "description": "Samarkand Energy Automation Project 194 is designed to strengthen regional industrial cooperation, improve productivity, and connect enterprises with reliable partners.",
+    "requirements": "Participants should provide experience in energy, operational capacity, transparent documentation, and readiness for joint implementation.",
+    "status": "completed"
+  },
+  {
+    "title": "Bukhara Manufacturing Export Development Project 195",
+    "category": "Manufacturing",
+    "budget": "1220000.00",
+    "duration_months": 48,
+    "region": "Bukhara",
+    "description": "Bukhara Manufacturing Export Development Project 195 is designed to strengthen regional industrial cooperation, improve productivity, and connect enterprises with reliable partners.",
+    "requirements": "Participants should provide experience in manufacturing, operational capacity, transparent documentation, and readiness for joint implementation.",
+    "status": "open"
+  },
+  {
+    "title": "Andijan Agriculture Modernization Project 196",
+    "category": "Agriculture",
+    "budget": "2255000.00",
+    "duration_months": 27,
+    "region": "Andijan",
+    "description": "Andijan Agriculture Modernization Project 196 is designed to strengthen regional industrial cooperation, improve productivity, and connect enterprises with reliable partners.",
+    "requirements": "Participants should provide experience in agriculture, operational capacity, transparent documentation, and readiness for joint implementation.",
+    "status": "in_progress"
+  },
+  {
+    "title": "Namangan Logistics Cooperation Project 197",
+    "category": "Logistics",
+    "budget": "935000.00",
+    "duration_months": 28,
+    "region": "Namangan",
+    "description": "Namangan Logistics Cooperation Project 197 is designed to strengthen regional industrial cooperation, improve productivity, and connect enterprises with reliable partners.",
+    "requirements": "Participants should provide experience in logistics, operational capacity, transparent documentation, and readiness for joint implementation.",
+    "status": "completed"
+  },
+  {
+    "title": "Fergana IT Expansion Project 198",
+    "category": "IT",
+    "budget": "1925000.00",
+    "duration_months": 26,
+    "region": "Fergana",
+    "description": "Fergana IT Expansion Project 198 is designed to strengthen regional industrial cooperation, improve productivity, and connect enterprises with reliable partners.",
+    "requirements": "Participants should provide experience in it, operational capacity, transparent documentation, and readiness for joint implementation.",
+    "status": "open"
+  },
+  {
+    "title": "Navoi Energy Digitalization Project 199",
+    "category": "Energy",
+    "budget": "235000.00",
+    "duration_months": 22,
+    "region": "Navoi",
+    "description": "Navoi Energy Digitalization Project 199 is designed to strengthen regional industrial cooperation, improve productivity, and connect enterprises with reliable partners.",
+    "requirements": "Participants should provide experience in energy, operational capacity, transparent documentation, and readiness for joint implementation.",
+    "status": "in_progress"
+  },
+  {
+    "title": "Khorezm Manufacturing Supply Chain Project 200",
+    "category": "Manufacturing",
+    "budget": "2235000.00",
+    "duration_months": 33,
+    "region": "Khorezm",
+    "description": "Khorezm Manufacturing Supply Chain Project 200 is designed to strengthen regional industrial cooperation, improve productivity, and connect enterprises with reliable partners.",
+    "requirements": "Participants should provide experience in manufacturing, operational capacity, transparent documentation, and readiness for joint implementation.",
+    "status": "completed"
+  },
+  {
+    "title": "Kashkadarya Agriculture Automation Project 201",
+    "category": "Agriculture",
+    "budget": "2210000.00",
+    "duration_months": 38,
+    "region": "Kashkadarya",
+    "description": "Kashkadarya Agriculture Automation Project 201 is designed to strengthen regional industrial cooperation, improve productivity, and connect enterprises with reliable partners.",
+    "requirements": "Participants should provide experience in agriculture, operational capacity, transparent documentation, and readiness for joint implementation.",
+    "status": "open"
+  },
+  {
+    "title": "Surkhandarya Logistics Export Development Project 202",
+    "category": "Logistics",
+    "budget": "2185000.00",
+    "duration_months": 11,
+    "region": "Surkhandarya",
+    "description": "Surkhandarya Logistics Export Development Project 202 is designed to strengthen regional industrial cooperation, improve productivity, and connect enterprises with reliable partners.",
+    "requirements": "Participants should provide experience in logistics, operational capacity, transparent documentation, and readiness for joint implementation.",
+    "status": "in_progress"
+  },
+  {
+    "title": "Jizzakh IT Modernization Project 203",
+    "category": "IT",
+    "budget": "1535000.00",
+    "duration_months": 9,
+    "region": "Jizzakh",
+    "description": "Jizzakh IT Modernization Project 203 is designed to strengthen regional industrial cooperation, improve productivity, and connect enterprises with reliable partners.",
+    "requirements": "Participants should provide experience in it, operational capacity, transparent documentation, and readiness for joint implementation.",
+    "status": "completed"
+  },
+  {
+    "title": "Syrdarya Energy Cooperation Project 204",
+    "category": "Energy",
+    "budget": "360000.00",
+    "duration_months": 27,
+    "region": "Syrdarya",
+    "description": "Syrdarya Energy Cooperation Project 204 is designed to strengthen regional industrial cooperation, improve productivity, and connect enterprises with reliable partners.",
+    "requirements": "Participants should provide experience in energy, operational capacity, transparent documentation, and readiness for joint implementation.",
+    "status": "open"
+  },
+  {
+    "title": "Karakalpakstan Manufacturing Expansion Project 205",
+    "category": "Manufacturing",
+    "budget": "2100000.00",
+    "duration_months": 13,
+    "region": "Karakalpakstan",
+    "description": "Karakalpakstan Manufacturing Expansion Project 205 is designed to strengthen regional industrial cooperation, improve productivity, and connect enterprises with reliable partners.",
+    "requirements": "Participants should provide experience in manufacturing, operational capacity, transparent documentation, and readiness for joint implementation.",
+    "status": "in_progress"
+  },
+  {
+    "title": "Tashkent Agriculture Digitalization Project 206",
+    "category": "Agriculture",
+    "budget": "1080000.00",
+    "duration_months": 9,
+    "region": "Tashkent",
+    "description": "Tashkent Agriculture Digitalization Project 206 is designed to strengthen regional industrial cooperation, improve productivity, and connect enterprises with reliable partners.",
+    "requirements": "Participants should provide experience in agriculture, operational capacity, transparent documentation, and readiness for joint implementation.",
+    "status": "completed"
+  },
+  {
+    "title": "Samarkand Logistics Supply Chain Project 207",
+    "category": "Logistics",
+    "budget": "445000.00",
+    "duration_months": 7,
+    "region": "Samarkand",
+    "description": "Samarkand Logistics Supply Chain Project 207 is designed to strengthen regional industrial cooperation, improve productivity, and connect enterprises with reliable partners.",
+    "requirements": "Participants should provide experience in logistics, operational capacity, transparent documentation, and readiness for joint implementation.",
+    "status": "open"
+  },
+  {
+    "title": "Bukhara IT Automation Project 208",
+    "category": "IT",
+    "budget": "645000.00",
+    "duration_months": 34,
+    "region": "Bukhara",
+    "description": "Bukhara IT Automation Project 208 is designed to strengthen regional industrial cooperation, improve productivity, and connect enterprises with reliable partners.",
+    "requirements": "Participants should provide experience in it, operational capacity, transparent documentation, and readiness for joint implementation.",
+    "status": "in_progress"
+  },
+  {
+    "title": "Andijan Energy Export Development Project 209",
+    "category": "Energy",
+    "budget": "1380000.00",
+    "duration_months": 14,
+    "region": "Andijan",
+    "description": "Andijan Energy Export Development Project 209 is designed to strengthen regional industrial cooperation, improve productivity, and connect enterprises with reliable partners.",
+    "requirements": "Participants should provide experience in energy, operational capacity, transparent documentation, and readiness for joint implementation.",
+    "status": "completed"
+  },
+  {
+    "title": "Namangan Manufacturing Modernization Project 210",
+    "category": "Manufacturing",
+    "budget": "2190000.00",
+    "duration_months": 26,
+    "region": "Namangan",
+    "description": "Namangan Manufacturing Modernization Project 210 is designed to strengthen regional industrial cooperation, improve productivity, and connect enterprises with reliable partners.",
+    "requirements": "Participants should provide experience in manufacturing, operational capacity, transparent documentation, and readiness for joint implementation.",
+    "status": "open"
+  },
+  {
+    "title": "Fergana Agriculture Cooperation Project 211",
+    "category": "Agriculture",
+    "budget": "2205000.00",
+    "duration_months": 31,
+    "region": "Fergana",
+    "description": "Fergana Agriculture Cooperation Project 211 is designed to strengthen regional industrial cooperation, improve productivity, and connect enterprises with reliable partners.",
+    "requirements": "Participants should provide experience in agriculture, operational capacity, transparent documentation, and readiness for joint implementation.",
+    "status": "in_progress"
+  },
+  {
+    "title": "Navoi Logistics Expansion Project 212",
+    "category": "Logistics",
+    "budget": "290000.00",
+    "duration_months": 14,
+    "region": "Navoi",
+    "description": "Navoi Logistics Expansion Project 212 is designed to strengthen regional industrial cooperation, improve productivity, and connect enterprises with reliable partners.",
+    "requirements": "Participants should provide experience in logistics, operational capacity, transparent documentation, and readiness for joint implementation.",
+    "status": "completed"
+  },
+  {
+    "title": "Khorezm IT Digitalization Project 213",
+    "category": "IT",
+    "budget": "2485000.00",
+    "duration_months": 47,
+    "region": "Khorezm",
+    "description": "Khorezm IT Digitalization Project 213 is designed to strengthen regional industrial cooperation, improve productivity, and connect enterprises with reliable partners.",
+    "requirements": "Participants should provide experience in it, operational capacity, transparent documentation, and readiness for joint implementation.",
+    "status": "open"
+  },
+  {
+    "title": "Kashkadarya Energy Supply Chain Project 214",
+    "category": "Energy",
+    "budget": "280000.00",
+    "duration_months": 48,
+    "region": "Kashkadarya",
+    "description": "Kashkadarya Energy Supply Chain Project 214 is designed to strengthen regional industrial cooperation, improve productivity, and connect enterprises with reliable partners.",
+    "requirements": "Participants should provide experience in energy, operational capacity, transparent documentation, and readiness for joint implementation.",
+    "status": "in_progress"
+  },
+  {
+    "title": "Surkhandarya Manufacturing Automation Project 215",
+    "category": "Manufacturing",
+    "budget": "1380000.00",
+    "duration_months": 29,
+    "region": "Surkhandarya",
+    "description": "Surkhandarya Manufacturing Automation Project 215 is designed to strengthen regional industrial cooperation, improve productivity, and connect enterprises with reliable partners.",
+    "requirements": "Participants should provide experience in manufacturing, operational capacity, transparent documentation, and readiness for joint implementation.",
+    "status": "completed"
+  },
+  {
+    "title": "Jizzakh Agriculture Export Development Project 216",
+    "category": "Agriculture",
+    "budget": "1545000.00",
+    "duration_months": 42,
+    "region": "Jizzakh",
+    "description": "Jizzakh Agriculture Export Development Project 216 is designed to strengthen regional industrial cooperation, improve productivity, and connect enterprises with reliable partners.",
+    "requirements": "Participants should provide experience in agriculture, operational capacity, transparent documentation, and readiness for joint implementation.",
+    "status": "open"
+  },
+  {
+    "title": "Syrdarya Logistics Modernization Project 217",
+    "category": "Logistics",
+    "budget": "1980000.00",
+    "duration_months": 44,
+    "region": "Syrdarya",
+    "description": "Syrdarya Logistics Modernization Project 217 is designed to strengthen regional industrial cooperation, improve productivity, and connect enterprises with reliable partners.",
+    "requirements": "Participants should provide experience in logistics, operational capacity, transparent documentation, and readiness for joint implementation.",
+    "status": "in_progress"
+  },
+  {
+    "title": "Karakalpakstan IT Cooperation Project 218",
+    "category": "IT",
+    "budget": "1875000.00",
+    "duration_months": 25,
+    "region": "Karakalpakstan",
+    "description": "Karakalpakstan IT Cooperation Project 218 is designed to strengthen regional industrial cooperation, improve productivity, and connect enterprises with reliable partners.",
+    "requirements": "Participants should provide experience in it, operational capacity, transparent documentation, and readiness for joint implementation.",
+    "status": "completed"
+  },
+  {
+    "title": "Tashkent Energy Expansion Project 219",
+    "category": "Energy",
+    "budget": "2465000.00",
+    "duration_months": 42,
+    "region": "Tashkent",
+    "description": "Tashkent Energy Expansion Project 219 is designed to strengthen regional industrial cooperation, improve productivity, and connect enterprises with reliable partners.",
+    "requirements": "Participants should provide experience in energy, operational capacity, transparent documentation, and readiness for joint implementation.",
+    "status": "open"
+  },
+  {
+    "title": "Samarkand Manufacturing Digitalization Project 220",
+    "category": "Manufacturing",
+    "budget": "655000.00",
+    "duration_months": 12,
+    "region": "Samarkand",
+    "description": "Samarkand Manufacturing Digitalization Project 220 is designed to strengthen regional industrial cooperation, improve productivity, and connect enterprises with reliable partners.",
+    "requirements": "Participants should provide experience in manufacturing, operational capacity, transparent documentation, and readiness for joint implementation.",
+    "status": "in_progress"
+  },
+  {
+    "title": "Bukhara Agriculture Supply Chain Project 221",
+    "category": "Agriculture",
+    "budget": "1120000.00",
+    "duration_months": 19,
+    "region": "Bukhara",
+    "description": "Bukhara Agriculture Supply Chain Project 221 is designed to strengthen regional industrial cooperation, improve productivity, and connect enterprises with reliable partners.",
+    "requirements": "Participants should provide experience in agriculture, operational capacity, transparent documentation, and readiness for joint implementation.",
+    "status": "completed"
+  },
+  {
+    "title": "Andijan Logistics Automation Project 222",
+    "category": "Logistics",
+    "budget": "1325000.00",
+    "duration_months": 7,
+    "region": "Andijan",
+    "description": "Andijan Logistics Automation Project 222 is designed to strengthen regional industrial cooperation, improve productivity, and connect enterprises with reliable partners.",
+    "requirements": "Participants should provide experience in logistics, operational capacity, transparent documentation, and readiness for joint implementation.",
+    "status": "open"
+  },
+  {
+    "title": "Namangan IT Export Development Project 223",
+    "category": "IT",
+    "budget": "980000.00",
+    "duration_months": 12,
+    "region": "Namangan",
+    "description": "Namangan IT Export Development Project 223 is designed to strengthen regional industrial cooperation, improve productivity, and connect enterprises with reliable partners.",
+    "requirements": "Participants should provide experience in it, operational capacity, transparent documentation, and readiness for joint implementation.",
+    "status": "in_progress"
+  },
+  {
+    "title": "Fergana Energy Modernization Project 224",
+    "category": "Energy",
+    "budget": "2315000.00",
+    "duration_months": 36,
+    "region": "Fergana",
+    "description": "Fergana Energy Modernization Project 224 is designed to strengthen regional industrial cooperation, improve productivity, and connect enterprises with reliable partners.",
+    "requirements": "Participants should provide experience in energy, operational capacity, transparent documentation, and readiness for joint implementation.",
+    "status": "completed"
+  },
+  {
+    "title": "Navoi Manufacturing Cooperation Project 225",
+    "category": "Manufacturing",
+    "budget": "310000.00",
+    "duration_months": 36,
+    "region": "Navoi",
+    "description": "Navoi Manufacturing Cooperation Project 225 is designed to strengthen regional industrial cooperation, improve productivity, and connect enterprises with reliable partners.",
+    "requirements": "Participants should provide experience in manufacturing, operational capacity, transparent documentation, and readiness for joint implementation.",
+    "status": "open"
+  },
+  {
+    "title": "Khorezm Agriculture Expansion Project 226",
+    "category": "Agriculture",
+    "budget": "925000.00",
+    "duration_months": 14,
+    "region": "Khorezm",
+    "description": "Khorezm Agriculture Expansion Project 226 is designed to strengthen regional industrial cooperation, improve productivity, and connect enterprises with reliable partners.",
+    "requirements": "Participants should provide experience in agriculture, operational capacity, transparent documentation, and readiness for joint implementation.",
+    "status": "in_progress"
+  },
+  {
+    "title": "Kashkadarya Logistics Digitalization Project 227",
+    "category": "Logistics",
+    "budget": "1065000.00",
+    "duration_months": 11,
+    "region": "Kashkadarya",
+    "description": "Kashkadarya Logistics Digitalization Project 227 is designed to strengthen regional industrial cooperation, improve productivity, and connect enterprises with reliable partners.",
+    "requirements": "Participants should provide experience in logistics, operational capacity, transparent documentation, and readiness for joint implementation.",
+    "status": "completed"
+  },
+  {
+    "title": "Surkhandarya IT Supply Chain Project 228",
+    "category": "IT",
+    "budget": "180000.00",
+    "duration_months": 17,
+    "region": "Surkhandarya",
+    "description": "Surkhandarya IT Supply Chain Project 228 is designed to strengthen regional industrial cooperation, improve productivity, and connect enterprises with reliable partners.",
+    "requirements": "Participants should provide experience in it, operational capacity, transparent documentation, and readiness for joint implementation.",
+    "status": "open"
+  },
+  {
+    "title": "Jizzakh Energy Automation Project 229",
+    "category": "Energy",
+    "budget": "295000.00",
+    "duration_months": 47,
+    "region": "Jizzakh",
+    "description": "Jizzakh Energy Automation Project 229 is designed to strengthen regional industrial cooperation, improve productivity, and connect enterprises with reliable partners.",
+    "requirements": "Participants should provide experience in energy, operational capacity, transparent documentation, and readiness for joint implementation.",
+    "status": "in_progress"
+  },
+  {
+    "title": "Syrdarya Manufacturing Export Development Project 230",
+    "category": "Manufacturing",
+    "budget": "1640000.00",
+    "duration_months": 38,
+    "region": "Syrdarya",
+    "description": "Syrdarya Manufacturing Export Development Project 230 is designed to strengthen regional industrial cooperation, improve productivity, and connect enterprises with reliable partners.",
+    "requirements": "Participants should provide experience in manufacturing, operational capacity, transparent documentation, and readiness for joint implementation.",
+    "status": "completed"
+  },
+  {
+    "title": "Karakalpakstan Agriculture Modernization Project 231",
+    "category": "Agriculture",
+    "budget": "1695000.00",
+    "duration_months": 7,
+    "region": "Karakalpakstan",
+    "description": "Karakalpakstan Agriculture Modernization Project 231 is designed to strengthen regional industrial cooperation, improve productivity, and connect enterprises with reliable partners.",
+    "requirements": "Participants should provide experience in agriculture, operational capacity, transparent documentation, and readiness for joint implementation.",
+    "status": "open"
+  },
+  {
+    "title": "Tashkent Logistics Cooperation Project 232",
+    "category": "Logistics",
+    "budget": "2135000.00",
+    "duration_months": 32,
+    "region": "Tashkent",
+    "description": "Tashkent Logistics Cooperation Project 232 is designed to strengthen regional industrial cooperation, improve productivity, and connect enterprises with reliable partners.",
+    "requirements": "Participants should provide experience in logistics, operational capacity, transparent documentation, and readiness for joint implementation.",
+    "status": "in_progress"
+  },
+  {
+    "title": "Samarkand IT Expansion Project 233",
+    "category": "IT",
+    "budget": "2055000.00",
+    "duration_months": 19,
+    "region": "Samarkand",
+    "description": "Samarkand IT Expansion Project 233 is designed to strengthen regional industrial cooperation, improve productivity, and connect enterprises with reliable partners.",
+    "requirements": "Participants should provide experience in it, operational capacity, transparent documentation, and readiness for joint implementation.",
+    "status": "completed"
+  },
+  {
+    "title": "Bukhara Energy Digitalization Project 234",
+    "category": "Energy",
+    "budget": "2020000.00",
+    "duration_months": 21,
+    "region": "Bukhara",
+    "description": "Bukhara Energy Digitalization Project 234 is designed to strengthen regional industrial cooperation, improve productivity, and connect enterprises with reliable partners.",
+    "requirements": "Participants should provide experience in energy, operational capacity, transparent documentation, and readiness for joint implementation.",
+    "status": "open"
+  },
+  {
+    "title": "Andijan Manufacturing Supply Chain Project 235",
+    "category": "Manufacturing",
+    "budget": "1840000.00",
+    "duration_months": 41,
+    "region": "Andijan",
+    "description": "Andijan Manufacturing Supply Chain Project 235 is designed to strengthen regional industrial cooperation, improve productivity, and connect enterprises with reliable partners.",
+    "requirements": "Participants should provide experience in manufacturing, operational capacity, transparent documentation, and readiness for joint implementation.",
+    "status": "in_progress"
+  },
+  {
+    "title": "Namangan Agriculture Automation Project 236",
+    "category": "Agriculture",
+    "budget": "1920000.00",
+    "duration_months": 16,
+    "region": "Namangan",
+    "description": "Namangan Agriculture Automation Project 236 is designed to strengthen regional industrial cooperation, improve productivity, and connect enterprises with reliable partners.",
+    "requirements": "Participants should provide experience in agriculture, operational capacity, transparent documentation, and readiness for joint implementation.",
+    "status": "completed"
+  },
+  {
+    "title": "Fergana Logistics Export Development Project 237",
+    "category": "Logistics",
+    "budget": "2055000.00",
+    "duration_months": 39,
+    "region": "Fergana",
+    "description": "Fergana Logistics Export Development Project 237 is designed to strengthen regional industrial cooperation, improve productivity, and connect enterprises with reliable partners.",
+    "requirements": "Participants should provide experience in logistics, operational capacity, transparent documentation, and readiness for joint implementation.",
+    "status": "open"
+  },
+  {
+    "title": "Navoi IT Modernization Project 238",
+    "category": "IT",
+    "budget": "1740000.00",
+    "duration_months": 48,
+    "region": "Navoi",
+    "description": "Navoi IT Modernization Project 238 is designed to strengthen regional industrial cooperation, improve productivity, and connect enterprises with reliable partners.",
+    "requirements": "Participants should provide experience in it, operational capacity, transparent documentation, and readiness for joint implementation.",
+    "status": "in_progress"
+  },
+  {
+    "title": "Khorezm Energy Cooperation Project 239",
+    "category": "Energy",
+    "budget": "1535000.00",
+    "duration_months": 17,
+    "region": "Khorezm",
+    "description": "Khorezm Energy Cooperation Project 239 is designed to strengthen regional industrial cooperation, improve productivity, and connect enterprises with reliable partners.",
+    "requirements": "Participants should provide experience in energy, operational capacity, transparent documentation, and readiness for joint implementation.",
+    "status": "completed"
+  },
+  {
+    "title": "Kashkadarya Manufacturing Expansion Project 240",
+    "category": "Manufacturing",
+    "budget": "1030000.00",
+    "duration_months": 43,
+    "region": "Kashkadarya",
+    "description": "Kashkadarya Manufacturing Expansion Project 240 is designed to strengthen regional industrial cooperation, improve productivity, and connect enterprises with reliable partners.",
+    "requirements": "Participants should provide experience in manufacturing, operational capacity, transparent documentation, and readiness for joint implementation.",
+    "status": "open"
+  },
+  {
+    "title": "Surkhandarya Agriculture Digitalization Project 241",
+    "category": "Agriculture",
+    "budget": "595000.00",
+    "duration_months": 45,
+    "region": "Surkhandarya",
+    "description": "Surkhandarya Agriculture Digitalization Project 241 is designed to strengthen regional industrial cooperation, improve productivity, and connect enterprises with reliable partners.",
+    "requirements": "Participants should provide experience in agriculture, operational capacity, transparent documentation, and readiness for joint implementation.",
+    "status": "in_progress"
+  },
+  {
+    "title": "Jizzakh Logistics Supply Chain Project 242",
+    "category": "Logistics",
+    "budget": "1265000.00",
+    "duration_months": 9,
+    "region": "Jizzakh",
+    "description": "Jizzakh Logistics Supply Chain Project 242 is designed to strengthen regional industrial cooperation, improve productivity, and connect enterprises with reliable partners.",
+    "requirements": "Participants should provide experience in logistics, operational capacity, transparent documentation, and readiness for joint implementation.",
+    "status": "completed"
+  },
+  {
+    "title": "Syrdarya IT Automation Project 243",
+    "category": "IT",
+    "budget": "1715000.00",
+    "duration_months": 7,
+    "region": "Syrdarya",
+    "description": "Syrdarya IT Automation Project 243 is designed to strengthen regional industrial cooperation, improve productivity, and connect enterprises with reliable partners.",
+    "requirements": "Participants should provide experience in it, operational capacity, transparent documentation, and readiness for joint implementation.",
+    "status": "open"
+  },
+  {
+    "title": "Karakalpakstan Energy Export Development Project 244",
+    "category": "Energy",
+    "budget": "2170000.00",
+    "duration_months": 26,
+    "region": "Karakalpakstan",
+    "description": "Karakalpakstan Energy Export Development Project 244 is designed to strengthen regional industrial cooperation, improve productivity, and connect enterprises with reliable partners.",
+    "requirements": "Participants should provide experience in energy, operational capacity, transparent documentation, and readiness for joint implementation.",
+    "status": "in_progress"
+  },
+  {
+    "title": "Tashkent Manufacturing Modernization Project 245",
+    "category": "Manufacturing",
+    "budget": "330000.00",
+    "duration_months": 14,
+    "region": "Tashkent",
+    "description": "Tashkent Manufacturing Modernization Project 245 is designed to strengthen regional industrial cooperation, improve productivity, and connect enterprises with reliable partners.",
+    "requirements": "Participants should provide experience in manufacturing, operational capacity, transparent documentation, and readiness for joint implementation.",
+    "status": "completed"
+  },
+  {
+    "title": "Samarkand Agriculture Cooperation Project 246",
+    "category": "Agriculture",
+    "budget": "480000.00",
+    "duration_months": 48,
+    "region": "Samarkand",
+    "description": "Samarkand Agriculture Cooperation Project 246 is designed to strengthen regional industrial cooperation, improve productivity, and connect enterprises with reliable partners.",
+    "requirements": "Participants should provide experience in agriculture, operational capacity, transparent documentation, and readiness for joint implementation.",
+    "status": "open"
+  },
+  {
+    "title": "Bukhara Logistics Expansion Project 247",
+    "category": "Logistics",
+    "budget": "1070000.00",
+    "duration_months": 38,
+    "region": "Bukhara",
+    "description": "Bukhara Logistics Expansion Project 247 is designed to strengthen regional industrial cooperation, improve productivity, and connect enterprises with reliable partners.",
+    "requirements": "Participants should provide experience in logistics, operational capacity, transparent documentation, and readiness for joint implementation.",
+    "status": "in_progress"
+  },
+  {
+    "title": "Andijan IT Digitalization Project 248",
+    "category": "IT",
+    "budget": "2455000.00",
+    "duration_months": 48,
+    "region": "Andijan",
+    "description": "Andijan IT Digitalization Project 248 is designed to strengthen regional industrial cooperation, improve productivity, and connect enterprises with reliable partners.",
+    "requirements": "Participants should provide experience in it, operational capacity, transparent documentation, and readiness for joint implementation.",
+    "status": "completed"
+  },
+  {
+    "title": "Namangan Energy Supply Chain Project 249",
+    "category": "Energy",
+    "budget": "1610000.00",
+    "duration_months": 39,
+    "region": "Namangan",
+    "description": "Namangan Energy Supply Chain Project 249 is designed to strengthen regional industrial cooperation, improve productivity, and connect enterprises with reliable partners.",
+    "requirements": "Participants should provide experience in energy, operational capacity, transparent documentation, and readiness for joint implementation.",
+    "status": "open"
+  },
+  {
+    "title": "Fergana Manufacturing Automation Project 250",
+    "category": "Manufacturing",
+    "budget": "1180000.00",
+    "duration_months": 33,
+    "region": "Fergana",
+    "description": "Fergana Manufacturing Automation Project 250 is designed to strengthen regional industrial cooperation, improve productivity, and connect enterprises with reliable partners.",
+    "requirements": "Participants should provide experience in manufacturing, operational capacity, transparent documentation, and readiness for joint implementation.",
+    "status": "in_progress"
+  },
+  {
+    "title": "Navoi Agriculture Export Development Project 251",
+    "category": "Agriculture",
+    "budget": "1705000.00",
+    "duration_months": 27,
+    "region": "Navoi",
+    "description": "Navoi Agriculture Export Development Project 251 is designed to strengthen regional industrial cooperation, improve productivity, and connect enterprises with reliable partners.",
+    "requirements": "Participants should provide experience in agriculture, operational capacity, transparent documentation, and readiness for joint implementation.",
+    "status": "completed"
+  },
+  {
+    "title": "Khorezm Logistics Modernization Project 252",
+    "category": "Logistics",
+    "budget": "1015000.00",
+    "duration_months": 16,
+    "region": "Khorezm",
+    "description": "Khorezm Logistics Modernization Project 252 is designed to strengthen regional industrial cooperation, improve productivity, and connect enterprises with reliable partners.",
+    "requirements": "Participants should provide experience in logistics, operational capacity, transparent documentation, and readiness for joint implementation.",
+    "status": "open"
+  },
+  {
+    "title": "Kashkadarya IT Cooperation Project 253",
+    "category": "IT",
+    "budget": "1820000.00",
+    "duration_months": 29,
+    "region": "Kashkadarya",
+    "description": "Kashkadarya IT Cooperation Project 253 is designed to strengthen regional industrial cooperation, improve productivity, and connect enterprises with reliable partners.",
+    "requirements": "Participants should provide experience in it, operational capacity, transparent documentation, and readiness for joint implementation.",
+    "status": "in_progress"
+  },
+  {
+    "title": "Surkhandarya Energy Expansion Project 254",
+    "category": "Energy",
+    "budget": "585000.00",
+    "duration_months": 47,
+    "region": "Surkhandarya",
+    "description": "Surkhandarya Energy Expansion Project 254 is designed to strengthen regional industrial cooperation, improve productivity, and connect enterprises with reliable partners.",
+    "requirements": "Participants should provide experience in energy, operational capacity, transparent documentation, and readiness for joint implementation.",
+    "status": "completed"
+  },
+  {
+    "title": "Jizzakh Manufacturing Digitalization Project 255",
+    "category": "Manufacturing",
+    "budget": "2020000.00",
+    "duration_months": 29,
+    "region": "Jizzakh",
+    "description": "Jizzakh Manufacturing Digitalization Project 255 is designed to strengthen regional industrial cooperation, improve productivity, and connect enterprises with reliable partners.",
+    "requirements": "Participants should provide experience in manufacturing, operational capacity, transparent documentation, and readiness for joint implementation.",
+    "status": "open"
+  },
+  {
+    "title": "Syrdarya Agriculture Supply Chain Project 256",
+    "category": "Agriculture",
+    "budget": "2320000.00",
+    "duration_months": 47,
+    "region": "Syrdarya",
+    "description": "Syrdarya Agriculture Supply Chain Project 256 is designed to strengthen regional industrial cooperation, improve productivity, and connect enterprises with reliable partners.",
+    "requirements": "Participants should provide experience in agriculture, operational capacity, transparent documentation, and readiness for joint implementation.",
+    "status": "in_progress"
+  },
+  {
+    "title": "Karakalpakstan Logistics Automation Project 257",
+    "category": "Logistics",
+    "budget": "1820000.00",
+    "duration_months": 47,
+    "region": "Karakalpakstan",
+    "description": "Karakalpakstan Logistics Automation Project 257 is designed to strengthen regional industrial cooperation, improve productivity, and connect enterprises with reliable partners.",
+    "requirements": "Participants should provide experience in logistics, operational capacity, transparent documentation, and readiness for joint implementation.",
+    "status": "completed"
+  },
+  {
+    "title": "Tashkent IT Export Development Project 258",
+    "category": "IT",
+    "budget": "1700000.00",
+    "duration_months": 40,
+    "region": "Tashkent",
+    "description": "Tashkent IT Export Development Project 258 is designed to strengthen regional industrial cooperation, improve productivity, and connect enterprises with reliable partners.",
+    "requirements": "Participants should provide experience in it, operational capacity, transparent documentation, and readiness for joint implementation.",
+    "status": "open"
+  },
+  {
+    "title": "Samarkand Energy Modernization Project 259",
+    "category": "Energy",
+    "budget": "2360000.00",
+    "duration_months": 39,
+    "region": "Samarkand",
+    "description": "Samarkand Energy Modernization Project 259 is designed to strengthen regional industrial cooperation, improve productivity, and connect enterprises with reliable partners.",
+    "requirements": "Participants should provide experience in energy, operational capacity, transparent documentation, and readiness for joint implementation.",
+    "status": "in_progress"
+  },
+  {
+    "title": "Bukhara Manufacturing Cooperation Project 260",
+    "category": "Manufacturing",
+    "budget": "2055000.00",
+    "duration_months": 42,
+    "region": "Bukhara",
+    "description": "Bukhara Manufacturing Cooperation Project 260 is designed to strengthen regional industrial cooperation, improve productivity, and connect enterprises with reliable partners.",
+    "requirements": "Participants should provide experience in manufacturing, operational capacity, transparent documentation, and readiness for joint implementation.",
+    "status": "completed"
+  },
+  {
+    "title": "Andijan Agriculture Expansion Project 261",
+    "category": "Agriculture",
+    "budget": "845000.00",
+    "duration_months": 32,
+    "region": "Andijan",
+    "description": "Andijan Agriculture Expansion Project 261 is designed to strengthen regional industrial cooperation, improve productivity, and connect enterprises with reliable partners.",
+    "requirements": "Participants should provide experience in agriculture, operational capacity, transparent documentation, and readiness for joint implementation.",
+    "status": "open"
+  },
+  {
+    "title": "Namangan Logistics Digitalization Project 262",
+    "category": "Logistics",
+    "budget": "2330000.00",
+    "duration_months": 15,
+    "region": "Namangan",
+    "description": "Namangan Logistics Digitalization Project 262 is designed to strengthen regional industrial cooperation, improve productivity, and connect enterprises with reliable partners.",
+    "requirements": "Participants should provide experience in logistics, operational capacity, transparent documentation, and readiness for joint implementation.",
+    "status": "in_progress"
+  },
+  {
+    "title": "Fergana IT Supply Chain Project 263",
+    "category": "IT",
+    "budget": "1800000.00",
+    "duration_months": 18,
+    "region": "Fergana",
+    "description": "Fergana IT Supply Chain Project 263 is designed to strengthen regional industrial cooperation, improve productivity, and connect enterprises with reliable partners.",
+    "requirements": "Participants should provide experience in it, operational capacity, transparent documentation, and readiness for joint implementation.",
+    "status": "completed"
+  },
+  {
+    "title": "Navoi Energy Automation Project 264",
+    "category": "Energy",
+    "budget": "525000.00",
+    "duration_months": 20,
+    "region": "Navoi",
+    "description": "Navoi Energy Automation Project 264 is designed to strengthen regional industrial cooperation, improve productivity, and connect enterprises with reliable partners.",
+    "requirements": "Participants should provide experience in energy, operational capacity, transparent documentation, and readiness for joint implementation.",
+    "status": "open"
+  },
+  {
+    "title": "Khorezm Manufacturing Export Development Project 265",
+    "category": "Manufacturing",
+    "budget": "810000.00",
+    "duration_months": 36,
+    "region": "Khorezm",
+    "description": "Khorezm Manufacturing Export Development Project 265 is designed to strengthen regional industrial cooperation, improve productivity, and connect enterprises with reliable partners.",
+    "requirements": "Participants should provide experience in manufacturing, operational capacity, transparent documentation, and readiness for joint implementation.",
+    "status": "in_progress"
+  },
+  {
+    "title": "Kashkadarya Agriculture Modernization Project 266",
+    "category": "Agriculture",
+    "budget": "1270000.00",
+    "duration_months": 37,
+    "region": "Kashkadarya",
+    "description": "Kashkadarya Agriculture Modernization Project 266 is designed to strengthen regional industrial cooperation, improve productivity, and connect enterprises with reliable partners.",
+    "requirements": "Participants should provide experience in agriculture, operational capacity, transparent documentation, and readiness for joint implementation.",
+    "status": "completed"
+  },
+  {
+    "title": "Surkhandarya Logistics Cooperation Project 267",
+    "category": "Logistics",
+    "budget": "1610000.00",
+    "duration_months": 18,
+    "region": "Surkhandarya",
+    "description": "Surkhandarya Logistics Cooperation Project 267 is designed to strengthen regional industrial cooperation, improve productivity, and connect enterprises with reliable partners.",
+    "requirements": "Participants should provide experience in logistics, operational capacity, transparent documentation, and readiness for joint implementation.",
+    "status": "open"
+  },
+  {
+    "title": "Jizzakh IT Expansion Project 268",
+    "category": "IT",
+    "budget": "1555000.00",
+    "duration_months": 23,
+    "region": "Jizzakh",
+    "description": "Jizzakh IT Expansion Project 268 is designed to strengthen regional industrial cooperation, improve productivity, and connect enterprises with reliable partners.",
+    "requirements": "Participants should provide experience in it, operational capacity, transparent documentation, and readiness for joint implementation.",
+    "status": "in_progress"
+  },
+  {
+    "title": "Syrdarya Energy Digitalization Project 269",
+    "category": "Energy",
+    "budget": "890000.00",
+    "duration_months": 24,
+    "region": "Syrdarya",
+    "description": "Syrdarya Energy Digitalization Project 269 is designed to strengthen regional industrial cooperation, improve productivity, and connect enterprises with reliable partners.",
+    "requirements": "Participants should provide experience in energy, operational capacity, transparent documentation, and readiness for joint implementation.",
+    "status": "completed"
+  },
+  {
+    "title": "Karakalpakstan Manufacturing Supply Chain Project 270",
+    "category": "Manufacturing",
+    "budget": "495000.00",
+    "duration_months": 44,
+    "region": "Karakalpakstan",
+    "description": "Karakalpakstan Manufacturing Supply Chain Project 270 is designed to strengthen regional industrial cooperation, improve productivity, and connect enterprises with reliable partners.",
+    "requirements": "Participants should provide experience in manufacturing, operational capacity, transparent documentation, and readiness for joint implementation.",
+    "status": "open"
+  },
+  {
+    "title": "Tashkent Agriculture Automation Project 271",
+    "category": "Agriculture",
+    "budget": "140000.00",
+    "duration_months": 8,
+    "region": "Tashkent",
+    "description": "Tashkent Agriculture Automation Project 271 is designed to strengthen regional industrial cooperation, improve productivity, and connect enterprises with reliable partners.",
+    "requirements": "Participants should provide experience in agriculture, operational capacity, transparent documentation, and readiness for joint implementation.",
+    "status": "in_progress"
+  },
+  {
+    "title": "Samarkand Logistics Export Development Project 272",
+    "category": "Logistics",
+    "budget": "2315000.00",
+    "duration_months": 7,
+    "region": "Samarkand",
+    "description": "Samarkand Logistics Export Development Project 272 is designed to strengthen regional industrial cooperation, improve productivity, and connect enterprises with reliable partners.",
+    "requirements": "Participants should provide experience in logistics, operational capacity, transparent documentation, and readiness for joint implementation.",
+    "status": "completed"
+  },
+  {
+    "title": "Bukhara IT Modernization Project 273",
+    "category": "IT",
+    "budget": "1550000.00",
+    "duration_months": 12,
+    "region": "Bukhara",
+    "description": "Bukhara IT Modernization Project 273 is designed to strengthen regional industrial cooperation, improve productivity, and connect enterprises with reliable partners.",
+    "requirements": "Participants should provide experience in it, operational capacity, transparent documentation, and readiness for joint implementation.",
+    "status": "open"
+  },
+  {
+    "title": "Andijan Energy Cooperation Project 274",
+    "category": "Energy",
+    "budget": "1135000.00",
+    "duration_months": 35,
+    "region": "Andijan",
+    "description": "Andijan Energy Cooperation Project 274 is designed to strengthen regional industrial cooperation, improve productivity, and connect enterprises with reliable partners.",
+    "requirements": "Participants should provide experience in energy, operational capacity, transparent documentation, and readiness for joint implementation.",
+    "status": "in_progress"
+  },
+  {
+    "title": "Namangan Manufacturing Expansion Project 275",
+    "category": "Manufacturing",
+    "budget": "255000.00",
+    "duration_months": 9,
+    "region": "Namangan",
+    "description": "Namangan Manufacturing Expansion Project 275 is designed to strengthen regional industrial cooperation, improve productivity, and connect enterprises with reliable partners.",
+    "requirements": "Participants should provide experience in manufacturing, operational capacity, transparent documentation, and readiness for joint implementation.",
+    "status": "completed"
+  },
+  {
+    "title": "Fergana Agriculture Digitalization Project 276",
+    "category": "Agriculture",
+    "budget": "2075000.00",
+    "duration_months": 34,
+    "region": "Fergana",
+    "description": "Fergana Agriculture Digitalization Project 276 is designed to strengthen regional industrial cooperation, improve productivity, and connect enterprises with reliable partners.",
+    "requirements": "Participants should provide experience in agriculture, operational capacity, transparent documentation, and readiness for joint implementation.",
+    "status": "open"
+  },
+  {
+    "title": "Navoi Logistics Supply Chain Project 277",
+    "category": "Logistics",
+    "budget": "980000.00",
+    "duration_months": 28,
+    "region": "Navoi",
+    "description": "Navoi Logistics Supply Chain Project 277 is designed to strengthen regional industrial cooperation, improve productivity, and connect enterprises with reliable partners.",
+    "requirements": "Participants should provide experience in logistics, operational capacity, transparent documentation, and readiness for joint implementation.",
+    "status": "in_progress"
+  },
+  {
+    "title": "Khorezm IT Automation Project 278",
+    "category": "IT",
+    "budget": "1535000.00",
+    "duration_months": 31,
+    "region": "Khorezm",
+    "description": "Khorezm IT Automation Project 278 is designed to strengthen regional industrial cooperation, improve productivity, and connect enterprises with reliable partners.",
+    "requirements": "Participants should provide experience in it, operational capacity, transparent documentation, and readiness for joint implementation.",
+    "status": "completed"
+  },
+  {
+    "title": "Kashkadarya Energy Export Development Project 279",
+    "category": "Energy",
+    "budget": "2040000.00",
+    "duration_months": 23,
+    "region": "Kashkadarya",
+    "description": "Kashkadarya Energy Export Development Project 279 is designed to strengthen regional industrial cooperation, improve productivity, and connect enterprises with reliable partners.",
+    "requirements": "Participants should provide experience in energy, operational capacity, transparent documentation, and readiness for joint implementation.",
+    "status": "open"
+  },
+  {
+    "title": "Surkhandarya Manufacturing Modernization Project 280",
+    "category": "Manufacturing",
+    "budget": "1750000.00",
+    "duration_months": 11,
+    "region": "Surkhandarya",
+    "description": "Surkhandarya Manufacturing Modernization Project 280 is designed to strengthen regional industrial cooperation, improve productivity, and connect enterprises with reliable partners.",
+    "requirements": "Participants should provide experience in manufacturing, operational capacity, transparent documentation, and readiness for joint implementation.",
+    "status": "in_progress"
+  },
+  {
+    "title": "Jizzakh Agriculture Cooperation Project 281",
+    "category": "Agriculture",
+    "budget": "1025000.00",
+    "duration_months": 25,
+    "region": "Jizzakh",
+    "description": "Jizzakh Agriculture Cooperation Project 281 is designed to strengthen regional industrial cooperation, improve productivity, and connect enterprises with reliable partners.",
+    "requirements": "Participants should provide experience in agriculture, operational capacity, transparent documentation, and readiness for joint implementation.",
+    "status": "completed"
+  },
+  {
+    "title": "Syrdarya Logistics Expansion Project 282",
+    "category": "Logistics",
+    "budget": "2260000.00",
+    "duration_months": 43,
+    "region": "Syrdarya",
+    "description": "Syrdarya Logistics Expansion Project 282 is designed to strengthen regional industrial cooperation, improve productivity, and connect enterprises with reliable partners.",
+    "requirements": "Participants should provide experience in logistics, operational capacity, transparent documentation, and readiness for joint implementation.",
+    "status": "open"
+  },
+  {
+    "title": "Karakalpakstan IT Digitalization Project 283",
+    "category": "IT",
+    "budget": "1915000.00",
+    "duration_months": 23,
+    "region": "Karakalpakstan",
+    "description": "Karakalpakstan IT Digitalization Project 283 is designed to strengthen regional industrial cooperation, improve productivity, and connect enterprises with reliable partners.",
+    "requirements": "Participants should provide experience in it, operational capacity, transparent documentation, and readiness for joint implementation.",
+    "status": "in_progress"
+  },
+  {
+    "title": "Tashkent Energy Supply Chain Project 284",
+    "category": "Energy",
+    "budget": "2385000.00",
+    "duration_months": 40,
+    "region": "Tashkent",
+    "description": "Tashkent Energy Supply Chain Project 284 is designed to strengthen regional industrial cooperation, improve productivity, and connect enterprises with reliable partners.",
+    "requirements": "Participants should provide experience in energy, operational capacity, transparent documentation, and readiness for joint implementation.",
+    "status": "completed"
+  },
+  {
+    "title": "Samarkand Manufacturing Automation Project 285",
+    "category": "Manufacturing",
+    "budget": "1785000.00",
+    "duration_months": 23,
+    "region": "Samarkand",
+    "description": "Samarkand Manufacturing Automation Project 285 is designed to strengthen regional industrial cooperation, improve productivity, and connect enterprises with reliable partners.",
+    "requirements": "Participants should provide experience in manufacturing, operational capacity, transparent documentation, and readiness for joint implementation.",
+    "status": "open"
+  },
+  {
+    "title": "Bukhara Agriculture Export Development Project 286",
+    "category": "Agriculture",
+    "budget": "845000.00",
+    "duration_months": 11,
+    "region": "Bukhara",
+    "description": "Bukhara Agriculture Export Development Project 286 is designed to strengthen regional industrial cooperation, improve productivity, and connect enterprises with reliable partners.",
+    "requirements": "Participants should provide experience in agriculture, operational capacity, transparent documentation, and readiness for joint implementation.",
+    "status": "in_progress"
+  },
+  {
+    "title": "Andijan Logistics Modernization Project 287",
+    "category": "Logistics",
+    "budget": "1685000.00",
+    "duration_months": 42,
+    "region": "Andijan",
+    "description": "Andijan Logistics Modernization Project 287 is designed to strengthen regional industrial cooperation, improve productivity, and connect enterprises with reliable partners.",
+    "requirements": "Participants should provide experience in logistics, operational capacity, transparent documentation, and readiness for joint implementation.",
+    "status": "completed"
+  },
+  {
+    "title": "Namangan IT Cooperation Project 288",
+    "category": "IT",
+    "budget": "580000.00",
+    "duration_months": 40,
+    "region": "Namangan",
+    "description": "Namangan IT Cooperation Project 288 is designed to strengthen regional industrial cooperation, improve productivity, and connect enterprises with reliable partners.",
+    "requirements": "Participants should provide experience in it, operational capacity, transparent documentation, and readiness for joint implementation.",
+    "status": "open"
+  },
+  {
+    "title": "Fergana Energy Expansion Project 289",
+    "category": "Energy",
+    "budget": "1350000.00",
+    "duration_months": 39,
+    "region": "Fergana",
+    "description": "Fergana Energy Expansion Project 289 is designed to strengthen regional industrial cooperation, improve productivity, and connect enterprises with reliable partners.",
+    "requirements": "Participants should provide experience in energy, operational capacity, transparent documentation, and readiness for joint implementation.",
+    "status": "in_progress"
+  },
+  {
+    "title": "Navoi Manufacturing Digitalization Project 290",
+    "category": "Manufacturing",
+    "budget": "1665000.00",
+    "duration_months": 26,
+    "region": "Navoi",
+    "description": "Navoi Manufacturing Digitalization Project 290 is designed to strengthen regional industrial cooperation, improve productivity, and connect enterprises with reliable partners.",
+    "requirements": "Participants should provide experience in manufacturing, operational capacity, transparent documentation, and readiness for joint implementation.",
+    "status": "completed"
+  },
+  {
+    "title": "Khorezm Agriculture Supply Chain Project 291",
+    "category": "Agriculture",
+    "budget": "770000.00",
+    "duration_months": 27,
+    "region": "Khorezm",
+    "description": "Khorezm Agriculture Supply Chain Project 291 is designed to strengthen regional industrial cooperation, improve productivity, and connect enterprises with reliable partners.",
+    "requirements": "Participants should provide experience in agriculture, operational capacity, transparent documentation, and readiness for joint implementation.",
+    "status": "open"
+  },
+  {
+    "title": "Kashkadarya Logistics Automation Project 292",
+    "category": "Logistics",
+    "budget": "360000.00",
+    "duration_months": 47,
+    "region": "Kashkadarya",
+    "description": "Kashkadarya Logistics Automation Project 292 is designed to strengthen regional industrial cooperation, improve productivity, and connect enterprises with reliable partners.",
+    "requirements": "Participants should provide experience in logistics, operational capacity, transparent documentation, and readiness for joint implementation.",
+    "status": "in_progress"
+  },
+  {
+    "title": "Surkhandarya IT Export Development Project 293",
+    "category": "IT",
+    "budget": "145000.00",
+    "duration_months": 20,
+    "region": "Surkhandarya",
+    "description": "Surkhandarya IT Export Development Project 293 is designed to strengthen regional industrial cooperation, improve productivity, and connect enterprises with reliable partners.",
+    "requirements": "Participants should provide experience in it, operational capacity, transparent documentation, and readiness for joint implementation.",
+    "status": "completed"
+  },
+  {
+    "title": "Jizzakh Energy Modernization Project 294",
+    "category": "Energy",
+    "budget": "705000.00",
+    "duration_months": 20,
+    "region": "Jizzakh",
+    "description": "Jizzakh Energy Modernization Project 294 is designed to strengthen regional industrial cooperation, improve productivity, and connect enterprises with reliable partners.",
+    "requirements": "Participants should provide experience in energy, operational capacity, transparent documentation, and readiness for joint implementation.",
+    "status": "open"
+  },
+  {
+    "title": "Syrdarya Manufacturing Cooperation Project 295",
+    "category": "Manufacturing",
+    "budget": "925000.00",
+    "duration_months": 29,
+    "region": "Syrdarya",
+    "description": "Syrdarya Manufacturing Cooperation Project 295 is designed to strengthen regional industrial cooperation, improve productivity, and connect enterprises with reliable partners.",
+    "requirements": "Participants should provide experience in manufacturing, operational capacity, transparent documentation, and readiness for joint implementation.",
+    "status": "in_progress"
+  },
+  {
+    "title": "Karakalpakstan Agriculture Expansion Project 296",
+    "category": "Agriculture",
+    "budget": "1330000.00",
+    "duration_months": 24,
+    "region": "Karakalpakstan",
+    "description": "Karakalpakstan Agriculture Expansion Project 296 is designed to strengthen regional industrial cooperation, improve productivity, and connect enterprises with reliable partners.",
+    "requirements": "Participants should provide experience in agriculture, operational capacity, transparent documentation, and readiness for joint implementation.",
+    "status": "completed"
+  },
+  {
+    "title": "Tashkent Logistics Digitalization Project 297",
+    "category": "Logistics",
+    "budget": "1045000.00",
+    "duration_months": 6,
+    "region": "Tashkent",
+    "description": "Tashkent Logistics Digitalization Project 297 is designed to strengthen regional industrial cooperation, improve productivity, and connect enterprises with reliable partners.",
+    "requirements": "Participants should provide experience in logistics, operational capacity, transparent documentation, and readiness for joint implementation.",
+    "status": "open"
+  },
+  {
+    "title": "Samarkand IT Supply Chain Project 298",
+    "category": "IT",
+    "budget": "1695000.00",
+    "duration_months": 40,
+    "region": "Samarkand",
+    "description": "Samarkand IT Supply Chain Project 298 is designed to strengthen regional industrial cooperation, improve productivity, and connect enterprises with reliable partners.",
+    "requirements": "Participants should provide experience in it, operational capacity, transparent documentation, and readiness for joint implementation.",
+    "status": "in_progress"
+  },
+  {
+    "title": "Bukhara Energy Automation Project 299",
+    "category": "Energy",
+    "budget": "2240000.00",
+    "duration_months": 25,
+    "region": "Bukhara",
+    "description": "Bukhara Energy Automation Project 299 is designed to strengthen regional industrial cooperation, improve productivity, and connect enterprises with reliable partners.",
+    "requirements": "Participants should provide experience in energy, operational capacity, transparent documentation, and readiness for joint implementation.",
+    "status": "completed"
+  },
+  {
+    "title": "Andijan Manufacturing Export Development Project 300",
+    "category": "Manufacturing",
+    "budget": "835000.00",
+    "duration_months": 19,
+    "region": "Andijan",
+    "description": "Andijan Manufacturing Export Development Project 300 is designed to strengthen regional industrial cooperation, improve productivity, and connect enterprises with reliable partners.",
+    "requirements": "Participants should provide experience in manufacturing, operational capacity, transparent documentation, and readiness for joint implementation.",
+    "status": "open"
+  }
+]

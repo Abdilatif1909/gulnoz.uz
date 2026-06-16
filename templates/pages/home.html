@@ -1,0 +1,125 @@
+{% extends 'base.html' %}
+
+{% block title %}Hududiy sanoat kooperatsiyasi platformasi{% endblock %}
+{% block meta_description %}Hududiy sanoat korxonalari, investorlar, loyihalar va aqlli ishlab chiqarish tashabbuslari uchun raqamli hamkorlik platformasi.{% endblock %}
+{% block og_title %}Hududiy sanoat kooperatsiyasi platformasi{% endblock %}
+{% block og_description %}Korxonalar, hamkorlik loyihalari, investitsiya imkoniyatlari va hududiy sanoat statistikasini ko'ring.{% endblock %}
+
+{% block content %}
+<section class="hero-gradient text-white py-5">
+    <div class="container py-5">
+        <div class="row align-items-center g-5">
+            <div class="col-lg-8">
+                <span class="badge text-bg-light text-primary mb-3">Hududiy raqamlashtirish portali</span>
+                <h1 class="display-4 fw-semibold mb-3">Hududiy sanoat kooperatsiyasi platformasi</h1>
+                <p class="lead text-white-75 mb-4">Hududiy sanoat korxonalari o'rtasidagi hamkorlik uchun raqamli platforma.</p>
+                <div class="d-flex flex-wrap gap-2">
+                    <a href="{% url 'companies:list' %}" class="btn btn-light btn-lg">Korxonalarni ko'rish</a>
+                    <a href="{% url 'projects:list' %}" class="btn btn-outline-light btn-lg">Loyihalarni ko'rish</a>
+                    <a href="{% url 'dashboard:index' %}" class="btn btn-outline-light btn-lg">Tahliliy panel</a>
+                </div>
+            </div>
+            <div class="col-lg-4">
+                <div class="bg-white bg-opacity-10 rounded-3 p-4 border border-light border-opacity-25">
+                    <div class="row g-3">
+                        <div class="col-6">
+                            <div class="text-white-50 small">Korxonalar</div>
+                            <div class="display-6 fw-semibold" data-counter-target="{{ total_companies }}">0</div>
+                        </div>
+                        <div class="col-6">
+                            <div class="text-white-50 small">Loyihalar</div>
+                            <div class="display-6 fw-semibold" data-counter-target="{{ total_projects }}">0</div>
+                        </div>
+                        <div class="col-12">
+                            <div class="text-white-50 small">Investitsiya imkoniyatlari</div>
+                            <div class="display-6 fw-semibold" data-counter-target="{{ total_investments }}">0</div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+
+<section class="container py-5">
+    <div class="text-center mb-4">
+        <h2 class="h1 fw-semibold">Platforma afzalliklari</h2>
+        <p class="text-muted">Sanoat kooperatsiyasi va hududiy iqtisodiy o'sish uchun integratsiyalashgan vositalar.</p>
+    </div>
+    <div class="row g-4">
+        <div class="col-md-6 col-xl-4"><div class="card border-0 shadow-sm h-100 counter-card"><div class="card-body"><i class="bi bi-diagram-3 fs-2 text-primary"></i><h3 class="h5 mt-3">Raqamli hamkorlik</h3><p class="text-muted mb-0">Korxonalar, hamkorlar va sanoat imkoniyatlarini yagona onlayn platformada birlashtiradi.</p></div></div></div>
+        <div class="col-md-6 col-xl-4"><div class="card border-0 shadow-sm h-100 counter-card"><div class="card-body"><i class="bi bi-cash-coin fs-2 text-success"></i><h3 class="h5 mt-3">Investitsiya jalb qilish</h3><p class="text-muted mb-0">Ustuvor hududiy sektorlardagi investitsiyaga tayyor imkoniyatlarni e'lon qilish va baholash.</p></div></div></div>
+        <div class="col-md-6 col-xl-4"><div class="card border-0 shadow-sm h-100 counter-card"><div class="card-body"><i class="bi bi-geo-alt fs-2 text-danger"></i><h3 class="h5 mt-3">Hududiy rivojlanish</h3><p class="text-muted mb-0">Shaffof loyiha va korxona ma'lumotlari orqali mutanosib hududiy o'sishni qo'llab-quvvatlaydi.</p></div></div></div>
+        <div class="col-md-6 col-xl-4"><div class="card border-0 shadow-sm h-100 counter-card"><div class="card-body"><i class="bi bi-buildings fs-2 text-warning"></i><h3 class="h5 mt-3">Sanoat integratsiyasi</h3><p class="text-muted mb-0">Ishlab chiqaruvchilar, logistika xizmatlari, texnologiya kompaniyalari va investorlarni birlashtiradi.</p></div></div></div>
+        <div class="col-md-6 col-xl-4"><div class="card border-0 shadow-sm h-100 counter-card"><div class="card-body"><i class="bi bi-bar-chart-line fs-2 text-info"></i><h3 class="h5 mt-3">Ma'lumotlar tahlili</h3><p class="text-muted mb-0">Faollik, sektorlar, hududlar va o'sishni tushunish uchun dashboard va hisobotlardan foydalaning.</p></div></div></div>
+        <div class="col-md-6 col-xl-4"><div class="card border-0 shadow-sm h-100 counter-card"><div class="card-body"><i class="bi bi-cpu fs-2 text-secondary"></i><h3 class="h5 mt-3">Aqlli boshqaruv</h3><p class="text-muted mb-0">Tuzilgan raqamli yozuvlar va operatsion ko'rinuvchanlik orqali qaror qabul qilishni yaxshilaydi.</p></div></div></div>
+    </div>
+</section>
+
+<section class="bg-white py-5">
+    <div class="container">
+        <div class="d-flex justify-content-between align-items-center mb-4">
+            <h2 class="h1 fw-semibold mb-0">So'nggi loyihalar</h2>
+            <a href="{% url 'projects:list' %}" class="btn btn-outline-primary">Barcha loyihalar</a>
+        </div>
+        <div class="row g-4">
+            {% for project in latest_projects %}
+                <div class="col-md-4">
+                    <div class="card border-0 shadow-sm h-100"><div class="card-body"><span class="badge text-bg-light border mb-2">{{ project.category }}</span><h3 class="h5"><a href="{% url 'projects:detail' project.pk %}" class="text-decoration-none">{{ project.title }}</a></h3><p class="text-muted small">{{ project.company.name }} - {{ project.region }}</p><p class="mb-0">{{ project.description|truncatewords:18 }}</p></div></div>
+                </div>
+            {% endfor %}
+        </div>
+    </div>
+</section>
+
+<section class="container py-5">
+    <div class="d-flex justify-content-between align-items-center mb-4">
+        <h2 class="h1 fw-semibold mb-0">So'nggi investitsiyalar</h2>
+        <a href="{% url 'investments:list' %}" class="btn btn-outline-primary">Barcha investitsiyalar</a>
+    </div>
+    <div class="row g-4">
+        {% for investment in latest_investments %}
+            <div class="col-md-4">
+                <div class="card border-0 shadow-sm h-100"><div class="card-body"><span class="badge text-bg-warning mb-2">{{ investment.expected_roi|floatformat:2 }}% ROI</span><h3 class="h5"><a href="{% url 'investments:detail' investment.pk %}" class="text-decoration-none">{{ investment.title }}</a></h3><p class="text-muted small">{{ investment.sector }} - {{ investment.region }}</p><p class="mb-0">${{ investment.required_amount|floatformat:2 }} talab qilinadi</p></div></div>
+            </div>
+        {% endfor %}
+    </div>
+</section>
+
+<section class="bg-white py-5">
+    <div class="container">
+        <div class="d-flex justify-content-between align-items-center mb-4">
+            <h2 class="h1 fw-semibold mb-0">So'nggi yangiliklar</h2>
+            <a href="{% url 'news:list' %}" class="btn btn-outline-primary">Barcha yangiliklar</a>
+        </div>
+        <div class="row g-4">
+            {% for article in latest_news %}
+                <div class="col-md-4">
+                    <article class="card border-0 shadow-sm h-100"><div class="card-body"><div class="small text-muted mb-2">{{ article.created_at|date:"F j, Y" }}</div><h3 class="h5"><a href="{% url 'news:detail' article.slug %}" class="text-decoration-none">{{ article.title }}</a></h3><p class="text-muted mb-0">{{ article.short_description|truncatewords:18 }}</p></div></article>
+                </div>
+            {% endfor %}
+        </div>
+    </div>
+</section>
+
+<section class="container py-5">
+    <div class="text-center mb-4">
+        <h2 class="h1 fw-semibold">Hududiy statistika</h2>
+        <p class="text-muted">Platformadagi O'zbekiston hududlari faolligining vizual ko'rinishi.</p>
+    </div>
+    <div class="row g-4">
+        {% for region in regional_stats %}
+            <div class="col-sm-6 col-lg-3">
+                <div class="card border-0 shadow-sm h-100">
+                    <div class="card-body">
+                        <div class="d-flex align-items-center gap-2 mb-3"><i class="bi bi-map text-primary fs-4"></i><h3 class="h5 mb-0">{{ region.region }}</h3></div>
+                        <div class="d-flex justify-content-between border-bottom py-2"><span>Korxonalar</span><span class="badge text-bg-primary">{{ region.companies_count }}</span></div>
+                        <div class="d-flex justify-content-between border-bottom py-2"><span>Loyihalar</span><span class="badge text-bg-success">{{ region.projects_count }}</span></div>
+                        <div class="d-flex justify-content-between py-2"><span>Investitsiyalar</span><span class="badge text-bg-warning">{{ region.investments_count }}</span></div>
+                    </div>
+                </div>
+            </div>
+        {% endfor %}
+    </div>
+</section>
+{% endblock %}

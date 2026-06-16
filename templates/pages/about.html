@@ -1,0 +1,63 @@
+{% extends 'base.html' %}
+{% load static %}
+
+{% block title %}Platforma haqida | Hududiy kooperatsiya{% endblock %}
+
+{% block content %}
+<section class="container">
+    <div class="row g-4">
+        <div class="col-lg-8">
+            <h1 class="h2 fw-semibold mb-3">Platforma haqida</h1>
+            <p class="text-muted">
+                Ushbu platforma hududiy raqamlashtirish sharoitida sanoat korxonalari o'rtasidagi hamkorlikni qo'llab-quvvatlash uchun yaratilgan.
+            </p>
+        </div>
+        <div class="col-lg-4">
+            <img
+                src="{% static 'images/author.jpg' %}"
+                class="img-fluid rounded shadow-sm w-100"
+                alt="QULDOSHEVA GULNOZ NORCHAYEVNA"
+            >
+        </div>
+        <div class="col-lg-8">
+            <div class="card border-0 shadow-sm">
+                <div class="card-body p-4">
+                    <h2 class="h4 fw-semibold mb-3">Muallif haqida</h2>
+                    <p class="text-muted mb-4">
+                        Mintaqani raqamlashtirish sharoitida sanoat tuzilmalari kooperatsiyasi platformasini ishlab chiqish mavzusidagi loyiha muallifi.
+                    </p>
+                    <dl class="row mb-0">
+                        <dt class="col-sm-4">Muallif</dt>
+                        <dd class="col-sm-8">QULDOSHEVA GULNOZ NORCHAYEVNA</dd>
+
+                        <dt class="col-sm-4">Ta'lim muassasasi</dt>
+                        <dd class="col-sm-8">Axborot texnologiyalari menejment universiteti magistranti</dd>
+
+                        <dt class="col-sm-4">Yo'nalish</dt>
+                        <dd class="col-sm-8">70610301 - Kompyuter injiniringi</dd>
+
+                        <dt class="col-sm-4">Kafedra</dt>
+                        <dd class="col-sm-8">Axborot texnologiyalari kafedrasi</dd>
+
+                        <dt class="col-sm-4">Ilmiy rahbar</dt>
+                        <dd class="col-sm-8">A.B.Rustamov</dd>
+
+                        <dt class="col-sm-4">Mavzu</dt>
+                        <dd class="col-sm-8">Mintaqani raqamlashtirish sharoitida sanoat tuzilmalari kooperatsiyasi platformasini ishlab chiqish</dd>
+
+                        <dt class="col-sm-4">Telegram</dt>
+                        <dd class="col-sm-8">
+                            <a href="https://t.me/og4941" target="_blank" rel="noopener">@og4941</a>
+                        </dd>
+
+                        <dt class="col-sm-4">Telefon</dt>
+                        <dd class="col-sm-8 mb-0">
+                            <a href="tel:+998914564941">+998 91 456 49 41</a>
+                        </dd>
+                    </dl>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+{% endblock %}

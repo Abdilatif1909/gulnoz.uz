@@ -1,0 +1,33 @@
+{% extends 'base.html' %}
+
+{% block title %}Mening panelim | Hududiy kooperatsiya{% endblock %}
+
+{% block content %}
+<section class="container">
+    <div class="mb-4">
+        <h1 class="h2 fw-semibold mb-1">Mening panelim</h1>
+        <p class="text-muted mb-0">Foydalanuvchi: <strong>{{ user.username }}</strong>. Rol: <strong>{{ role }}</strong></p>
+    </div>
+
+    <div class="row g-4">
+        {% if role == 'COMPANY' %}
+            <div class="col-md-6">
+                <div class="card border-0 shadow-sm"><div class="card-body"><div class="text-muted small">Mening korxonalarim</div><div class="display-6 fw-semibold">{{ owned_companies_count }}</div></div></div>
+            </div>
+            <div class="col-md-6">
+                <div class="card border-0 shadow-sm"><div class="card-body"><div class="text-muted small">Mening loyihalarim</div><div class="display-6 fw-semibold">{{ owned_projects_count }}</div></div></div>
+            </div>
+        {% elif role == 'INVESTOR' %}
+            <div class="col-md-6">
+                <div class="card border-0 shadow-sm"><div class="card-body"><div class="text-muted small">Yuborilgan investitsiya arizalari</div><div class="display-6 fw-semibold">{{ submitted_investor_applications_count }}</div></div></div>
+            </div>
+        {% elif role == 'ADMIN' %}
+            <div class="col-md-4"><div class="card border-0 shadow-sm"><div class="card-body"><div class="text-muted small">Korxonalar</div><div class="display-6 fw-semibold">{{ total_companies }}</div></div></div></div>
+            <div class="col-md-4"><div class="card border-0 shadow-sm"><div class="card-body"><div class="text-muted small">Loyihalar</div><div class="display-6 fw-semibold">{{ total_projects }}</div></div></div></div>
+            <div class="col-md-4"><div class="card border-0 shadow-sm"><div class="card-body"><div class="text-muted small">Investitsiyalar</div><div class="display-6 fw-semibold">{{ total_investments }}</div></div></div></div>
+            <div class="col-md-6"><div class="card border-0 shadow-sm"><div class="card-body"><div class="text-muted small">Hamkorlik arizalari</div><div class="display-6 fw-semibold">{{ total_partnership_applications }}</div></div></div></div>
+            <div class="col-md-6"><div class="card border-0 shadow-sm"><div class="card-body"><div class="text-muted small">Investor arizalari</div><div class="display-6 fw-semibold">{{ total_investor_applications }}</div></div></div></div>
+        {% endif %}
+    </div>
+</section>
+{% endblock %}

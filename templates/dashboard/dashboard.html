@@ -1,0 +1,212 @@
+{% extends 'base.html' %}
+
+{% block title %}Boshqaruv paneli | Hududiy kooperatsiya{% endblock %}
+
+{% block content %}
+<section class="container">
+    <div class="d-flex flex-column flex-md-row justify-content-between align-items-md-center gap-3 mb-4">
+        <div>
+            <h1 class="h2 fw-semibold mb-1">Boshqaruv paneli</h1>
+            <p class="text-muted mb-0">Hududiy kooperatsiya platformasi statistikasi va taqsimotlari.</p>
+        </div>
+        <a href="{% url 'core:system_report_pdf' %}" class="btn btn-outline-primary">PDF hisobotni yuklab olish</a>
+    </div>
+
+    <div class="row g-4 mb-5">
+        <div class="col-sm-6 col-xl">
+            <div class="card border-0 shadow-sm h-100">
+                <div class="card-body">
+                    <div class="text-muted small">Jami korxonalar</div>
+                    <div class="h2 fw-semibold mb-0">{{ total_companies }}</div>
+                </div>
+            </div>
+        </div>
+        <div class="col-sm-6 col-xl">
+            <div class="card border-0 shadow-sm h-100">
+                <div class="card-body">
+                    <div class="text-muted small">Jami loyihalar</div>
+                    <div class="h2 fw-semibold mb-0">{{ total_projects }}</div>
+                </div>
+            </div>
+        </div>
+        <div class="col-sm-6 col-xl">
+            <div class="card border-0 shadow-sm h-100">
+                <div class="card-body">
+                    <div class="text-muted small">Jami investitsiyalar</div>
+                    <div class="h2 fw-semibold mb-0">{{ total_investments }}</div>
+                </div>
+            </div>
+        </div>
+        <div class="col-sm-6 col-xl">
+            <div class="card border-0 shadow-sm h-100">
+                <div class="card-body">
+                    <div class="text-muted small">Hamkorlik arizalari</div>
+                    <div class="h2 fw-semibold mb-0">{{ total_partnership_applications }}</div>
+                </div>
+            </div>
+        </div>
+        <div class="col-sm-6 col-xl">
+            <div class="card border-0 shadow-sm h-100">
+                <div class="card-body">
+                    <div class="text-muted small">Investor arizalari</div>
+                    <div class="h2 fw-semibold mb-0">{{ total_investor_applications }}</div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div class="row g-4">
+        <div class="col-xl-6">
+            <div class="card border-0 shadow-sm h-100">
+                <div class="card-header bg-white"><h2 class="h5 mb-0">Korxonalar hududlar bo'yicha</h2></div>
+                <div class="card-body"><canvas id="companiesByRegionChart" height="160"></canvas></div>
+            </div>
+        </div>
+        <div class="col-xl-6">
+            <div class="card border-0 shadow-sm h-100">
+                <div class="card-header bg-white"><h2 class="h5 mb-0">Loyihalar kategoriya bo'yicha</h2></div>
+                <div class="card-body"><canvas id="projectsByCategoryChart" height="160"></canvas></div>
+            </div>
+        </div>
+        <div class="col-xl-6">
+            <div class="card border-0 shadow-sm h-100">
+                <div class="card-header bg-white"><h2 class="h5 mb-0">Investitsiyalar sektor bo'yicha</h2></div>
+                <div class="card-body"><canvas id="investmentsBySectorChart" height="160"></canvas></div>
+            </div>
+        </div>
+        <div class="col-xl-3 col-md-6">
+            <div class="card border-0 shadow-sm h-100">
+                <div class="card-header bg-white"><h2 class="h5 mb-0">Loyiha holati</h2></div>
+                <div class="card-body"><canvas id="projectStatusChart" height="220"></canvas></div>
+            </div>
+        </div>
+        <div class="col-xl-3 col-md-6">
+            <div class="card border-0 shadow-sm h-100">
+                <div class="card-header bg-white"><h2 class="h5 mb-0">Investitsiya holati</h2></div>
+                <div class="card-body"><canvas id="investmentStatusChart" height="220"></canvas></div>
+            </div>
+        </div>
+    </div>
+
+    <div class="row g-4 mt-1">
+        <div class="col-lg-5">
+            <div class="card border-0 shadow-sm h-100">
+                <div class="card-header bg-white"><h2 class="h5 mb-0">So'nggi faolliklar</h2></div>
+                <div class="list-group list-group-flush">
+                    {% for activity in recent_activities %}
+                        <div class="list-group-item">
+                            <div class="fw-semibold">{{ activity.get_action_display }}</div>
+                            <div class="text-muted small">{{ activity.description }}</div>
+                            <div class="text-muted small">{{ activity.created_at|date:"M j, Y H:i" }}</div>
+                        </div>
+                    {% empty %}
+                        <div class="list-group-item text-muted">Hozircha faollik qayd etilmagan.</div>
+                    {% endfor %}
+                </div>
+            </div>
+        </div>
+        <div class="col-lg-4">
+            <div class="card border-0 shadow-sm h-100">
+                <div class="card-header bg-white"><h2 class="h5 mb-0">Yetakchi hududlar</h2></div>
+                <div class="card-body">
+                    {% for region in top_regions %}
+                        <div class="d-flex justify-content-between border-bottom py-2">
+                            <span>{{ region.region }}</span>
+                            <span class="badge text-bg-primary">{{ region.total }}</span>
+                        </div>
+                    {% endfor %}
+                </div>
+            </div>
+        </div>
+        <div class="col-lg-3">
+            <div class="card border-0 shadow-sm h-100">
+                <div class="card-header bg-white"><h2 class="h5 mb-0">Yetakchi sohalar</h2></div>
+                <div class="card-body">
+                    {% for industry in top_industries %}
+                        <div class="d-flex justify-content-between border-bottom py-2">
+                            <span>{{ industry.industry }}</span>
+                            <span class="badge text-bg-success">{{ industry.total }}</span>
+                        </div>
+                    {% endfor %}
+                </div>
+            </div>
+        </div>
+        <div class="col-12">
+            <div class="card border-0 shadow-sm">
+                <div class="card-header bg-white"><h2 class="h5 mb-0">Oylik o'sish statistikasi</h2></div>
+                <div class="table-responsive">
+                    <table class="table mb-0">
+                        <thead><tr><th>Oy</th><th>Yangi loyihalar</th></tr></thead>
+                        <tbody>
+                            {% for item in monthly_growth %}
+                                <tr><td>{{ item.month|date:"F Y" }}</td><td>{{ item.total }}</td></tr>
+                            {% empty %}
+                                <tr><td colspan="2" class="text-muted">O'sish ma'lumotlari mavjud emas.</td></tr>
+                            {% endfor %}
+                        </tbody>
+                    </table>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+
+{{ companies_by_region_json|json_script:"companies-by-region-data" }}
+{{ projects_by_category_json|json_script:"projects-by-category-data" }}
+{{ investments_by_sector_json|json_script:"investments-by-sector-data" }}
+{{ project_status_json|json_script:"project-status-data" }}
+{{ investment_status_json|json_script:"investment-status-data" }}
+
+<script src="https://cdn.jsdelivr.net/npm/chart.js@4.4.7/dist/chart.umd.min.js"></script>
+<script>
+    const parsePayload = (id) => JSON.parse(JSON.parse(document.getElementById(id).textContent));
+    const palette = ['#0d6efd', '#198754', '#ffc107', '#dc3545', '#6f42c1', '#20c997', '#fd7e14', '#0dcaf0', '#6c757d', '#6610f2'];
+
+    const companiesByRegion = parsePayload('companies-by-region-data');
+    const projectsByCategory = parsePayload('projects-by-category-data');
+    const investmentsBySector = parsePayload('investments-by-sector-data');
+    const projectStatus = parsePayload('project-status-data');
+    const investmentStatus = parsePayload('investment-status-data');
+
+    new Chart(document.getElementById('companiesByRegionChart'), {
+        type: 'bar',
+        data: {
+            labels: companiesByRegion.labels,
+            datasets: [{ label: 'Korxonalar', data: companiesByRegion.values, backgroundColor: '#0d6efd' }]
+        },
+        options: { responsive: true, plugins: { legend: { display: false } } }
+    });
+
+    new Chart(document.getElementById('projectsByCategoryChart'), {
+        type: 'pie',
+        data: {
+            labels: projectsByCategory.labels,
+            datasets: [{ data: projectsByCategory.values, backgroundColor: palette }]
+        }
+    });
+
+    new Chart(document.getElementById('investmentsBySectorChart'), {
+        type: 'doughnut',
+        data: {
+            labels: investmentsBySector.labels,
+            datasets: [{ data: investmentsBySector.values, backgroundColor: palette }]
+        }
+    });
+
+    new Chart(document.getElementById('projectStatusChart'), {
+        type: 'pie',
+        data: {
+            labels: projectStatus.labels,
+            datasets: [{ data: projectStatus.values, backgroundColor: ['#198754', '#ffc107', '#6c757d'] }]
+        }
+    });
+
+    new Chart(document.getElementById('investmentStatusChart'), {
+        type: 'pie',
+        data: {
+            labels: investmentStatus.labels,
+            datasets: [{ data: investmentStatus.values, backgroundColor: ['#198754', '#0d6efd', '#6c757d'] }]
+        }
+    });
+</script>
+{% endblock %}

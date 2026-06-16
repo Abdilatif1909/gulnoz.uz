@@ -1,0 +1,12 @@
+{% extends 'base.html' %}
+
+{% block title %}Sahifa topilmadi | Hududiy kooperatsiya{% endblock %}
+
+{% block content %}
+<section class="container text-center py-5">
+    <div class="display-1 fw-semibold text-primary">404</div>
+    <h1 class="h2 fw-semibold mb-3">Sahifa topilmadi</h1>
+    <p class="text-muted mb-4">So'ralgan sahifa topilmadi yoki ko'chirilgan bo'lishi mumkin.</p>
+    <a href="{% url 'home' %}" class="btn btn-primary">Bosh sahifaga qaytish</a>
+</section>
+{% endblock %}

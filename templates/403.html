@@ -1,0 +1,12 @@
+{% extends 'base.html' %}
+
+{% block title %}Ruxsat yo'q | Hududiy kooperatsiya{% endblock %}
+
+{% block content %}
+<section class="container text-center py-5">
+    <div class="display-1 fw-semibold text-danger">403</div>
+    <h1 class="h2 fw-semibold mb-3">Ruxsat yo'q</h1>
+    <p class="text-muted mb-4">Bu sahifaga kirish uchun ruxsatingiz yo'q.</p>
+    <a href="{% url 'home' %}" class="btn btn-primary">Bosh sahifaga qaytish</a>
+</section>
+{% endblock %}

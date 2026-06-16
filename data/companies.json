@@ -1,0 +1,1002 @@
+[
+  {
+    "name": "Tashkent Energy Systems 001",
+    "region": "Tashkent",
+    "industry": "Energy",
+    "director": "Umida Rakhimov",
+    "phone": "+998 92 906 33 12",
+    "email": "info001@tashkent-energy.uz",
+    "website": "https://www.tashkent-energy-001.uz",
+    "description": "Tashkent Energy Systems 001 is a regional enterprise specializing in energy projects, cooperation partnerships, and digital modernization in Tashkent."
+  },
+  {
+    "name": "Samarkand Textile Industrial Group 002",
+    "region": "Samarkand",
+    "industry": "Textile",
+    "director": "Umida Usmonov",
+    "phone": "+998 85 640 70 45",
+    "email": "info002@samarkand-textile.uz",
+    "website": "https://www.samarkand-textile-002.uz",
+    "description": "Samarkand Textile Industrial Group 002 is a regional enterprise specializing in textile projects, cooperation partnerships, and digital modernization in Samarkand."
+  },
+  {
+    "name": "Bukhara Agriculture Tech Park 003",
+    "region": "Bukhara",
+    "industry": "Agriculture",
+    "director": "Dilnoza Ergashev",
+    "phone": "+998 85 608 68 18",
+    "email": "info003@bukhara-agriculture.uz",
+    "website": "https://www.bukhara-agriculture-003.uz",
+    "description": "Bukhara Agriculture Tech Park 003 is a regional enterprise specializing in agriculture projects, cooperation partnerships, and digital modernization in Bukhara."
+  },
+  {
+    "name": "Andijan Logistics Logistics Hub 004",
+    "region": "Andijan",
+    "industry": "Logistics",
+    "director": "Javlon Tursunov",
+    "phone": "+998 95 524 89 72",
+    "email": "info004@andijan-logistics.uz",
+    "website": "https://www.andijan-logistics-004.uz",
+    "description": "Andijan Logistics Logistics Hub 004 is a regional enterprise specializing in logistics projects, cooperation partnerships, and digital modernization in Andijan."
+  },
+  {
+    "name": "Namangan Chemical Industry Manufacturing 005",
+    "region": "Namangan",
+    "industry": "Chemical Industry",
+    "director": "Rustam Tursunov",
+    "phone": "+998 80 141 17 44",
+    "email": "info005@namangan-chemical-industry.uz",
+    "website": "https://www.namangan-chemical-industry-005.uz",
+    "description": "Namangan Chemical Industry Manufacturing 005 is a regional enterprise specializing in chemical industry projects, cooperation partnerships, and digital modernization in Namangan."
+  },
+  {
+    "name": "Fergana IT Processing 006",
+    "region": "Fergana",
+    "industry": "IT",
+    "director": "Javlon Rakhimova",
+    "phone": "+998 71 314 30 86",
+    "email": "info006@fergana-it.uz",
+    "website": "https://www.fergana-it-006.uz",
+    "description": "Fergana IT Processing 006 is a regional enterprise specializing in it projects, cooperation partnerships, and digital modernization in Fergana."
+  },
+  {
+    "name": "Navoi Construction Solutions 007",
+    "region": "Navoi",
+    "industry": "Construction",
+    "director": "Gulbahor Muminov",
+    "phone": "+998 83 672 99 19",
+    "email": "info007@navoi-construction.uz",
+    "website": "https://www.navoi-construction-007.uz",
+    "description": "Navoi Construction Solutions 007 is a regional enterprise specializing in construction projects, cooperation partnerships, and digital modernization in Navoi."
+  },
+  {
+    "name": "Khorezm Manufacturing Energy 008",
+    "region": "Khorezm",
+    "industry": "Manufacturing",
+    "director": "Aziza Ergashev",
+    "phone": "+998 80 310 63 19",
+    "email": "info008@khorezm-manufacturing.uz",
+    "website": "https://www.khorezm-manufacturing-008.uz",
+    "description": "Khorezm Manufacturing Energy 008 is a regional enterprise specializing in manufacturing projects, cooperation partnerships, and digital modernization in Khorezm."
+  },
+  {
+    "name": "Kashkadarya Energy Materials 009",
+    "region": "Kashkadarya",
+    "industry": "Energy",
+    "director": "Javlon Karimov",
+    "phone": "+998 92 276 85 13",
+    "email": "info009@kashkadarya-energy.uz",
+    "website": "https://www.kashkadarya-energy-009.uz",
+    "description": "Kashkadarya Energy Materials 009 is a regional enterprise specializing in energy projects, cooperation partnerships, and digital modernization in Kashkadarya."
+  },
+  {
+    "name": "Surkhandarya Textile Cluster 010",
+    "region": "Surkhandarya",
+    "industry": "Textile",
+    "director": "Dilshod Ismailova",
+    "phone": "+998 74 868 11 38",
+    "email": "info010@surkhandarya-textile.uz",
+    "website": "https://www.surkhandarya-textile-010.uz",
+    "description": "Surkhandarya Textile Cluster 010 is a regional enterprise specializing in textile projects, cooperation partnerships, and digital modernization in Surkhandarya."
+  },
+  {
+    "name": "Jizzakh Agriculture Systems 011",
+    "region": "Jizzakh",
+    "industry": "Agriculture",
+    "director": "Javlon Yuldasheva",
+    "phone": "+998 82 302 42 32",
+    "email": "info011@jizzakh-agriculture.uz",
+    "website": "https://www.jizzakh-agriculture-011.uz",
+    "description": "Jizzakh Agriculture Systems 011 is a regional enterprise specializing in agriculture projects, cooperation partnerships, and digital modernization in Jizzakh."
+  },
+  {
+    "name": "Syrdarya Logistics Industrial Group 012",
+    "region": "Syrdarya",
+    "industry": "Logistics",
+    "director": "Aziza Abdullayev",
+    "phone": "+998 70 615 51 10",
+    "email": "info012@syrdarya-logistics.uz",
+    "website": "https://www.syrdarya-logistics-012.uz",
+    "description": "Syrdarya Logistics Industrial Group 012 is a regional enterprise specializing in logistics projects, cooperation partnerships, and digital modernization in Syrdarya."
+  },
+  {
+    "name": "Karakalpakstan Chemical Industry Tech Park 013",
+    "region": "Karakalpakstan",
+    "industry": "Chemical Industry",
+    "director": "Farhod Yuldasheva",
+    "phone": "+998 76 503 67 61",
+    "email": "info013@karakalpakstan-chemical-industry.uz",
+    "website": "https://www.karakalpakstan-chemical-industry-013.uz",
+    "description": "Karakalpakstan Chemical Industry Tech Park 013 is a regional enterprise specializing in chemical industry projects, cooperation partnerships, and digital modernization in Karakalpakstan."
+  },
+  {
+    "name": "Tashkent IT Logistics Hub 014",
+    "region": "Tashkent",
+    "industry": "IT",
+    "director": "Gulbahor Usmonov",
+    "phone": "+998 80 478 15 22",
+    "email": "info014@tashkent-it.uz",
+    "website": "https://www.tashkent-it-014.uz",
+    "description": "Tashkent IT Logistics Hub 014 is a regional enterprise specializing in it projects, cooperation partnerships, and digital modernization in Tashkent."
+  },
+  {
+    "name": "Samarkand Construction Manufacturing 015",
+    "region": "Samarkand",
+    "industry": "Construction",
+    "director": "Aziza Abdullayev",
+    "phone": "+998 78 644 33 50",
+    "email": "info015@samarkand-construction.uz",
+    "website": "https://www.samarkand-construction-015.uz",
+    "description": "Samarkand Construction Manufacturing 015 is a regional enterprise specializing in construction projects, cooperation partnerships, and digital modernization in Samarkand."
+  },
+  {
+    "name": "Bukhara Manufacturing Processing 016",
+    "region": "Bukhara",
+    "industry": "Manufacturing",
+    "director": "Rustam Rakhimova",
+    "phone": "+998 77 223 73 95",
+    "email": "info016@bukhara-manufacturing.uz",
+    "website": "https://www.bukhara-manufacturing-016.uz",
+    "description": "Bukhara Manufacturing Processing 016 is a regional enterprise specializing in manufacturing projects, cooperation partnerships, and digital modernization in Bukhara."
+  },
+  {
+    "name": "Andijan Energy Solutions 017",
+    "region": "Andijan",
+    "industry": "Energy",
+    "director": "Dilnoza Sobirov",
+    "phone": "+998 69 566 60 62",
+    "email": "info017@andijan-energy.uz",
+    "website": "https://www.andijan-energy-017.uz",
+    "description": "Andijan Energy Solutions 017 is a regional enterprise specializing in energy projects, cooperation partnerships, and digital modernization in Andijan."
+  },
+  {
+    "name": "Namangan Textile Energy 018",
+    "region": "Namangan",
+    "industry": "Textile",
+    "director": "Sardor Rakhimov",
+    "phone": "+998 91 899 38 63",
+    "email": "info018@namangan-textile.uz",
+    "website": "https://www.namangan-textile-018.uz",
+    "description": "Namangan Textile Energy 018 is a regional enterprise specializing in textile projects, cooperation partnerships, and digital modernization in Namangan."
+  },
+  {
+    "name": "Fergana Agriculture Materials 019",
+    "region": "Fergana",
+    "industry": "Agriculture",
+    "director": "Madina Usmonov",
+    "phone": "+998 90 438 17 73",
+    "email": "info019@fergana-agriculture.uz",
+    "website": "https://www.fergana-agriculture-019.uz",
+    "description": "Fergana Agriculture Materials 019 is a regional enterprise specializing in agriculture projects, cooperation partnerships, and digital modernization in Fergana."
+  },
+  {
+    "name": "Navoi Logistics Cluster 020",
+    "region": "Navoi",
+    "industry": "Logistics",
+    "director": "Dilshod Abdullayev",
+    "phone": "+998 60 996 92 16",
+    "email": "info020@navoi-logistics.uz",
+    "website": "https://www.navoi-logistics-020.uz",
+    "description": "Navoi Logistics Cluster 020 is a regional enterprise specializing in logistics projects, cooperation partnerships, and digital modernization in Navoi."
+  },
+  {
+    "name": "Khorezm Chemical Industry Systems 021",
+    "region": "Khorezm",
+    "industry": "Chemical Industry",
+    "director": "Aziza Abdullayev",
+    "phone": "+998 94 982 72 33",
+    "email": "info021@khorezm-chemical-industry.uz",
+    "website": "https://www.khorezm-chemical-industry-021.uz",
+    "description": "Khorezm Chemical Industry Systems 021 is a regional enterprise specializing in chemical industry projects, cooperation partnerships, and digital modernization in Khorezm."
+  },
+  {
+    "name": "Kashkadarya IT Industrial Group 022",
+    "region": "Kashkadarya",
+    "industry": "IT",
+    "director": "Aziza Tursunov",
+    "phone": "+998 97 241 48 40",
+    "email": "info022@kashkadarya-it.uz",
+    "website": "https://www.kashkadarya-it-022.uz",
+    "description": "Kashkadarya IT Industrial Group 022 is a regional enterprise specializing in it projects, cooperation partnerships, and digital modernization in Kashkadarya."
+  },
+  {
+    "name": "Surkhandarya Construction Tech Park 023",
+    "region": "Surkhandarya",
+    "industry": "Construction",
+    "director": "Oybek Rakhimova",
+    "phone": "+998 78 850 96 22",
+    "email": "info023@surkhandarya-construction.uz",
+    "website": "https://www.surkhandarya-construction-023.uz",
+    "description": "Surkhandarya Construction Tech Park 023 is a regional enterprise specializing in construction projects, cooperation partnerships, and digital modernization in Surkhandarya."
+  },
+  {
+    "name": "Jizzakh Manufacturing Logistics Hub 024",
+    "region": "Jizzakh",
+    "industry": "Manufacturing",
+    "director": "Nodir Rakhimova",
+    "phone": "+998 94 712 39 10",
+    "email": "info024@jizzakh-manufacturing.uz",
+    "website": "https://www.jizzakh-manufacturing-024.uz",
+    "description": "Jizzakh Manufacturing Logistics Hub 024 is a regional enterprise specializing in manufacturing projects, cooperation partnerships, and digital modernization in Jizzakh."
+  },
+  {
+    "name": "Syrdarya Energy Manufacturing 025",
+    "region": "Syrdarya",
+    "industry": "Energy",
+    "director": "Madina Rakhimova",
+    "phone": "+998 96 381 19 16",
+    "email": "info025@syrdarya-energy.uz",
+    "website": "https://www.syrdarya-energy-025.uz",
+    "description": "Syrdarya Energy Manufacturing 025 is a regional enterprise specializing in energy projects, cooperation partnerships, and digital modernization in Syrdarya."
+  },
+  {
+    "name": "Karakalpakstan Textile Processing 026",
+    "region": "Karakalpakstan",
+    "industry": "Textile",
+    "director": "Gulbahor Karimov",
+    "phone": "+998 64 910 89 21",
+    "email": "info026@karakalpakstan-textile.uz",
+    "website": "https://www.karakalpakstan-textile-026.uz",
+    "description": "Karakalpakstan Textile Processing 026 is a regional enterprise specializing in textile projects, cooperation partnerships, and digital modernization in Karakalpakstan."
+  },
+  {
+    "name": "Tashkent Agriculture Solutions 027",
+    "region": "Tashkent",
+    "industry": "Agriculture",
+    "director": "Javlon Sobirov",
+    "phone": "+998 89 681 66 13",
+    "email": "info027@tashkent-agriculture.uz",
+    "website": "https://www.tashkent-agriculture-027.uz",
+    "description": "Tashkent Agriculture Solutions 027 is a regional enterprise specializing in agriculture projects, cooperation partnerships, and digital modernization in Tashkent."
+  },
+  {
+    "name": "Samarkand Logistics Energy 028",
+    "region": "Samarkand",
+    "industry": "Logistics",
+    "director": "Nodir Muminov",
+    "phone": "+998 64 147 84 21",
+    "email": "info028@samarkand-logistics.uz",
+    "website": "https://www.samarkand-logistics-028.uz",
+    "description": "Samarkand Logistics Energy 028 is a regional enterprise specializing in logistics projects, cooperation partnerships, and digital modernization in Samarkand."
+  },
+  {
+    "name": "Bukhara Chemical Industry Materials 029",
+    "region": "Bukhara",
+    "industry": "Chemical Industry",
+    "director": "Rustam Ismailova",
+    "phone": "+998 99 326 59 70",
+    "email": "info029@bukhara-chemical-industry.uz",
+    "website": "https://www.bukhara-chemical-industry-029.uz",
+    "description": "Bukhara Chemical Industry Materials 029 is a regional enterprise specializing in chemical industry projects, cooperation partnerships, and digital modernization in Bukhara."
+  },
+  {
+    "name": "Andijan IT Cluster 030",
+    "region": "Andijan",
+    "industry": "IT",
+    "director": "Madina Karimov",
+    "phone": "+998 82 932 75 84",
+    "email": "info030@andijan-it.uz",
+    "website": "https://www.andijan-it-030.uz",
+    "description": "Andijan IT Cluster 030 is a regional enterprise specializing in it projects, cooperation partnerships, and digital modernization in Andijan."
+  },
+  {
+    "name": "Namangan Construction Systems 031",
+    "region": "Namangan",
+    "industry": "Construction",
+    "director": "Dilshod Abdullayev",
+    "phone": "+998 83 428 44 51",
+    "email": "info031@namangan-construction.uz",
+    "website": "https://www.namangan-construction-031.uz",
+    "description": "Namangan Construction Systems 031 is a regional enterprise specializing in construction projects, cooperation partnerships, and digital modernization in Namangan."
+  },
+  {
+    "name": "Fergana Manufacturing Industrial Group 032",
+    "region": "Fergana",
+    "industry": "Manufacturing",
+    "director": "Dilshod Saidova",
+    "phone": "+998 80 600 56 67",
+    "email": "info032@fergana-manufacturing.uz",
+    "website": "https://www.fergana-manufacturing-032.uz",
+    "description": "Fergana Manufacturing Industrial Group 032 is a regional enterprise specializing in manufacturing projects, cooperation partnerships, and digital modernization in Fergana."
+  },
+  {
+    "name": "Navoi Energy Tech Park 033",
+    "region": "Navoi",
+    "industry": "Energy",
+    "director": "Umida Abdullayev",
+    "phone": "+998 74 344 52 69",
+    "email": "info033@navoi-energy.uz",
+    "website": "https://www.navoi-energy-033.uz",
+    "description": "Navoi Energy Tech Park 033 is a regional enterprise specializing in energy projects, cooperation partnerships, and digital modernization in Navoi."
+  },
+  {
+    "name": "Khorezm Textile Logistics Hub 034",
+    "region": "Khorezm",
+    "industry": "Textile",
+    "director": "Aziza Abdullayev",
+    "phone": "+998 72 567 87 77",
+    "email": "info034@khorezm-textile.uz",
+    "website": "https://www.khorezm-textile-034.uz",
+    "description": "Khorezm Textile Logistics Hub 034 is a regional enterprise specializing in textile projects, cooperation partnerships, and digital modernization in Khorezm."
+  },
+  {
+    "name": "Kashkadarya Agriculture Manufacturing 035",
+    "region": "Kashkadarya",
+    "industry": "Agriculture",
+    "director": "Aziza Karimov",
+    "phone": "+998 70 461 98 52",
+    "email": "info035@kashkadarya-agriculture.uz",
+    "website": "https://www.kashkadarya-agriculture-035.uz",
+    "description": "Kashkadarya Agriculture Manufacturing 035 is a regional enterprise specializing in agriculture projects, cooperation partnerships, and digital modernization in Kashkadarya."
+  },
+  {
+    "name": "Surkhandarya Logistics Processing 036",
+    "region": "Surkhandarya",
+    "industry": "Logistics",
+    "director": "Akmal Rakhimov",
+    "phone": "+998 85 973 16 49",
+    "email": "info036@surkhandarya-logistics.uz",
+    "website": "https://www.surkhandarya-logistics-036.uz",
+    "description": "Surkhandarya Logistics Processing 036 is a regional enterprise specializing in logistics projects, cooperation partnerships, and digital modernization in Surkhandarya."
+  },
+  {
+    "name": "Jizzakh Chemical Industry Solutions 037",
+    "region": "Jizzakh",
+    "industry": "Chemical Industry",
+    "director": "Sardor Yuldasheva",
+    "phone": "+998 79 525 37 22",
+    "email": "info037@jizzakh-chemical-industry.uz",
+    "website": "https://www.jizzakh-chemical-industry-037.uz",
+    "description": "Jizzakh Chemical Industry Solutions 037 is a regional enterprise specializing in chemical industry projects, cooperation partnerships, and digital modernization in Jizzakh."
+  },
+  {
+    "name": "Syrdarya IT Energy 038",
+    "region": "Syrdarya",
+    "industry": "IT",
+    "director": "Dilnoza Saidova",
+    "phone": "+998 98 319 59 44",
+    "email": "info038@syrdarya-it.uz",
+    "website": "https://www.syrdarya-it-038.uz",
+    "description": "Syrdarya IT Energy 038 is a regional enterprise specializing in it projects, cooperation partnerships, and digital modernization in Syrdarya."
+  },
+  {
+    "name": "Karakalpakstan Construction Materials 039",
+    "region": "Karakalpakstan",
+    "industry": "Construction",
+    "director": "Javlon Muminov",
+    "phone": "+998 93 279 32 19",
+    "email": "info039@karakalpakstan-construction.uz",
+    "website": "https://www.karakalpakstan-construction-039.uz",
+    "description": "Karakalpakstan Construction Materials 039 is a regional enterprise specializing in construction projects, cooperation partnerships, and digital modernization in Karakalpakstan."
+  },
+  {
+    "name": "Tashkent Manufacturing Cluster 040",
+    "region": "Tashkent",
+    "industry": "Manufacturing",
+    "director": "Akmal Rakhimova",
+    "phone": "+998 78 610 98 43",
+    "email": "info040@tashkent-manufacturing.uz",
+    "website": "https://www.tashkent-manufacturing-040.uz",
+    "description": "Tashkent Manufacturing Cluster 040 is a regional enterprise specializing in manufacturing projects, cooperation partnerships, and digital modernization in Tashkent."
+  },
+  {
+    "name": "Samarkand Energy Systems 041",
+    "region": "Samarkand",
+    "industry": "Energy",
+    "director": "Oybek Yuldasheva",
+    "phone": "+998 62 779 13 53",
+    "email": "info041@samarkand-energy.uz",
+    "website": "https://www.samarkand-energy-041.uz",
+    "description": "Samarkand Energy Systems 041 is a regional enterprise specializing in energy projects, cooperation partnerships, and digital modernization in Samarkand."
+  },
+  {
+    "name": "Bukhara Textile Industrial Group 042",
+    "region": "Bukhara",
+    "industry": "Textile",
+    "director": "Aziza Ismailova",
+    "phone": "+998 60 117 27 87",
+    "email": "info042@bukhara-textile.uz",
+    "website": "https://www.bukhara-textile-042.uz",
+    "description": "Bukhara Textile Industrial Group 042 is a regional enterprise specializing in textile projects, cooperation partnerships, and digital modernization in Bukhara."
+  },
+  {
+    "name": "Andijan Agriculture Tech Park 043",
+    "region": "Andijan",
+    "industry": "Agriculture",
+    "director": "Akmal Karimov",
+    "phone": "+998 97 796 31 31",
+    "email": "info043@andijan-agriculture.uz",
+    "website": "https://www.andijan-agriculture-043.uz",
+    "description": "Andijan Agriculture Tech Park 043 is a regional enterprise specializing in agriculture projects, cooperation partnerships, and digital modernization in Andijan."
+  },
+  {
+    "name": "Namangan Logistics Logistics Hub 044",
+    "region": "Namangan",
+    "industry": "Logistics",
+    "director": "Nodir Yuldasheva",
+    "phone": "+998 70 300 77 34",
+    "email": "info044@namangan-logistics.uz",
+    "website": "https://www.namangan-logistics-044.uz",
+    "description": "Namangan Logistics Logistics Hub 044 is a regional enterprise specializing in logistics projects, cooperation partnerships, and digital modernization in Namangan."
+  },
+  {
+    "name": "Fergana Chemical Industry Manufacturing 045",
+    "region": "Fergana",
+    "industry": "Chemical Industry",
+    "director": "Zarina Rakhimov",
+    "phone": "+998 64 565 17 58",
+    "email": "info045@fergana-chemical-industry.uz",
+    "website": "https://www.fergana-chemical-industry-045.uz",
+    "description": "Fergana Chemical Industry Manufacturing 045 is a regional enterprise specializing in chemical industry projects, cooperation partnerships, and digital modernization in Fergana."
+  },
+  {
+    "name": "Navoi IT Processing 046",
+    "region": "Navoi",
+    "industry": "IT",
+    "director": "Oybek Sobirov",
+    "phone": "+998 67 947 10 39",
+    "email": "info046@navoi-it.uz",
+    "website": "https://www.navoi-it-046.uz",
+    "description": "Navoi IT Processing 046 is a regional enterprise specializing in it projects, cooperation partnerships, and digital modernization in Navoi."
+  },
+  {
+    "name": "Khorezm Construction Solutions 047",
+    "region": "Khorezm",
+    "industry": "Construction",
+    "director": "Farhod Saidova",
+    "phone": "+998 99 259 82 23",
+    "email": "info047@khorezm-construction.uz",
+    "website": "https://www.khorezm-construction-047.uz",
+    "description": "Khorezm Construction Solutions 047 is a regional enterprise specializing in construction projects, cooperation partnerships, and digital modernization in Khorezm."
+  },
+  {
+    "name": "Kashkadarya Manufacturing Energy 048",
+    "region": "Kashkadarya",
+    "industry": "Manufacturing",
+    "director": "Farhod Rakhimova",
+    "phone": "+998 92 785 85 25",
+    "email": "info048@kashkadarya-manufacturing.uz",
+    "website": "https://www.kashkadarya-manufacturing-048.uz",
+    "description": "Kashkadarya Manufacturing Energy 048 is a regional enterprise specializing in manufacturing projects, cooperation partnerships, and digital modernization in Kashkadarya."
+  },
+  {
+    "name": "Surkhandarya Energy Materials 049",
+    "region": "Surkhandarya",
+    "industry": "Energy",
+    "director": "Aziza Karimov",
+    "phone": "+998 92 198 99 80",
+    "email": "info049@surkhandarya-energy.uz",
+    "website": "https://www.surkhandarya-energy-049.uz",
+    "description": "Surkhandarya Energy Materials 049 is a regional enterprise specializing in energy projects, cooperation partnerships, and digital modernization in Surkhandarya."
+  },
+  {
+    "name": "Jizzakh Textile Cluster 050",
+    "region": "Jizzakh",
+    "industry": "Textile",
+    "director": "Nodir Usmonov",
+    "phone": "+998 89 156 56 60",
+    "email": "info050@jizzakh-textile.uz",
+    "website": "https://www.jizzakh-textile-050.uz",
+    "description": "Jizzakh Textile Cluster 050 is a regional enterprise specializing in textile projects, cooperation partnerships, and digital modernization in Jizzakh."
+  },
+  {
+    "name": "Syrdarya Agriculture Systems 051",
+    "region": "Syrdarya",
+    "industry": "Agriculture",
+    "director": "Madina Muminov",
+    "phone": "+998 67 223 52 82",
+    "email": "info051@syrdarya-agriculture.uz",
+    "website": "https://www.syrdarya-agriculture-051.uz",
+    "description": "Syrdarya Agriculture Systems 051 is a regional enterprise specializing in agriculture projects, cooperation partnerships, and digital modernization in Syrdarya."
+  },
+  {
+    "name": "Karakalpakstan Logistics Industrial Group 052",
+    "region": "Karakalpakstan",
+    "industry": "Logistics",
+    "director": "Zarina Saidova",
+    "phone": "+998 74 363 43 72",
+    "email": "info052@karakalpakstan-logistics.uz",
+    "website": "https://www.karakalpakstan-logistics-052.uz",
+    "description": "Karakalpakstan Logistics Industrial Group 052 is a regional enterprise specializing in logistics projects, cooperation partnerships, and digital modernization in Karakalpakstan."
+  },
+  {
+    "name": "Tashkent Chemical Industry Tech Park 053",
+    "region": "Tashkent",
+    "industry": "Chemical Industry",
+    "director": "Nodir Abdullayev",
+    "phone": "+998 88 988 31 19",
+    "email": "info053@tashkent-chemical-industry.uz",
+    "website": "https://www.tashkent-chemical-industry-053.uz",
+    "description": "Tashkent Chemical Industry Tech Park 053 is a regional enterprise specializing in chemical industry projects, cooperation partnerships, and digital modernization in Tashkent."
+  },
+  {
+    "name": "Samarkand IT Logistics Hub 054",
+    "region": "Samarkand",
+    "industry": "IT",
+    "director": "Dilnoza Ismailova",
+    "phone": "+998 95 357 41 19",
+    "email": "info054@samarkand-it.uz",
+    "website": "https://www.samarkand-it-054.uz",
+    "description": "Samarkand IT Logistics Hub 054 is a regional enterprise specializing in it projects, cooperation partnerships, and digital modernization in Samarkand."
+  },
+  {
+    "name": "Bukhara Construction Manufacturing 055",
+    "region": "Bukhara",
+    "industry": "Construction",
+    "director": "Oybek Muminov",
+    "phone": "+998 63 956 70 46",
+    "email": "info055@bukhara-construction.uz",
+    "website": "https://www.bukhara-construction-055.uz",
+    "description": "Bukhara Construction Manufacturing 055 is a regional enterprise specializing in construction projects, cooperation partnerships, and digital modernization in Bukhara."
+  },
+  {
+    "name": "Andijan Manufacturing Processing 056",
+    "region": "Andijan",
+    "industry": "Manufacturing",
+    "director": "Dilshod Abdullayev",
+    "phone": "+998 60 949 64 17",
+    "email": "info056@andijan-manufacturing.uz",
+    "website": "https://www.andijan-manufacturing-056.uz",
+    "description": "Andijan Manufacturing Processing 056 is a regional enterprise specializing in manufacturing projects, cooperation partnerships, and digital modernization in Andijan."
+  },
+  {
+    "name": "Namangan Energy Solutions 057",
+    "region": "Namangan",
+    "industry": "Energy",
+    "director": "Dilnoza Ismailova",
+    "phone": "+998 95 829 32 83",
+    "email": "info057@namangan-energy.uz",
+    "website": "https://www.namangan-energy-057.uz",
+    "description": "Namangan Energy Solutions 057 is a regional enterprise specializing in energy projects, cooperation partnerships, and digital modernization in Namangan."
+  },
+  {
+    "name": "Fergana Textile Energy 058",
+    "region": "Fergana",
+    "industry": "Textile",
+    "director": "Gulbahor Abdullayev",
+    "phone": "+998 61 335 88 56",
+    "email": "info058@fergana-textile.uz",
+    "website": "https://www.fergana-textile-058.uz",
+    "description": "Fergana Textile Energy 058 is a regional enterprise specializing in textile projects, cooperation partnerships, and digital modernization in Fergana."
+  },
+  {
+    "name": "Navoi Agriculture Materials 059",
+    "region": "Navoi",
+    "industry": "Agriculture",
+    "director": "Sardor Saidova",
+    "phone": "+998 86 863 63 95",
+    "email": "info059@navoi-agriculture.uz",
+    "website": "https://www.navoi-agriculture-059.uz",
+    "description": "Navoi Agriculture Materials 059 is a regional enterprise specializing in agriculture projects, cooperation partnerships, and digital modernization in Navoi."
+  },
+  {
+    "name": "Khorezm Logistics Cluster 060",
+    "region": "Khorezm",
+    "industry": "Logistics",
+    "director": "Dilnoza Abdullayev",
+    "phone": "+998 90 234 56 65",
+    "email": "info060@khorezm-logistics.uz",
+    "website": "https://www.khorezm-logistics-060.uz",
+    "description": "Khorezm Logistics Cluster 060 is a regional enterprise specializing in logistics projects, cooperation partnerships, and digital modernization in Khorezm."
+  },
+  {
+    "name": "Kashkadarya Chemical Industry Systems 061",
+    "region": "Kashkadarya",
+    "industry": "Chemical Industry",
+    "director": "Umida Ismailova",
+    "phone": "+998 76 390 93 48",
+    "email": "info061@kashkadarya-chemical-industry.uz",
+    "website": "https://www.kashkadarya-chemical-industry-061.uz",
+    "description": "Kashkadarya Chemical Industry Systems 061 is a regional enterprise specializing in chemical industry projects, cooperation partnerships, and digital modernization in Kashkadarya."
+  },
+  {
+    "name": "Surkhandarya IT Industrial Group 062",
+    "region": "Surkhandarya",
+    "industry": "IT",
+    "director": "Nodir Muminov",
+    "phone": "+998 67 525 90 32",
+    "email": "info062@surkhandarya-it.uz",
+    "website": "https://www.surkhandarya-it-062.uz",
+    "description": "Surkhandarya IT Industrial Group 062 is a regional enterprise specializing in it projects, cooperation partnerships, and digital modernization in Surkhandarya."
+  },
+  {
+    "name": "Jizzakh Construction Tech Park 063",
+    "region": "Jizzakh",
+    "industry": "Construction",
+    "director": "Umida Ismailova",
+    "phone": "+998 74 845 14 63",
+    "email": "info063@jizzakh-construction.uz",
+    "website": "https://www.jizzakh-construction-063.uz",
+    "description": "Jizzakh Construction Tech Park 063 is a regional enterprise specializing in construction projects, cooperation partnerships, and digital modernization in Jizzakh."
+  },
+  {
+    "name": "Syrdarya Manufacturing Logistics Hub 064",
+    "region": "Syrdarya",
+    "industry": "Manufacturing",
+    "director": "Dilnoza Tursunov",
+    "phone": "+998 64 482 28 84",
+    "email": "info064@syrdarya-manufacturing.uz",
+    "website": "https://www.syrdarya-manufacturing-064.uz",
+    "description": "Syrdarya Manufacturing Logistics Hub 064 is a regional enterprise specializing in manufacturing projects, cooperation partnerships, and digital modernization in Syrdarya."
+  },
+  {
+    "name": "Karakalpakstan Energy Manufacturing 065",
+    "region": "Karakalpakstan",
+    "industry": "Energy",
+    "director": "Akmal Abdullayev",
+    "phone": "+998 61 383 81 12",
+    "email": "info065@karakalpakstan-energy.uz",
+    "website": "https://www.karakalpakstan-energy-065.uz",
+    "description": "Karakalpakstan Energy Manufacturing 065 is a regional enterprise specializing in energy projects, cooperation partnerships, and digital modernization in Karakalpakstan."
+  },
+  {
+    "name": "Tashkent Textile Processing 066",
+    "region": "Tashkent",
+    "industry": "Textile",
+    "director": "Nodir Abdullayev",
+    "phone": "+998 88 744 23 16",
+    "email": "info066@tashkent-textile.uz",
+    "website": "https://www.tashkent-textile-066.uz",
+    "description": "Tashkent Textile Processing 066 is a regional enterprise specializing in textile projects, cooperation partnerships, and digital modernization in Tashkent."
+  },
+  {
+    "name": "Samarkand Agriculture Solutions 067",
+    "region": "Samarkand",
+    "industry": "Agriculture",
+    "director": "Gulbahor Ismailova",
+    "phone": "+998 82 978 96 13",
+    "email": "info067@samarkand-agriculture.uz",
+    "website": "https://www.samarkand-agriculture-067.uz",
+    "description": "Samarkand Agriculture Solutions 067 is a regional enterprise specializing in agriculture projects, cooperation partnerships, and digital modernization in Samarkand."
+  },
+  {
+    "name": "Bukhara Logistics Energy 068",
+    "region": "Bukhara",
+    "industry": "Logistics",
+    "director": "Zarina Muminov",
+    "phone": "+998 73 889 55 43",
+    "email": "info068@bukhara-logistics.uz",
+    "website": "https://www.bukhara-logistics-068.uz",
+    "description": "Bukhara Logistics Energy 068 is a regional enterprise specializing in logistics projects, cooperation partnerships, and digital modernization in Bukhara."
+  },
+  {
+    "name": "Andijan Chemical Industry Materials 069",
+    "region": "Andijan",
+    "industry": "Chemical Industry",
+    "director": "Akmal Rakhimov",
+    "phone": "+998 87 714 28 62",
+    "email": "info069@andijan-chemical-industry.uz",
+    "website": "https://www.andijan-chemical-industry-069.uz",
+    "description": "Andijan Chemical Industry Materials 069 is a regional enterprise specializing in chemical industry projects, cooperation partnerships, and digital modernization in Andijan."
+  },
+  {
+    "name": "Namangan IT Cluster 070",
+    "region": "Namangan",
+    "industry": "IT",
+    "director": "Sardor Ismailova",
+    "phone": "+998 98 791 78 27",
+    "email": "info070@namangan-it.uz",
+    "website": "https://www.namangan-it-070.uz",
+    "description": "Namangan IT Cluster 070 is a regional enterprise specializing in it projects, cooperation partnerships, and digital modernization in Namangan."
+  },
+  {
+    "name": "Fergana Construction Systems 071",
+    "region": "Fergana",
+    "industry": "Construction",
+    "director": "Sardor Ismailova",
+    "phone": "+998 81 692 44 81",
+    "email": "info071@fergana-construction.uz",
+    "website": "https://www.fergana-construction-071.uz",
+    "description": "Fergana Construction Systems 071 is a regional enterprise specializing in construction projects, cooperation partnerships, and digital modernization in Fergana."
+  },
+  {
+    "name": "Navoi Manufacturing Industrial Group 072",
+    "region": "Navoi",
+    "industry": "Manufacturing",
+    "director": "Javlon Rakhimov",
+    "phone": "+998 63 939 39 62",
+    "email": "info072@navoi-manufacturing.uz",
+    "website": "https://www.navoi-manufacturing-072.uz",
+    "description": "Navoi Manufacturing Industrial Group 072 is a regional enterprise specializing in manufacturing projects, cooperation partnerships, and digital modernization in Navoi."
+  },
+  {
+    "name": "Khorezm Energy Tech Park 073",
+    "region": "Khorezm",
+    "industry": "Energy",
+    "director": "Aziza Usmonov",
+    "phone": "+998 93 161 85 55",
+    "email": "info073@khorezm-energy.uz",
+    "website": "https://www.khorezm-energy-073.uz",
+    "description": "Khorezm Energy Tech Park 073 is a regional enterprise specializing in energy projects, cooperation partnerships, and digital modernization in Khorezm."
+  },
+  {
+    "name": "Kashkadarya Textile Logistics Hub 074",
+    "region": "Kashkadarya",
+    "industry": "Textile",
+    "director": "Sardor Saidova",
+    "phone": "+998 93 741 61 12",
+    "email": "info074@kashkadarya-textile.uz",
+    "website": "https://www.kashkadarya-textile-074.uz",
+    "description": "Kashkadarya Textile Logistics Hub 074 is a regional enterprise specializing in textile projects, cooperation partnerships, and digital modernization in Kashkadarya."
+  },
+  {
+    "name": "Surkhandarya Agriculture Manufacturing 075",
+    "region": "Surkhandarya",
+    "industry": "Agriculture",
+    "director": "Rustam Rakhimova",
+    "phone": "+998 82 830 92 50",
+    "email": "info075@surkhandarya-agriculture.uz",
+    "website": "https://www.surkhandarya-agriculture-075.uz",
+    "description": "Surkhandarya Agriculture Manufacturing 075 is a regional enterprise specializing in agriculture projects, cooperation partnerships, and digital modernization in Surkhandarya."
+  },
+  {
+    "name": "Jizzakh Logistics Processing 076",
+    "region": "Jizzakh",
+    "industry": "Logistics",
+    "director": "Umida Ismailova",
+    "phone": "+998 82 532 73 86",
+    "email": "info076@jizzakh-logistics.uz",
+    "website": "https://www.jizzakh-logistics-076.uz",
+    "description": "Jizzakh Logistics Processing 076 is a regional enterprise specializing in logistics projects, cooperation partnerships, and digital modernization in Jizzakh."
+  },
+  {
+    "name": "Syrdarya Chemical Industry Solutions 077",
+    "region": "Syrdarya",
+    "industry": "Chemical Industry",
+    "director": "Akmal Yuldasheva",
+    "phone": "+998 73 944 86 37",
+    "email": "info077@syrdarya-chemical-industry.uz",
+    "website": "https://www.syrdarya-chemical-industry-077.uz",
+    "description": "Syrdarya Chemical Industry Solutions 077 is a regional enterprise specializing in chemical industry projects, cooperation partnerships, and digital modernization in Syrdarya."
+  },
+  {
+    "name": "Karakalpakstan IT Energy 078",
+    "region": "Karakalpakstan",
+    "industry": "IT",
+    "director": "Dilnoza Muminov",
+    "phone": "+998 88 839 75 53",
+    "email": "info078@karakalpakstan-it.uz",
+    "website": "https://www.karakalpakstan-it-078.uz",
+    "description": "Karakalpakstan IT Energy 078 is a regional enterprise specializing in it projects, cooperation partnerships, and digital modernization in Karakalpakstan."
+  },
+  {
+    "name": "Tashkent Construction Materials 079",
+    "region": "Tashkent",
+    "industry": "Construction",
+    "director": "Aziza Ismailova",
+    "phone": "+998 82 374 49 48",
+    "email": "info079@tashkent-construction.uz",
+    "website": "https://www.tashkent-construction-079.uz",
+    "description": "Tashkent Construction Materials 079 is a regional enterprise specializing in construction projects, cooperation partnerships, and digital modernization in Tashkent."
+  },
+  {
+    "name": "Samarkand Manufacturing Cluster 080",
+    "region": "Samarkand",
+    "industry": "Manufacturing",
+    "director": "Sardor Saidova",
+    "phone": "+998 65 699 83 76",
+    "email": "info080@samarkand-manufacturing.uz",
+    "website": "https://www.samarkand-manufacturing-080.uz",
+    "description": "Samarkand Manufacturing Cluster 080 is a regional enterprise specializing in manufacturing projects, cooperation partnerships, and digital modernization in Samarkand."
+  },
+  {
+    "name": "Bukhara Energy Systems 081",
+    "region": "Bukhara",
+    "industry": "Energy",
+    "director": "Oybek Rakhimova",
+    "phone": "+998 96 765 61 57",
+    "email": "info081@bukhara-energy.uz",
+    "website": "https://www.bukhara-energy-081.uz",
+    "description": "Bukhara Energy Systems 081 is a regional enterprise specializing in energy projects, cooperation partnerships, and digital modernization in Bukhara."
+  },
+  {
+    "name": "Andijan Textile Industrial Group 082",
+    "region": "Andijan",
+    "industry": "Textile",
+    "director": "Dilnoza Abdullayev",
+    "phone": "+998 88 144 52 37",
+    "email": "info082@andijan-textile.uz",
+    "website": "https://www.andijan-textile-082.uz",
+    "description": "Andijan Textile Industrial Group 082 is a regional enterprise specializing in textile projects, cooperation partnerships, and digital modernization in Andijan."
+  },
+  {
+    "name": "Namangan Agriculture Tech Park 083",
+    "region": "Namangan",
+    "industry": "Agriculture",
+    "director": "Oybek Karimov",
+    "phone": "+998 83 525 39 72",
+    "email": "info083@namangan-agriculture.uz",
+    "website": "https://www.namangan-agriculture-083.uz",
+    "description": "Namangan Agriculture Tech Park 083 is a regional enterprise specializing in agriculture projects, cooperation partnerships, and digital modernization in Namangan."
+  },
+  {
+    "name": "Fergana Logistics Logistics Hub 084",
+    "region": "Fergana",
+    "industry": "Logistics",
+    "director": "Nodir Abdullayev",
+    "phone": "+998 81 878 12 99",
+    "email": "info084@fergana-logistics.uz",
+    "website": "https://www.fergana-logistics-084.uz",
+    "description": "Fergana Logistics Logistics Hub 084 is a regional enterprise specializing in logistics projects, cooperation partnerships, and digital modernization in Fergana."
+  },
+  {
+    "name": "Navoi Chemical Industry Manufacturing 085",
+    "region": "Navoi",
+    "industry": "Chemical Industry",
+    "director": "Dilshod Ergashev",
+    "phone": "+998 60 914 34 69",
+    "email": "info085@navoi-chemical-industry.uz",
+    "website": "https://www.navoi-chemical-industry-085.uz",
+    "description": "Navoi Chemical Industry Manufacturing 085 is a regional enterprise specializing in chemical industry projects, cooperation partnerships, and digital modernization in Navoi."
+  },
+  {
+    "name": "Khorezm IT Processing 086",
+    "region": "Khorezm",
+    "industry": "IT",
+    "director": "Dilnoza Karimov",
+    "phone": "+998 97 514 98 69",
+    "email": "info086@khorezm-it.uz",
+    "website": "https://www.khorezm-it-086.uz",
+    "description": "Khorezm IT Processing 086 is a regional enterprise specializing in it projects, cooperation partnerships, and digital modernization in Khorezm."
+  },
+  {
+    "name": "Kashkadarya Construction Solutions 087",
+    "region": "Kashkadarya",
+    "industry": "Construction",
+    "director": "Dilnoza Yuldasheva",
+    "phone": "+998 87 446 15 34",
+    "email": "info087@kashkadarya-construction.uz",
+    "website": "https://www.kashkadarya-construction-087.uz",
+    "description": "Kashkadarya Construction Solutions 087 is a regional enterprise specializing in construction projects, cooperation partnerships, and digital modernization in Kashkadarya."
+  },
+  {
+    "name": "Surkhandarya Manufacturing Energy 088",
+    "region": "Surkhandarya",
+    "industry": "Manufacturing",
+    "director": "Aziza Rakhimov",
+    "phone": "+998 74 381 70 92",
+    "email": "info088@surkhandarya-manufacturing.uz",
+    "website": "https://www.surkhandarya-manufacturing-088.uz",
+    "description": "Surkhandarya Manufacturing Energy 088 is a regional enterprise specializing in manufacturing projects, cooperation partnerships, and digital modernization in Surkhandarya."
+  },
+  {
+    "name": "Jizzakh Energy Materials 089",
+    "region": "Jizzakh",
+    "industry": "Energy",
+    "director": "Aziza Rakhimova",
+    "phone": "+998 96 695 77 52",
+    "email": "info089@jizzakh-energy.uz",
+    "website": "https://www.jizzakh-energy-089.uz",
+    "description": "Jizzakh Energy Materials 089 is a regional enterprise specializing in energy projects, cooperation partnerships, and digital modernization in Jizzakh."
+  },
+  {
+    "name": "Syrdarya Textile Cluster 090",
+    "region": "Syrdarya",
+    "industry": "Textile",
+    "director": "Zarina Sobirov",
+    "phone": "+998 64 432 92 72",
+    "email": "info090@syrdarya-textile.uz",
+    "website": "https://www.syrdarya-textile-090.uz",
+    "description": "Syrdarya Textile Cluster 090 is a regional enterprise specializing in textile projects, cooperation partnerships, and digital modernization in Syrdarya."
+  },
+  {
+    "name": "Karakalpakstan Agriculture Systems 091",
+    "region": "Karakalpakstan",
+    "industry": "Agriculture",
+    "director": "Farhod Muminov",
+    "phone": "+998 79 360 52 17",
+    "email": "info091@karakalpakstan-agriculture.uz",
+    "website": "https://www.karakalpakstan-agriculture-091.uz",
+    "description": "Karakalpakstan Agriculture Systems 091 is a regional enterprise specializing in agriculture projects, cooperation partnerships, and digital modernization in Karakalpakstan."
+  },
+  {
+    "name": "Tashkent Logistics Industrial Group 092",
+    "region": "Tashkent",
+    "industry": "Logistics",
+    "director": "Rustam Abdullayev",
+    "phone": "+998 73 206 51 22",
+    "email": "info092@tashkent-logistics.uz",
+    "website": "https://www.tashkent-logistics-092.uz",
+    "description": "Tashkent Logistics Industrial Group 092 is a regional enterprise specializing in logistics projects, cooperation partnerships, and digital modernization in Tashkent."
+  },
+  {
+    "name": "Samarkand Chemical Industry Tech Park 093",
+    "region": "Samarkand",
+    "industry": "Chemical Industry",
+    "director": "Farhod Abdullayev",
+    "phone": "+998 90 912 74 19",
+    "email": "info093@samarkand-chemical-industry.uz",
+    "website": "https://www.samarkand-chemical-industry-093.uz",
+    "description": "Samarkand Chemical Industry Tech Park 093 is a regional enterprise specializing in chemical industry projects, cooperation partnerships, and digital modernization in Samarkand."
+  },
+  {
+    "name": "Bukhara IT Logistics Hub 094",
+    "region": "Bukhara",
+    "industry": "IT",
+    "director": "Nodir Rakhimova",
+    "phone": "+998 73 783 56 32",
+    "email": "info094@bukhara-it.uz",
+    "website": "https://www.bukhara-it-094.uz",
+    "description": "Bukhara IT Logistics Hub 094 is a regional enterprise specializing in it projects, cooperation partnerships, and digital modernization in Bukhara."
+  },
+  {
+    "name": "Andijan Construction Manufacturing 095",
+    "region": "Andijan",
+    "industry": "Construction",
+    "director": "Oybek Yuldasheva",
+    "phone": "+998 64 758 38 71",
+    "email": "info095@andijan-construction.uz",
+    "website": "https://www.andijan-construction-095.uz",
+    "description": "Andijan Construction Manufacturing 095 is a regional enterprise specializing in construction projects, cooperation partnerships, and digital modernization in Andijan."
+  },
+  {
+    "name": "Namangan Manufacturing Processing 096",
+    "region": "Namangan",
+    "industry": "Manufacturing",
+    "director": "Aziza Yuldasheva",
+    "phone": "+998 70 329 25 89",
+    "email": "info096@namangan-manufacturing.uz",
+    "website": "https://www.namangan-manufacturing-096.uz",
+    "description": "Namangan Manufacturing Processing 096 is a regional enterprise specializing in manufacturing projects, cooperation partnerships, and digital modernization in Namangan."
+  },
+  {
+    "name": "Fergana Energy Solutions 097",
+    "region": "Fergana",
+    "industry": "Energy",
+    "director": "Nodir Ergashev",
+    "phone": "+998 93 959 28 72",
+    "email": "info097@fergana-energy.uz",
+    "website": "https://www.fergana-energy-097.uz",
+    "description": "Fergana Energy Solutions 097 is a regional enterprise specializing in energy projects, cooperation partnerships, and digital modernization in Fergana."
+  },
+  {
+    "name": "Navoi Textile Energy 098",
+    "region": "Navoi",
+    "industry": "Textile",
+    "director": "Akmal Rakhimova",
+    "phone": "+998 76 984 19 88",
+    "email": "info098@navoi-textile.uz",
+    "website": "https://www.navoi-textile-098.uz",
+    "description": "Navoi Textile Energy 098 is a regional enterprise specializing in textile projects, cooperation partnerships, and digital modernization in Navoi."
+  },
+  {
+    "name": "Khorezm Agriculture Materials 099",
+    "region": "Khorezm",
+    "industry": "Agriculture",
+    "director": "Aziza Ergashev",
+    "phone": "+998 69 549 78 94",
+    "email": "info099@khorezm-agriculture.uz",
+    "website": "https://www.khorezm-agriculture-099.uz",
+    "description": "Khorezm Agriculture Materials 099 is a regional enterprise specializing in agriculture projects, cooperation partnerships, and digital modernization in Khorezm."
+  },
+  {
+    "name": "Kashkadarya Logistics Cluster 100",
+    "region": "Kashkadarya",
+    "industry": "Logistics",
+    "director": "Javlon Ergashev",
+    "phone": "+998 82 917 95 44",
+    "email": "info100@kashkadarya-logistics.uz",
+    "website": "https://www.kashkadarya-logistics-100.uz",
+    "description": "Kashkadarya Logistics Cluster 100 is a regional enterprise specializing in logistics projects, cooperation partnerships, and digital modernization in Kashkadarya."
+  }
+]

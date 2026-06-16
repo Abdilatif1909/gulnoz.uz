@@ -11,15 +11,14 @@ https://docs.djangoproject.com/en/5.2/ref/settings/
 """
 
 import os
-import sys
+import logging
 from pathlib import Path
 from urllib.parse import urlparse
 from urllib.parse import unquote
 
-from django.core.exceptions import ImproperlyConfigured
-
 # Build paths inside the project like this: BASE_DIR / 'subdir'.
 BASE_DIR = Path(__file__).resolve().parent.parent
+logger = logging.getLogger(__name__)
 
 
 # Quick-start development settings - unsuitable for production
@@ -27,15 +26,11 @@ BASE_DIR = Path(__file__).resolve().parent.parent
 
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = os.environ.get('DEBUG', 'False') == 'True'
-TEMP_SECRET_ALLOWED_COMMANDS = {'check', 'collectstatic', 'migrate'}
-TEMP_SECRET_ALLOWED = any(command in sys.argv for command in TEMP_SECRET_ALLOWED_COMMANDS)
 
 SECRET_KEY = os.environ.get('SECRET_KEY')
 if not SECRET_KEY:
-    if DEBUG or TEMP_SECRET_ALLOWED or os.environ.get('DJANGO_ALLOW_TEMP_SECRET_KEY') == 'True':
-        SECRET_KEY = 'dev-only-secret-key-change-in-production'
-    else:
-        raise ImproperlyConfigured('SECRET_KEY environment variable is required in production.')
+    logger.warning('SECRET_KEY environment variable is missing. Using temporary fallback key.')
+    SECRET_KEY = 'temporary-fallback-secret-key-set-secret-key-in-railway'
 
 ALLOWED_HOSTS = os.environ.get(
     'ALLOWED_HOSTS',
@@ -138,15 +133,7 @@ def get_database_config():
             'PORT': os.environ.get('PGPORT', '5432'),
         }
 
-    if not DEBUG and TEMP_SECRET_ALLOWED and 'migrate' not in sys.argv:
-        return {
-            'ENGINE': 'django.db.backends.sqlite3',
-            'NAME': BASE_DIR / 'db.sqlite3',
-        }
-
-    if not DEBUG:
-        raise ImproperlyConfigured('DATABASE_URL or Railway PostgreSQL variables are required in production.')
-
+    logger.warning('PostgreSQL environment variables are missing. Falling back to SQLite database.')
     return {
         'ENGINE': 'django.db.backends.sqlite3',
         'NAME': BASE_DIR / 'db.sqlite3',

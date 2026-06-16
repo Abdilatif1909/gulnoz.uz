@@ -29,7 +29,7 @@ DEBUG = os.environ.get('DEBUG', 'False') == 'True'
 
 SECRET_KEY = os.environ.get('SECRET_KEY')
 if not SECRET_KEY:
-    if DEBUG:
+    if DEBUG or os.environ.get('DJANGO_ALLOW_TEMP_SECRET_KEY') == 'True':
         SECRET_KEY = 'dev-only-secret-key-change-in-production'
     else:
         raise ImproperlyConfigured('SECRET_KEY environment variable is required in production.')
